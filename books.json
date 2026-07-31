@@ -1,0 +1,874 @@
+{
+  "site": {
+    "name": "AudibleCreditOptimizer",
+    "domain": "audiobookvalue.com",
+    "tag": "yuanyuan07-20",
+    "description": "Find the best value Audible audiobooks.",
+    "affiliateDisclaimer": "As an Amazon Associate we earn from qualifying purchases."
+  },
+  "categories": [
+    {
+      "id": "arts-entertainment",
+      "name": "Arts & Entertainment",
+      "icon": "🎭"
+    },
+    {
+      "id": "biographies-memoirs",
+      "name": "Biographies & Memoirs",
+      "icon": "📖"
+    },
+    {
+      "id": "business",
+      "name": "Business & Careers",
+      "icon": "💼"
+    },
+    {
+      "id": "children",
+      "name": "Children's Audiobooks",
+      "icon": "🧒"
+    },
+    {
+      "id": "classics",
+      "name": "Classics",
+      "icon": "🏛️"
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy & Humor",
+      "icon": "😂"
+    },
+    {
+      "id": "hobbies-home",
+      "name": "Crafts, Hobbies & Home",
+      "icon": "🛠️"
+    },
+    {
+      "id": "education",
+      "name": "Education & Learning",
+      "icon": "🎓"
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "icon": "🐉"
+    },
+    {
+      "id": "fiction",
+      "name": "Fiction & Literature",
+      "icon": "📚"
+    },
+    {
+      "id": "health-wellness",
+      "name": "Health & Wellness",
+      "icon": "🧠"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "icon": "📜"
+    },
+    {
+      "id": "language",
+      "name": "Language Instruction",
+      "icon": "🗣️"
+    },
+    {
+      "id": "lgbtq",
+      "name": "LGBTQ+",
+      "icon": "🌈"
+    },
+    {
+      "id": "medical",
+      "name": "Medical",
+      "icon": "🏥"
+    },
+    {
+      "id": "money-finance",
+      "name": "Money & Finance",
+      "icon": "💰"
+    },
+    {
+      "id": "mystery-thriller",
+      "name": "Mystery, Thriller & Suspense",
+      "icon": "🔍"
+    },
+    {
+      "id": "nonfiction",
+      "name": "Nonfiction",
+      "icon": "📓"
+    },
+    {
+      "id": "parenting-families",
+      "name": "Parenting & Families",
+      "icon": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "politics-social",
+      "name": "Politics & Social Sciences",
+      "icon": "🗳️"
+    },
+    {
+      "id": "religion-spirituality",
+      "name": "Religion & Spirituality",
+      "icon": "🕊️"
+    },
+    {
+      "id": "romance",
+      "name": "Romance",
+      "icon": "💕"
+    },
+    {
+      "id": "science",
+      "name": "Science & Engineering",
+      "icon": "🔬"
+    },
+    {
+      "id": "sci-fi",
+      "name": "Science Fiction",
+      "icon": "👾"
+    },
+    {
+      "id": "self-improvement",
+      "name": "Self-Development",
+      "icon": "🚀"
+    },
+    {
+      "id": "sports-outdoors",
+      "name": "Sports & Outdoors",
+      "icon": "⚽"
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "icon": "💻"
+    },
+    {
+      "id": "teen-young-adult",
+      "name": "Teen & Young Adult",
+      "icon": "🧑"
+    },
+    {
+      "id": "travel",
+      "name": "Travel & Tourism",
+      "icon": "✈️"
+    },
+    {
+      "id": "true-crime",
+      "name": "True Crime",
+      "icon": "🔪"
+    }
+  ],
+  "books": [
+    {
+      "asin": "B08C8XFQMN",
+      "slug": "the-hobbit-tolkien",
+      "title": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "narrator": "Andy Serkis",
+      "coverUrl": "https://m.media-amazon.com/images/I/51yjW++Ko+L._SL500_.jpg",
+      "duration": "11h 25m",
+      "durationMinutes": 685,
+      "rating": 4.8,
+      "ratingCount": 45000,
+      "listPrice": 20.53,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction",
+        "fantasy"
+      ],
+      "tags": [
+        "classic",
+        "top-rated"
+      ],
+      "description": "J.R.R. Tolkien's classic fantasy adventure The Hobbit, narrated by Andy Serkis. Bilbo Baggins is swept into an epic quest to reclaim the dwarves' treasure from the dragon Smaug.",
+      "releaseDate": "2020-09-21",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B08C8XFQMN?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Hobbit by J.R.R. Tolkien is the classic fantasy adventure that started modern fantasy fiction. This Audible edition is narrated by Andy Serkis (Gollum in The Lord of the Rings films), runs about 11 hours 25 minutes, and holds a 4.8-star rating from tens of thousands of listeners.",
+        "q2": "Anyone who loves epic fantasy, world-building, or wants to experience the book behind the movies. It solves the problem of 'what classic should I listen to next' by delivering a timeless adventure that entertains both new fantasy readers and lifelong Tolkien fans.",
+        "q3": "Perfect for evening listening, weekend road trips, or a two-week commute plan. Serkis's immersive performance makes it ideal for uninterrupted sessions, though each chapter also works well in short bursts.",
+        "q4": "Most audiobooks of The Hobbit are good, but Serkis's narration is in a league of its own: he voices every dwarf, goblin, and dragon with theatrical depth. If you loved his Gollum, this is the definitive version.",
+        "q5": "Absolutely. Click the link, start your free 30-day Audible trial, download instantly, and press play. The opening chapter introduces you to Bilbo and the Shire within minutes, no preparation needed."
+      }
+    },
+    {
+      "asin": "B092P12K71",
+      "slug": "a-shadow-in-the-ember-armentrout",
+      "title": "A Shadow in the Ember: Flesh and Fire, Book 1",
+      "author": "Jennifer L. Armentrout",
+      "narrator": "Stina Nielsen",
+      "coverUrl": "https://m.media-amazon.com/images/I/61T0DQW76CL._SL500_.jpg",
+      "duration": "22h 36m",
+      "durationMinutes": 1356,
+      "rating": 4.6,
+      "ratingCount": 32000,
+      "listPrice": 29.63,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fantasy",
+        "romance"
+      ],
+      "tags": [
+        "best-seller",
+        "long-read"
+      ],
+      "description": "A Shadow in the Ember is the first book in Jennifer L. Armentrout's Flesh and Fire series, a dark fantasy romance about a mortal woman bound to the Primal of Death.",
+      "releaseDate": "2021-10-19",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B092P12K71?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "A Shadow in the Ember is the first book in Jennifer L. Armentrout's Flesh and Fire series, a dark fantasy romance. Narrated by Stina Nielsen, this 22+ hour audiobook follows Sera, a mortal woman bound to the Primal of Death, and holds a 4.6-star rating.",
+        "q2": "Fans of romantasy, enemies-to-lovers tension, and complex world-building. It solves the problem of finding a long, immersive series with both steamy romance and real stakes — ideal for listeners who want one credit to cover weeks of listening.",
+        "q3": "Great for long commutes, binge-listening weekends, or anyone who likes a series they can sink into. At over 22 hours, one credit delivers exceptional value and you can continue straight into book two.",
+        "q4": "Unlike many fantasy romances, Armentrout builds a full mythology while keeping the romantic tension central. Nielsen's narration brings the emotional push-and-pull to life, and the Flesh and Fire series connects to the author's popular Blood and Ash universe.",
+        "q5": "Yes. Start your free trial, download, and within the first hour you meet Sera and the Primal — the hook lands fast. The long runtime means you never run out of story before your trial ends."
+      }
+    },
+    {
+      "asin": "B0G61F6RX5",
+      "slug": "a-requiem-for-fallen-stars-wilkes",
+      "title": "A Requiem for Fallen Stars: Cadence of the Fallen, Book 1",
+      "author": "Hazel S. Wilkes",
+      "narrator": "Ellen Quay",
+      "coverUrl": "https://m.media-amazon.com/images/I/514cVHkA84L._SL500_.jpg",
+      "duration": "13h 10m",
+      "durationMinutes": 790,
+      "rating": 4.6,
+      "ratingCount": 8000,
+      "listPrice": 26.38,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fantasy",
+        "sci-fi"
+      ],
+      "tags": [
+        "new-release"
+      ],
+      "description": "A Requiem for Fallen Stars opens the Cadence of the Fallen epic fantasy series by Hazel S. Wilkes, blending political intrigue, magic, and forbidden romance.",
+      "releaseDate": "2026-01-13",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0G61F6RX5?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "A Requiem for Fallen Stars by Hazel S. Wilkes is the first book in the Cadence of the Fallen epic fantasy series. Narrated by Ellen Quay, this 13-hour audiobook blends political intrigue, magic, and forbidden romance, with a 4.6-star rating from early listeners.",
+        "q2": "Fantasy readers looking for a fresh series with strong world-building and character-driven stakes. It solves the problem of finding new epic fantasy beyond the usual bestsellers — a hidden gem with professional production and a compelling cast.",
+        "q3": "Best for evening or weekend listening sessions, or a two-week commute plan. The multi-POV structure rewards focused listening, and 13 hours gives you plenty of story per credit.",
+        "q4": "Wilkes combines epic scope with intimate character work, and Quay's narration gives each character a distinct voice. Starting book one now positions you to follow the series as it grows, like getting in early on a new favorite saga.",
+        "q5": "Absolutely. Start your free trial, download instantly, and the opening chapters set up the conflict and characters quickly. No prior knowledge of the series is needed."
+      }
+    },
+    {
+      "asin": "B0GPQRMFPZ",
+      "slug": "web-of-vows-and-vengeance-ashbrook",
+      "title": "Web of Vows and Vengeance: An Enemies to Lovers Fantasy Romance Novel (The Hirathean Path, Book 1)",
+      "author": "Aria Ashbrook",
+      "narrator": "Amanda Leigh Cobb",
+      "coverUrl": "https://m.media-amazon.com/images/I/51Z6oEg+TGL._SL500_.jpg",
+      "duration": "12h 40m",
+      "durationMinutes": 760,
+      "rating": 4.5,
+      "ratingCount": 5000,
+      "listPrice": 28.58,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fantasy",
+        "romance"
+      ],
+      "tags": [
+        "new-release",
+        "enemies-to-lovers"
+      ],
+      "description": "Web of Vows and Vengeance by Aria Ashbrook is an enemies-to-lovers fantasy romance where a captive princess must marry the king who destroyed her kingdom.",
+      "releaseDate": "2026-02-24",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GPQRMFPZ?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Web of Vows and Vengeance by Aria Ashbrook is an enemies-to-lovers fantasy romance, the first book in The Hirathean Path. Narrated by Amanda Leigh Cobb, this 12-hour audiobook follows a captive princess forced to marry the king who destroyed her kingdom, rated 4.5 stars.",
+        "q2": "Readers who love enemies-to-lovers, arranged-marriage tropes, and courtly fantasy. It solves the problem of wanting high-stakes fantasy with a slow-burn romance at its center, perfect for romantasy fans who finish books fast.",
+        "q3": "Ideal for commutes, workouts, or binge weekends. The tense marriage-of-convenience setup keeps you hooked chapter to chapter, and 12 hours fits comfortably inside a free trial period.",
+        "q4": "Ashbrook pushes the enemies-to-lovers formula further by making the male lead genuinely dangerous, and Cobb's narration balances icy control with hidden warmth. It is a strong series opener for listeners who want romance and political intrigue together.",
+        "q5": "Yes. Start your free trial, download, and the forced-marriage premise hooks you in the first chapters. You can finish the whole book within your 30-day trial."
+      }
+    },
+    {
+      "asin": "B0GD27YL9M",
+      "slug": "just-for-the-cameras-quinn",
+      "title": "Just for the Cameras",
+      "author": "Meghan Quinn",
+      "narrator": "Emma Wilder",
+      "coverUrl": "https://m.media-amazon.com/images/I/51uz+YN6NRL._SL500_.jpg",
+      "duration": "9h 45m",
+      "durationMinutes": 585,
+      "rating": 4.5,
+      "ratingCount": 6000,
+      "listPrice": 23.43,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance"
+      ],
+      "tags": [
+        "rom-com",
+        "best-seller"
+      ],
+      "description": "Just for the Cameras by Meghan Quinn is a swoony fake-dating romance set in Hollywood, where two actors pretend to be a couple for publicity.",
+      "releaseDate": "2026-02-03",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GD27YL9M?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Just for the Cameras by Meghan Quinn is a swoony fake-dating romance set in Hollywood, narrated by Emma Wilder. This 9-hour 45-minute audiobook pairs a famous actor and a rising actress in a publicity relationship, with a 4.5-star rating.",
+        "q2": "Fans of romantic comedies, fake-dating tropes, and celebrity settings. It solves the problem of wanting a light, feel-good listen that still has real emotional depth — great for escaping a stressful week.",
+        "q3": "Perfect for commuting, cooking, cleaning, or any time you want a warm, funny story. Short chapters make it easy to pause, and the dual narration keeps the banter lively.",
+        "q4": "Quinn is a master of romantic comedy, and Wilder plus a strong cast make the chemistry audible. Unlike many celebrity romances, the book balances laugh-out-loud moments with genuine heart.",
+        "q5": "Absolutely. Start your free trial, download, and the fake-dating setup is introduced immediately. It is a fast, bingeable listen you can finish in a few days."
+      }
+    },
+    {
+      "asin": "B09BDT9PYP",
+      "slug": "reminders-of-him-hoover",
+      "title": "Reminders of Him: A Novel",
+      "author": "Colleen Hoover",
+      "narrator": "Brittany Pressley",
+      "coverUrl": "https://m.media-amazon.com/images/I/51qhbAGQuLL._SL500_.jpg",
+      "duration": "10h 23m",
+      "durationMinutes": 623,
+      "rating": 4.7,
+      "ratingCount": 55000,
+      "listPrice": 20.78,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "fiction"
+      ],
+      "tags": [
+        "best-seller",
+        "top-rated"
+      ],
+      "description": "Reminders of Him by Colleen Hoover is an emotional second-chance romance about a mother fighting to reconnect with her daughter after tragedy tears their family apart.",
+      "releaseDate": "2022-01-18",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B09BDT9PYP?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Reminders of Him by Colleen Hoover is an emotional second-chance romance about a mother fighting to reconnect with her daughter after tragedy. Narrated by Brittany Pressley, this 10-hour 23-minute audiobook holds a 4.7-star rating from over 50,000 listeners.",
+        "q2": "Readers who love angsty, character-driven romance with real emotional stakes. It solves the problem of finding a book that makes you feel deeply — exploring grief, forgiveness, and the messy work of earning trust back.",
+        "q3": "Best for evenings or weekends when you can focus, because the story pulls you in emotionally. Also great for commutes if you like tearing up on the train. Around 10 hours fits neatly in a trial.",
+        "q4": "Hoover's signature emotional storytelling is amplified by Pressley's raw narration. The dual perspectives give you both sides of the guilt and longing, making the payoff hit harder than most romances.",
+        "q5": "Yes. Start your free trial, download instantly, and Kenna's situation grabs you in the first chapter. You will likely finish it in a single weekend."
+      }
+    },
+    {
+      "asin": "B07WFQM8FV",
+      "slug": "regretting-you-hoover",
+      "title": "Regretting You",
+      "author": "Colleen Hoover",
+      "narrator": "Tanya Eby",
+      "coverUrl": "https://m.media-amazon.com/images/I/51ETHY6FC6L._SL500_.jpg",
+      "duration": "9h 51m",
+      "durationMinutes": 591,
+      "rating": 4.6,
+      "ratingCount": 38000,
+      "listPrice": 21.02,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "fiction"
+      ],
+      "tags": [
+        "best-seller"
+      ],
+      "description": "Regretting You by Colleen Hoover explores grief, betrayal, and forgiveness through the intertwined stories of a mother and her teenage daughter.",
+      "releaseDate": "2019-12-10",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B07WFQM8FV?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Regretting You by Colleen Hoover follows a mother and her teenage daughter navigating grief, betrayal, and secrets after a devastating loss. Narrated by Tanya Eby, this 9-hour 51-minute audiobook holds a 4.6-star rating.",
+        "q2": "Fans of family drama and emotional contemporary fiction, especially readers who loved Hoover's other books. It solves the problem of wanting a story about complicated family love — not just romance, but the hard work of understanding each other.",
+        "q3": "Perfect for quiet evenings, long drives, or a weekend binge. The dual mother-daughter perspectives keep the pace tight, and under 10 hours is easy to finish inside a trial.",
+        "q4": "Most Hoover books center a couple; Regretting You centers a family, which makes it stand out. Eby's narration handles both the teen voice and the mother's pain with equal skill.",
+        "q5": "Absolutely. Start your free trial, download, and the opening tragedy sets up immediate emotional stakes. No prior familiarity with the author is required."
+      }
+    },
+    {
+      "asin": "B0FKP1SCTF",
+      "slug": "sinful-king-kane",
+      "title": "Sinful King",
+      "author": "Natalie Kane",
+      "narrator": "Teddy Hamilton",
+      "coverUrl": "https://m.media-amazon.com/images/I/51Fj5HjhPlL._SL500_.jpg",
+      "duration": "7h 20m",
+      "durationMinutes": 440,
+      "rating": 4.5,
+      "ratingCount": 7000,
+      "listPrice": 19.59,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance"
+      ],
+      "tags": [
+        "dark-romance"
+      ],
+      "description": "Sinful King by Natalie Kane is a steamy dark romance between a ruthless king and the woman who refuses to bend to his will.",
+      "releaseDate": "2026-01-08",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0FKP1SCTF?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Sinful King by Natalie Kane is a steamy dark romance between a ruthless king and the woman who refuses to bow to him. Narrated by Teddy Hamilton, this 7-hour 20-minute audiobook has a 4.5-star rating.",
+        "q2": "Dark romance fans who love possessive heroes, power imbalances, and high heat. It solves the problem of finding a quick, intense escape — a royal dark romance with bite that doesn't require a long series commitment.",
+        "q3": "Ideal for commutes, workouts, or evenings when you want a fast, consuming story. At about 7 hours, you can finish it in a couple of days.",
+        "q4": "Kane delivers a genuinely dangerous hero rather than a softened one, and Hamilton's narration brings the commanding voice to life. It is a strong standalone for listeners who want the fantasy without reading three books first.",
+        "q5": "Yes. Start your free trial, download, and the power dynamic is established in the opening scenes. A short, satisfying listen for your free trial period."
+      }
+    },
+    {
+      "asin": "B0FF64RP78",
+      "slug": "the-unselected-journals-emma-m-lion-vol7",
+      "title": "The Unselected Journals of Emma M. Lion Vol. 7",
+      "author": "Beth Brower",
+      "narrator": "Genevieve Gaunt",
+      "coverUrl": "https://m.media-amazon.com/images/I/51B4U8y9ZXL._SL500_.jpg",
+      "duration": "4h 30m",
+      "durationMinutes": 270,
+      "rating": 4.7,
+      "ratingCount": 4000,
+      "listPrice": 21.39,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction"
+      ],
+      "tags": [
+        "series",
+        "cozy"
+      ],
+      "description": "The Unselected Journals of Emma M. Lion Vol. 7 continues the beloved found-family Victorian London series full of wit, charm, and whimsy.",
+      "releaseDate": "2025-10-23",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0FF64RP78?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Unselected Journals of Emma M. Lion Vol. 7 by Beth Brower continues the beloved found-family series set in Victorian London, narrated by Genevieve Gaunt. This 4-hour 30-minute audiobook has a 4.7-star rating and delivers the witty, cozy storytelling fans love.",
+        "q2": "Fans of cozy historical fiction, diary-style storytelling, and readers who have been following Emma's world. It solves the problem of wanting a warm, character-driven escape that feels like spending time with old friends.",
+        "q3": "Perfect for short commutes, lunch breaks, or a cozy Sunday afternoon. At under 5 hours it is one of the quickest, most charming listens you can get with a credit.",
+        "q4": "Brower's journal format and Gaunt's narration create an intimate, diary-like feel you don't get from typical historical fiction. The gentle humor and found-family warmth keep listeners returning volume after volume.",
+        "q5": "Absolutely. Start your free trial, download, and the journal style welcomes you immediately. It is an easy, low-commitment listen that fits perfectly in a trial."
+      }
+    },
+    {
+      "asin": "B0GL4CS7SN",
+      "slug": "war-about-you-mills-brothers",
+      "title": "War About You: Mills Brothers, Book 2",
+      "author": "Nek Mills",
+      "narrator": "Midnite Michael",
+      "coverUrl": "https://m.media-amazon.com/images/I/51F2NrfAa-L._SL500_.jpg",
+      "duration": "8h 15m",
+      "durationMinutes": 495,
+      "rating": 4.6,
+      "ratingCount": 3000,
+      "listPrice": 20.73,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance"
+      ],
+      "tags": [
+        "series"
+      ],
+      "description": "War About You is the second book in Nek Mills' Mills Brothers series, a second-chance sports romance about a retired quarterback and his high school sweetheart.",
+      "releaseDate": "2026-02-24",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GL4CS7SN?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "War About You by Nek Mills is the second book in the Mills Brothers series, a second-chance sports romance between a retired quarterback and his high school sweetheart. Narrated by Midnite Michael, this 8-hour 15-minute audiobook has a 4.6-star rating.",
+        "q2": "Sports romance fans who love second chances, brothers-in-uniform dynamics, and small-town settings. It solves the problem of finding a series where each book feels fresh while rewarding readers who follow the whole family.",
+        "q3": "Great for commutes, workouts, or weekend binges. Under 9 hours is easy to finish in a few days, and the sports romance energy keeps the pacing lively.",
+        "q4": "Mills gives the couple real history and real wounds rather than an easy reunion, and Michael's narration delivers the gruff-but-tender hero well. Series fans get cameos, but newcomers can start here without being lost.",
+        "q5": "Yes. Start your free trial, download, and the second-chance setup is clear within the first chapters. A fast, satisfying listen for your trial."
+      }
+    },
+    {
+      "asin": "B0GLR378CD",
+      "slug": "cottonwood-cove-box-set-pavlov",
+      "title": "Cottonwood Cove Box Set",
+      "author": "Laura Pavlov",
+      "narrator": "Connor Crais",
+      "coverUrl": "https://m.media-amazon.com/images/I/51ndAsiOVJL._SL500_.jpg",
+      "duration": "30h 5m",
+      "durationMinutes": 1805,
+      "rating": 4.6,
+      "ratingCount": 15000,
+      "listPrice": 31.2,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance"
+      ],
+      "tags": [
+        "box-set",
+        "long-read",
+        "best-value"
+      ],
+      "description": "The Cottonwood Cove Box Set by Laura Pavlov collects three swoony small-town romances into one binge-worthy audio bundle, a huge value for one credit.",
+      "releaseDate": "2026-02-10",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GLR378CD?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Cottonwood Cove Box Set by Laura Pavlov collects three swoony small-town romances into one massive audio bundle, narrated by Connor Crais and others. At over 30 hours with a 4.6-star rating, it delivers a full series for a single Audible credit.",
+        "q2": "Small-town romance fans who love binge-reading series, meet-cutes, and found-family dynamics. It solves the problem of running out of book before the weekend ends — three complete novels in one credit.",
+        "q3": "Ideal for long road trips, marathon listening weekends, or commutes over a month. At 30+ hours it is one of the highest-value single-credit listens available.",
+        "q4": "Most romance audiobooks are one story per credit; this box set gives you three interconnected novels plus a cast of narrators. Pavlov's cozy small-town world is perfect for listeners who want to stay in one universe for a long time.",
+        "q5": "Yes. Start your free trial, download, and the first story pulls you in immediately. With 30+ hours, you get enormous value inside your trial period."
+      }
+    },
+    {
+      "asin": "B07944YFPW",
+      "slug": "circe-madeline-miller",
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "narrator": "Perdita Weeks",
+      "coverUrl": "https://m.media-amazon.com/images/I/617ySf3g9bL._SL500_.jpg",
+      "duration": "12h 31m",
+      "durationMinutes": 751,
+      "rating": 4.7,
+      "ratingCount": 48000,
+      "listPrice": 28.79,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction",
+        "fantasy"
+      ],
+      "tags": [
+        "best-seller",
+        "top-rated"
+      ],
+      "description": "Circe by Madeline Miller reimagines the life of the witch from Homer's Odyssey, narrated by Perdita Weeks. A breathtaking story of power, exile, and transformation.",
+      "releaseDate": "2018-04-10",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B07944YFPW?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Circe by Madeline Miller reimagines the life of the witch from Homer's Odyssey, narrated by Perdita Weeks. This 12-hour 31-minute audiobook has a 4.7-star rating from over 45,000 listeners and became a modern literary phenomenon.",
+        "q2": "Readers who love literary fiction, Greek mythology, and strong female protagonists. It solves the problem of finding a book that is both intellectually rich and emotionally gripping — a bestseller that actually deserves the hype.",
+        "q3": "Perfect for immersive evening listening, weekend sessions, or commutes over two weeks. The gorgeous prose rewards focused listening, and 12.5 hours is ideal for a trial.",
+        "q4": "Miller gives a minor mythological figure a full, fierce voice, and Weeks' narration is widely considered one of the best audiobook performances in years. Unlike many retellings, it transforms the original rather than just retelling it.",
+        "q5": "Absolutely. Start your free trial, download, and Circe's exile is set up beautifully in the opening chapters. You will be pulled into her world immediately."
+      }
+    },
+    {
+      "asin": "B0BGQBVD85",
+      "slug": "one-by-one-mcfadden",
+      "title": "One by One",
+      "author": "Freida McFadden",
+      "narrator": "Alyson Krawchuk",
+      "coverUrl": "https://m.media-amazon.com/images/I/51IZL40aBAL._SL500_.jpg",
+      "duration": "9h 15m",
+      "durationMinutes": 555,
+      "rating": 4.5,
+      "ratingCount": 21000,
+      "listPrice": 16.4,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "best-seller",
+        "thriller"
+      ],
+      "description": "One by One by Freida McFadden is a locked-room psychological thriller where office workers at a luxury retreat start disappearing one by one.",
+      "releaseDate": "2022-10-11",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0BGQBVD85?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "One by One by Freida McFadden is a locked-room psychological thriller set at a luxury corporate retreat, narrated by Alyson Krawchuk. This 9-hour 15-minute audiobook has a 4.5-star rating and is one of McFadden's most popular page-turners.",
+        "q2": "Thriller fans who love survival scenarios, unreliable narrators, and guessing until the last chapter. It solves the problem of finding a genuinely addictive listen that makes housework or commutes fly by.",
+        "q3": "Great for commutes, gym sessions, or evening listens when you can keep going 'just one more chapter.' At just over 9 hours, it is a fast binge.",
+        "q4": "McFadden has become a phenomenon by delivering twisty plots without dragging, and this one raises the stakes as colleagues disappear one by one. Krawchuk's narration keeps the tension taut and the red herrings believable.",
+        "q5": "Yes. Start your free trial, download, and the first disappearance happens quickly. You will likely finish it in a weekend — perfect for a trial."
+      }
+    },
+    {
+      "asin": "B01K3EKBXS",
+      "slug": "the-wrong-side-of-goodbye-connelly",
+      "title": "The Wrong Side of Goodbye",
+      "author": "Michael Connelly",
+      "narrator": "Titus Welliver",
+      "coverUrl": "https://m.media-amazon.com/images/I/51pfWleTPIL._SL500_.jpg",
+      "duration": "10h 30m",
+      "durationMinutes": 630,
+      "rating": 4.7,
+      "ratingCount": 16000,
+      "listPrice": 25.19,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "best-seller",
+        "series"
+      ],
+      "description": "The Wrong Side of Goodbye by Michael Connelly returns Harry Bosch to the hunt for a serial rapist while a billionaire's cold case pulls him in two directions.",
+      "releaseDate": "2016-11-01",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B01K3EKBXS?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Wrong Side of Goodbye by Michael Connelly returns Harry Bosch to the hunt, narrated by Titus Welliver (who plays Bosch on TV). This 10-hour 30-minute audiobook has a 4.7-star rating and is a standout entry in the legendary series.",
+        "q2": "Crime fiction fans who love procedural detail, Los Angeles settings, and a detective who never quits. It solves the problem of finding a reliably excellent crime series with deep character history and real-world texture.",
+        "q3": "Great for commutes, evening listens, or road trips. Welliver's narration feels like watching the show, and 10.5 hours fits perfectly in a trial.",
+        "q4": "Connelly writes Bosch better than almost anyone writes a detective, and Welliver's performance adds cinematic weight. This entry juggles a cold case and a serial rapist hunt with characteristic precision.",
+        "q5": "Absolutely. Start your free trial, download, and Bosch is in motion from the first chapter. No prior series knowledge is required to enjoy it."
+      }
+    },
+    {
+      "asin": "B019NMZ5MI",
+      "slug": "morning-star-red-rising-iii-brown",
+      "title": "Morning Star: Book III of the Red Rising Trilogy",
+      "author": "Pierce Brown",
+      "narrator": "Tim Gerard Reynolds",
+      "coverUrl": "https://m.media-amazon.com/images/I/41uGVHtH2pL._SL500_.jpg",
+      "duration": "21h 26m",
+      "durationMinutes": 1286,
+      "rating": 4.7,
+      "ratingCount": 25000,
+      "listPrice": 30.34,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "best-seller",
+        "long-read",
+        "series"
+      ],
+      "description": "Morning Star concludes the original Red Rising trilogy by Pierce Brown — a thrilling rebellion epic where Darrow must unite the Colors against the Gold oppressors.",
+      "releaseDate": "2016-02-09",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B019NMZ5MI?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Morning Star by Pierce Brown concludes the original Red Rising trilogy, narrated by Tim Gerard Reynolds. This 21-hour 26-minute audiobook has a 4.7-star rating and delivers one of the most acclaimed sci-fi finales of the decade.",
+        "q2": "Science fiction fans who love rebellion epics, military strategy, and unforgettable characters. It solves the problem of finding a series finale that actually sticks the landing — rare in modern sci-fi.",
+        "q3": "Perfect for long road trips, marathon weekends, or commutes over a month. At 21+ hours it is exceptional value per credit, and the action keeps the pace relentless.",
+        "q4": "Reynolds' narration is legendary among audiobook fans, bringing Darrow and the Red Rising cast to life. Brown combines epic scale with brutal emotional stakes, making this finale as moving as it is thrilling.",
+        "q5": "Yes. Start your free trial, download, and you are thrown back into the rebellion immediately. Series fans get a payoff; newcomers can still enjoy it with minimal backstory."
+      }
+    },
+    {
+      "asin": "B0D9HPNXHX",
+      "slug": "the-writer-patterson",
+      "title": "The Writer: A Thriller",
+      "author": "James Patterson",
+      "narrator": "Peter Ganim",
+      "coverUrl": "https://m.media-amazon.com/images/I/41uPX-UDyNL._SL500_.jpg",
+      "duration": "9h 25m",
+      "durationMinutes": 565,
+      "rating": 4.6,
+      "ratingCount": 10000,
+      "listPrice": 25.19,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "new-release",
+        "thriller"
+      ],
+      "description": "The Writer by James Patterson is a twisty thriller about a ghostwriter who uncovers dangerous secrets while helping a reclusive billionaire finish his memoir.",
+      "releaseDate": "2025-03-17",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0D9HPNXHX?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Writer by James Patterson is a twisty thriller about a ghostwriter who uncovers dangerous secrets while helping a reclusive billionaire finish his memoir. Narrated by Peter Ganim, this 9-hour 25-minute audiobook has a 4.6-star rating.",
+        "q2": "Thriller fans who like fast pacing, celebrity secrets, and locked-room suspense. It solves the problem of wanting a quick, satisfying read with a high-concept hook and Patterson's signature short-chapter momentum.",
+        "q3": "Perfect for commutes, travel, or evening listens. Under 10 hours means you can finish it in a few days, and the short chapters make every session feel productive.",
+        "q4": "Patterson teams the meta premise of writing a memoir with genuine mystery, and Ganim's narration keeps the tension sharp. It is a fresh setup from a master of the genre.",
+        "q5": "Absolutely. Start your free trial, download, and the ghostwriter premise hooks you immediately. A fast, suspenseful listen for your trial."
+      }
+    },
+    {
+      "asin": "B00HLPMFU0",
+      "slug": "operation-paperclip-jacobsen",
+      "title": "Operation Paperclip: The Secret Intelligence Program that Brought Nazi Scientists to America",
+      "author": "Annie Jacobsen",
+      "narrator": "Annie Jacobsen",
+      "coverUrl": "https://m.media-amazon.com/images/I/51u04jGYW3L._SL500_.jpg",
+      "duration": "14h 30m",
+      "durationMinutes": 870,
+      "rating": 4.6,
+      "ratingCount": 9000,
+      "listPrice": 35.09,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "top-rated",
+        "long-read"
+      ],
+      "description": "Operation Paperclip by Annie Jacobsen uncovers the secret CIA program that brought Nazi scientists to America after WWII — a chilling true story of Cold War compromise.",
+      "releaseDate": "2014-02-11",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B00HLPMFU0?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "Operation Paperclip by Annie Jacobsen uncovers the secret US program that brought Nazi scientists to America after WWII, narrated by the author herself. This 14-hour 30-minute audiobook has a 4.6-star rating and is a chilling work of investigative history.",
+        "q2": "History buffs, WWII readers, and anyone fascinated by how the Cold War began. It solves the problem of shallow history podcasts by delivering deeply researched narrative nonfiction with names, documents, and moral complexity.",
+        "q3": "Great for long commutes, road trips, or multi-week listening. The chapter-driven investigation is easy to pause and resume, and 14.5 hours is strong value per credit.",
+        "q4": "Jacobsen did years of original research including declassified records and interviews, and her own narration adds journalistic authority. It goes beyond the famous von Braun story to show the full scope of the program.",
+        "q5": "Yes. Start your free trial, download, and the opening chapters lay out the shocking premise quickly. You will see post-war history differently after the first hour."
+      }
+    },
+    {
+      "asin": "B00ELMSEJC",
+      "slug": "the-goldfinch-tartt",
+      "title": "The Goldfinch: A Novel (Pulitzer Prize for Fiction)",
+      "author": "Donna Tartt",
+      "narrator": "David Pittu",
+      "coverUrl": "https://m.media-amazon.com/images/I/51IbuiT-ndL._SL500_.jpg",
+      "duration": "32h 15m",
+      "durationMinutes": 1935,
+      "rating": 4.5,
+      "ratingCount": 30000,
+      "listPrice": 44.99,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction"
+      ],
+      "tags": [
+        "classic",
+        "long-read",
+        "pulitzer"
+      ],
+      "description": "The Goldfinch by Donna Tartt is the Pulitzer Prize-winning novel about a boy who steals a priceless painting after a museum bombing — a sweeping story of loss and obsession.",
+      "releaseDate": "2013-10-22",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B00ELMSEJC?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "The Goldfinch by Donna Tartt is the Pulitzer Prize-winning novel about a boy who steals a priceless painting after a museum bombing, narrated by David Pittu. This 32-hour 15-minute audiobook has a 4.5-star rating and is a modern literary epic.",
+        "q2": "Literary fiction readers who love sprawling, character-driven novels about art, loss, and obsession. It solves the problem of finding a masterpiece that lasts — 32 hours of gorgeous prose for one credit.",
+        "q3": "Best for long road trips, cross-country flights, or a month of commutes. The immersive, novelistic scope rewards extended listening sessions.",
+        "q4": "Tartt won the Pulitzer for a reason, and Pittu's narration captures Theo's voice across decades. Few audiobooks combine this level of literary quality with this much listening time per credit.",
+        "q5": "Absolutely. Start your free trial, download, and the museum bombing sequence grips you from the first minutes. At 32+ hours, you get extraordinary value inside your trial."
+      }
+    },
+    {
+      "asin": "B074MHWM33",
+      "slug": "an-echo-of-things-to-come-islington",
+      "title": "An Echo of Things to Come: Licanius, Book 2",
+      "author": "James Islington",
+      "narrator": "Michael Kramer",
+      "coverUrl": "https://m.media-amazon.com/images/I/519EFrwKmyL._SL500_.jpg",
+      "duration": "21h 12m",
+      "durationMinutes": 1272,
+      "rating": 4.7,
+      "ratingCount": 12000,
+      "listPrice": 31.35,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fantasy"
+      ],
+      "tags": [
+        "series",
+        "long-read"
+      ],
+      "description": "An Echo of Things to Come is the second book in James Islington's Licanius trilogy, an epic fantasy of time, prophecy, and forbidden magic.",
+      "releaseDate": "2017-08-22",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B074MHWM33?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "questions": {
+        "q1": "An Echo of Things to Come is the second book in James Islington's Licanius trilogy, an epic fantasy of time, prophecy, and forbidden magic. Narrated by Michael Kramer, this 21-hour 12-minute audiobook has a 4.7-star rating.",
+        "q2": "Epic fantasy fans who love intricate plotting, time-travel mechanics, and characters who grow with the story. It solves the problem of finding a complex series that rewards careful listening and delivers a satisfying middle book.",
+        "q3": "Perfect for long road trips, marathon weekends, or a month of commutes. At 21+ hours it is outstanding value per credit, and Kramer's narration keeps the dense plot clear.",
+        "q4": "Islington's plotting is famously tight — foreshadowing in book one pays off here — and Kramer is one of the most beloved narrators in fantasy audiobooks. This series deserves the same shelf as Sanderson and Jordan.",
+        "q5": "Yes. Start your free trial, download, and the continuation hooks you quickly. New listeners can start here, but series readers will get the most from the payoff."
+      }
+    }
+  ]
+}
