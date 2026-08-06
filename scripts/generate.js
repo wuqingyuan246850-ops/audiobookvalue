@@ -155,7 +155,7 @@ function generateBookPage(book) {
           <div class="label">Duration (${book.duration})</div>
         </div>
         <div class="detail-meta-item">
-          <div class="value" style="color:#10b981">FREE</div>
+          <div class="value" style="color:#10b981">${book.onSale ? '<span class="on-sale">ON SALE</span>' : 'FREE'}</div>
           <div class="label">With 30-Day Trial</div>
         </div>
         <div class="detail-meta-item">

@@ -66,6 +66,7 @@ img{max-width:100%;height:auto;display:block}
 .book-duration::before{content:"⏱"}
 .book-price-info{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
 .price-free{color:var(--success);font-weight:700;font-size:.85rem}
+.on-sale{background:#f97316;color:#fff;font-size:.7rem;font-weight:800;padding:2px 8px;border-radius:4px;letter-spacing:.5px}
 .price-credit{background:#fef3c7;color:#92400e;font-size:.75rem;padding:2px 8px;border-radius:4px;font-weight:600}
 .price-sale{background:#fee2e2;color:#991b1b;font-size:.75rem;padding:2px 8px;border-radius:4px;font-weight:600}
 .price-list{text-decoration:line-through;color:var(--text-secondary);font-size:.8rem}

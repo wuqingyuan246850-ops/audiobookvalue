@@ -62,6 +62,7 @@ function renderBookCard(book) {
             <div class="book-duration">${durationHrs}h (${book.duration})</div>
           </div>
           <div class="book-price-info">
+            ${book.onSale ? '<span class="on-sale">ON SALE</span>' : ''}
             ${book.audiblePrice === 0 ? '<span class="price-free">Free with Trial</span>' : ''}
             ${book.listPrice > 0 ? `<span class="price-list">$${book.listPrice.toFixed(2)}</span>` : ''}
             <span class="price-credit">1 Credit</span>
