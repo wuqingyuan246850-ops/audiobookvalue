@@ -43,8 +43,8 @@ const SEARCH_RESOURCES = [
   "itemInfo.title",
   "itemInfo.byLineInfo",
   "itemInfo.classifications",
-  "itemInfo.productInfo",
   "itemInfo.contentInfo",
+  "itemInfo.productInfo",
   "itemInfo.technicalInfo",
   "offersV2.listings.price",
   "offersV2.listings.availability",
@@ -145,6 +145,12 @@ function isInStock(item) {
   return !listing || (listing.availability?.type || "IN_STOCK") !== "OUT_OF_STOCK";
 }
 
+function isEnglish(item) {
+  const langs = item.itemInfo?.contentInfo?.languages?.displayValues;
+  if (!langs || langs.length === 0) return true; // no language data: allow
+  return langs.some((l) => (l.displayValue || l).toLowerCase() === "english");
+}
+
 function pickListing(item) {
   const listings = item.offersV2?.listings || [];
   return listings.find((l) => l.isBuyBoxWinner) || listings[0] || null;
@@ -203,7 +209,7 @@ async function main() {
     items.forEach((item, rank) => {
       const asin = item.asin;
       if (!asin || seen.has(asin) || knownAsins.has(asin) || pendingAsins.has(asin)) return;
-      if (!isAudible(item) || !isInStock(item)) return;
+      if (!isAudible(item) || !isInStock(item) || !isEnglish(item)) return;
       const info = item.itemInfo || {};
       const title = info.title?.displayValue;
       if (!title) return;
