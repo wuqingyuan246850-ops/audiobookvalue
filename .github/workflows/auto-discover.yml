@@ -2,7 +2,7 @@ name: Auto Discover Audiobooks
 
 on:
   schedule:
-    - cron: "15 6 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,17 +12,38 @@ jobs:
   discover:
     runs-on: ubuntu-latest
     steps:
+      - name: Daily random slot gate
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" == "schedule" ]; then
+            HOUR=$(date -u +%H)
+            DAY_SEED=$(date -u +%Y%m%d)
+            TARGET=$(( 0x$(printf "%s" "$DAY_SEED" | md5sum | cut -c1-6) % 24 ))
+            echo "random slot today: $TARGET, current hour: $HOUR"
+            if [ "$HOUR" -eq "$TARGET" ]; then
+              echo "should_run=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "should_run=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "manual trigger; running now"
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout
+        if: steps.gate.outputs.should_run == 'true'
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
       - name: Setup Node
+        if: steps.gate.outputs.should_run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Discover audiobook candidates
+        if: steps.gate.outputs.should_run == 'true'
         env:
           AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
           AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
@@ -30,6 +51,7 @@ jobs:
         run: node scripts/auto-discover.js
 
       - name: Commit and push if changed
+        if: steps.gate.outputs.should_run == 'true'
         run: |
           git config user.name "audiobookvalue-bot"
           git config user.email "actions@github.com"
