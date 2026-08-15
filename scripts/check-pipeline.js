@@ -25,11 +25,14 @@ console.log("Books:", books.length, "| Pending:", pending.length);
 if (books.length === 0) errors.push("books.json has no books");
 
 const seen = new Set();
+const seenSlugs = new Set();
 for (const book of books) {
   if (!book.asin) errors.push("Book missing asin: " + (book.title || "?"));
   if (seen.has(book.asin)) errors.push("Duplicate ASIN: " + book.asin);
   seen.add(book.asin);
   if (!book.slug) errors.push("Book missing slug: " + (book.asin || "?"));
+  if (seenSlugs.has(book.slug)) errors.push("Duplicate slug: " + book.slug);
+  seenSlugs.add(book.slug);
   if (!book.rating || book.rating <= 0) errors.push("Book missing rating: " + (book.asin || "?"));
   if (!book.durationMinutes || book.durationMinutes <= 0) errors.push("Book missing duration: " + (book.asin || "?"));
   const q = book.questions || {};

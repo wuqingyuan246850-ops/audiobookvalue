@@ -39,6 +39,153 @@ function escapeHtml(str) {
   return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
+// Static book card used on the homepage so crawlers see links without JS.
+function generateBookCard(book) {
+  const affiliateLink = buildAffiliateLink(book.asin);
+  const durationHrs = (book.durationMinutes / 60).toFixed(1);
+  const safeTitle = escapeHtml(book.title);
+  return `
+    <div class="book-card" data-asin="${book.asin}" data-categories="${book.categories.join(",")}" data-rating="${book.rating}" data-duration="${book.durationMinutes}">
+      <div class="book-card-inner">
+        <img class="book-cover" src="${book.coverUrl}" alt="${safeTitle}" loading="lazy" onerror="this.src='images/placeholder.svg'">
+        <div class="book-info">
+          <a href="audiobooks/${book.slug}.html" class="book-title">${safeTitle}</a>
+          <div class="book-author">by ${escapeHtml(book.author)}</div>
+          <div class="book-meta">
+            <div class="book-rating">
+              <span class="stars">${renderStars(book.rating)}</span>
+              <span>${book.rating}</span>
+            </div>
+            <div class="book-duration">${durationHrs}h (${book.duration})</div>
+          </div>
+          <div class="book-price-info">
+            ${book.onSale ? '<span class="on-sale">ON SALE</span>' : ''}
+            ${book.audiblePrice === 0 ? '<span class="price-free">Free with Trial</span>' : ''}
+            ${book.listPrice > 0 ? '<span class="price-list">$' + book.listPrice.toFixed(2) + '</span>' : ''}
+            <span class="price-credit">1 Credit</span>
+          </div>
+        </div>
+      </div>
+      <a href="${affiliateLink}" class="book-cta" target="_blank" rel="nofollow sponsored">Start Free Trial & Get This Book</a>
+    </div>`;
+}
+
+// Homepage is statically generated so Google can follow internal links without JS.
+function generateHomePage() {
+  const cards = books.map(generateBookCard).join("\n");
+  const tags = ['<span class="filter-tag active" data-category="all">All</span>'].concat(
+    categories.map((cat) => `<span class="filter-tag" data-category="${cat.id}">${cat.icon} ${escapeHtml(cat.name)}</span>`)
+  ).join("\n");
+  const avgRating = (books.reduce((s, b) => s + b.rating, 0) / books.length).toFixed(1);
+  const totalHours = Math.round(books.reduce((s, b) => s + b.durationMinutes, 0) / 60);
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AudibleCreditOptimizer - Best Value Audiobooks | Maximize Your Audible Credits</title>
+<meta name="description" content="Find the best value Audible audiobooks. ${books.length} curated audiobooks with ratings, lengths, and free-trial links. Compare high-value audiobooks and never waste a credit.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://audiobookvalue.com/">
+<meta property="og:title" content="AudibleCreditOptimizer - Best Value Audiobooks">
+<meta property="og:description" content="${books.length} curated high-value audiobooks. Top-rated, long-duration books updated daily.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://audiobookvalue.com/">
+<link rel="stylesheet" href="css/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "AudibleCreditOptimizer",
+  "url": "https://audiobookvalue.com/",
+  "description": "Find the best value Audible audiobooks. Maximize your credits with our curated recommendations."
+}
+</script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="site-title"><a href="/">🎧 <span>Audible</span>CreditOptimizer</a></div>
+      <div class="site-tagline">audiobookvalue.com</div>
+    </div>
+    <div style="font-size:.8rem;color:#9ca3af">🏷️ Every link supports your free trial</div>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>Maximize Every <span>Audible Credit</span></h1>
+  <p>Curated recommendations of the highest-rated, longest-duration audiobooks. ${books.length} titles analyzed so you never waste another credit.</p>
+  <div class="hero-stats">
+    <div><strong>${books.length}</strong>Curated Audiobooks</div>
+    <div><strong>${avgRating}</strong>Avg Rating</div>
+    <div><strong>${totalHours}+</strong>Hours of Listening</div>
+  </div>
+</section>
+
+<div class="controls">
+  <input type="text" id="search-box" class="search-box" placeholder="Search audiobooks by title, author...">
+  <select id="sort-select" class="sort-select">
+    <option value="rating">Sort by Rating</option>
+    <option value="duration">Sort by Duration (Longest)</option>
+    <option value="title">Sort by Title A-Z</option>
+    <option value="rating-count">Sort by Popularity</option>
+  </select>
+</div>
+
+<div id="filter-tags" class="filter-tags">
+${tags}
+</div>
+<div class="results-count" id="results-count">Showing ${books.length} of ${books.length} audiobooks</div>
+
+<div id="book-grid" class="book-grid">
+${cards}
+</div>
+
+<footer class="site-footer">
+  <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
+  <p>We participate in the Amazon Services LLC Associates Program. ${escapeHtml(site.affiliateDisclaimer)}</p>
+  <p style="margin-top:8px"><a href="/">Home</a> | <a href="sitemap.xml">Sitemap</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>`;
+}
+
+// Personalized why-listen block to strengthen page uniqueness.
+function buildWhyListen(book) {
+  const durationHrs = (book.durationMinutes / 60).toFixed(1);
+  const catNames = book.categories.map((c) => c.charAt(0).toUpperCase() + c.slice(1)).join(", ");
+  return `<div class="why-listen">
+    <h2>Why audiobook listeners choose ${escapeHtml(book.title)}</h2>
+    <p>${escapeHtml(book.title)} by ${escapeHtml(book.author)} gives you ${durationHrs} hours of ${catNames} storytelling, narrated by ${escapeHtml(book.narrator)}, with a ${book.rating}/5 listener rating. It is free to start with a 30-day Audible trial, so you can try it before spending a credit.</p>
+  </div>`;
+}
+
+// Related books section creates internal links between pages.
+function buildRelatedSection(book) {
+  const related = books
+    .filter((b) => b.asin !== book.asin && b.categories.some((c) => book.categories.includes(c)))
+    .slice(0, 6);
+  const fill = books.filter((b) => b.asin !== book.asin && !related.includes(b)).slice(0, 6 - related.length);
+  const picks = related.concat(fill);
+  if (picks.length === 0) return "";
+  return `<div class="related-section">
+    <h2>Related Audiobooks You May Enjoy</h2>
+    <div class="related-grid">
+      ${picks.map((rb) => `<a class="related-card" href="/audiobooks/${rb.slug}.html">
+        <img src="${rb.coverUrl}" alt="${escapeHtml(rb.title)}" loading="lazy" onerror="this.src='/images/placeholder.svg'">
+        <div>
+          <strong>${escapeHtml(rb.title)}</strong>
+          <span>${rb.rating}/5 · ${(rb.durationMinutes / 60).toFixed(1)}h</span>
+        </div>
+      </a>`).join("\n")}
+    </div>
+  </div>`;
+}
+
 // Replace placeholders in template
 function renderTemplate(template, vars) {
   let result = template;
@@ -85,6 +232,8 @@ function generateBookPage(book) {
   const safeDesc = escapeHtml(book.description).substring(0, 160);
   const stars = renderStars(book.rating);
   const ratingFormatted = formatNumber(book.ratingCount);
+  const whyListenHtml = buildWhyListen(book);
+  const relatedHtml = buildRelatedSection(book);
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -168,6 +317,8 @@ function generateBookPage(book) {
     </div>
   </div>
   
+  ${whyListenHtml}
+  
   <div id="questions-container">
 ${questionSections}
   </div>
@@ -177,6 +328,8 @@ ${questionSections}
     <p style="color:#374151;margin-bottom:16px">Get "${safeTitle}" free with your 30-day Audible trial. No commitment, cancel anytime.</p>
     <a href="${affiliateLink}" class="detail-cta" target="_blank" rel="nofollow sponsored">🎧 Claim Your Free Trial & Download</a>
   </div>
+  
+  ${relatedHtml}
   
   <div style="margin-top:32px">
     <p style="font-size:.8rem;color:#6b7280;text-align:center">
@@ -213,6 +366,15 @@ function generateSitemap() {
   return xml;
 }
 
+// Redirect extensionless and trailing-slash variants to canonical .html URLs.
+function generateRedirects() {
+  const lines = books.map((b) => {
+    return "/audiobooks/" + b.slug + " /audiobooks/" + b.slug + ".html 301\n" +
+           "/audiobooks/" + b.slug + "/ /audiobooks/" + b.slug + ".html 301";
+  });
+  return lines.join("\n") + "\n";
+}
+
 // --- Main ---
 const audiobooksDir = path.join(ROOT, "audiobooks");
 if (!fs.existsSync(audiobooksDir)) {
@@ -220,14 +382,23 @@ if (!fs.existsSync(audiobooksDir)) {
 }
 
 let generated = 0;
+const byAsin = new Map(books.map((b) => [b.asin, b]));
 for (const book of books) {
-  const html = generateBookPage(book);
+  const html = generateBookPage(book, byAsin);
   const filePath = path.join(audiobooksDir, book.slug + ".html");
   fs.writeFileSync(filePath, html, "utf-8");
   generated++;
   console.log("  OK " + book.slug + ".html");
 }
 console.log("\nGenerated " + generated + " audiobook pages");
+
+// Static homepage with internal links (crawler-friendly)
+fs.writeFileSync(path.join(ROOT, "index.html"), generateHomePage(), "utf-8");
+console.log("  OK index.html (static)");
+
+// Redirect rules
+fs.writeFileSync(path.join(ROOT, "_redirects"), generateRedirects(), "utf-8");
+console.log("  OK _redirects");
 
 // Sitemap
 fs.writeFileSync(path.join(ROOT, "sitemap.xml"), generateSitemap(), "utf-8");
