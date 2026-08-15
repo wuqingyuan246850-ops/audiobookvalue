@@ -118,9 +118,9 @@ function generateHomePage() {
   <h1>Maximize Every <span>Audible Credit</span></h1>
   <p>Curated recommendations of the highest-rated, longest-duration audiobooks. ${books.length} titles analyzed so you never waste another credit.</p>
   <div class="hero-stats">
-    <div><strong>${books.length}</strong>Curated Audiobooks</div>
-    <div><strong>${avgRating}</strong>Avg Rating</div>
-    <div><strong>${totalHours}+</strong>Hours of Listening</div>
+    <div><strong id="stat-books">${books.length}</strong>Curated Audiobooks</div>
+    <div><strong id="stat-rating">${avgRating}</strong>Avg Rating</div>
+    <div><strong id="stat-hours">${totalHours}+</strong>Hours of Listening</div>
   </div>
 </section>
 
@@ -145,7 +145,7 @@ ${cards}
 
 <footer class="site-footer">
   <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
-  <p>We participate in the Amazon Services LLC Associates Program. ${escapeHtml(site.affiliateDisclaimer)}</p>
+  <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
   <p style="margin-top:8px"><a href="/">Home</a> | <a href="sitemap.xml">Sitemap</a></p>
 </footer>
 

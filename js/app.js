@@ -138,11 +138,14 @@ function renderFilters() {
 
 // Render stats
 function renderStats() {
-  document.getElementById("stat-books").textContent = books.length;
+  const elBooks = document.getElementById("stat-books");
+  if (elBooks) elBooks.textContent = books.length;
   const avgRating = books.reduce((s, b) => s + b.rating, 0) / books.length;
-  document.getElementById("stat-rating").textContent = avgRating.toFixed(1);
+  const elRating = document.getElementById("stat-rating");
+  if (elRating) elRating.textContent = avgRating.toFixed(1);
   const totalHours = books.reduce((s, b) => s + b.durationMinutes, 0) / 60;
-  document.getElementById("stat-hours").textContent = totalHours > 1000 ? `${(totalHours/1000).toFixed(1)}K+` : `${Math.round(totalHours)}+`;
+  const elHours = document.getElementById("stat-hours");
+  if (elHours) elHours.textContent = totalHours > 1000 ? `${(totalHours/1000).toFixed(1)}K+` : `${Math.round(totalHours)}+`;
 }
 
 // Init
@@ -153,8 +156,9 @@ async function init() {
     books = data.books;
     categories = data.categories;
     
-    // Set site info
-    document.getElementById("affiliate-disclaimer").textContent = data.site.affiliateDisclaimer;
+    // Set site info (missing element should not break the page)
+    const disclaimerEl = document.getElementById("affiliate-disclaimer");
+    if (disclaimerEl) disclaimerEl.textContent = data.site.affiliateDisclaimer;
     
     // Render
     renderStats();
@@ -174,8 +178,8 @@ async function init() {
     });
     
   } catch (err) {
-    console.error("Failed to load books:", err);
-    document.getElementById("book-grid").innerHTML = `<div class="empty-state"><h3>Failed to load books</h3><p>Please try refreshing the page.</p></div>`;
+    // Keep the statically rendered book grid as a graceful fallback.
+    console.warn("Failed to enhance books with JS:", err);
   }
 }
 
