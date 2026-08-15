@@ -52,7 +52,7 @@ function renderBookCard(book) {
       <div class="book-card-inner">
         <img class="book-cover" src="${book.coverUrl}" alt="${book.title}" loading="lazy" onerror="this.src='images/placeholder.jpg'">
         <div class="book-info">
-          <a href="audiobooks/${book.slug}.html" class="book-title">${book.title}</a>
+          <a href="audiobooks/${book.slug}" class="book-title">${book.title}</a>
           <div class="book-author">by ${book.author}</div>
           <div class="book-meta">
             <div class="book-rating">

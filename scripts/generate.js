@@ -49,7 +49,7 @@ function generateBookCard(book) {
       <div class="book-card-inner">
         <img class="book-cover" src="${book.coverUrl}" alt="${safeTitle}" loading="lazy" onerror="this.src='images/placeholder.svg'">
         <div class="book-info">
-          <a href="audiobooks/${book.slug}.html" class="book-title">${safeTitle}</a>
+          <a href="audiobooks/${book.slug}" class="book-title">${safeTitle}</a>
           <div class="book-author">by ${escapeHtml(book.author)}</div>
           <div class="book-meta">
             <div class="book-rating">
@@ -175,7 +175,7 @@ function buildRelatedSection(book) {
   return `<div class="related-section">
     <h2>Related Audiobooks You May Enjoy</h2>
     <div class="related-grid">
-      ${picks.map((rb) => `<a class="related-card" href="/audiobooks/${rb.slug}.html">
+      ${picks.map((rb) => `<a class="related-card" href="/audiobooks/${rb.slug}">
         <img src="${rb.coverUrl}" alt="${escapeHtml(rb.title)}" loading="lazy" onerror="this.src='/images/placeholder.svg'">
         <div>
           <strong>${escapeHtml(rb.title)}</strong>
@@ -243,11 +243,11 @@ function generateBookPage(book) {
 <title>${safeTitle} by ${safeAuthor} Audiobook Review | AudibleCreditOptimizer</title>
 <meta name="description" content="Read our review of ${safeTitle} by ${safeAuthor}. ${book.rating}/5 stars, ${durationHrs}h long. Is this audiobook worth your credit? Find out now.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://audiobookvalue.com/audiobooks/${book.slug}.html">
+<link rel="canonical" href="https://audiobookvalue.com/audiobooks/${book.slug}">
 <meta property="og:title" content="${safeTitle} by ${safeAuthor} - Audiobook Review">
 <meta property="og:description" content="${book.rating}/5 stars | ${durationHrs}h | Free with Audible trial. Read our full review.">
 <meta property="og:type" content="book">
-<meta property="og:url" content="https://audiobookvalue.com/audiobooks/${book.slug}.html">
+<meta property="og:url" content="https://audiobookvalue.com/audiobooks/${book.slug}">
 <meta property="og:image" content="${book.coverUrl}">
 <link rel="stylesheet" href="../css/style.css">
 <script type="application/ld+json">
@@ -354,7 +354,7 @@ function generateSitemap() {
   const now = new Date().toISOString().split("T")[0];
   const urls = [
     "https://audiobookvalue.com/",
-    ...books.map(b => "https://audiobookvalue.com/audiobooks/" + b.slug + ".html")
+    ...books.map(b => "https://audiobookvalue.com/audiobooks/" + b.slug)
   ];
 
   let xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
@@ -366,11 +366,11 @@ function generateSitemap() {
   return xml;
 }
 
-// Redirect extensionless and trailing-slash variants to canonical .html URLs.
+// Redirect .html and trailing-slash variants to the canonical extensionless URL.
 function generateRedirects() {
   const lines = books.map((b) => {
-    return "/audiobooks/" + b.slug + " /audiobooks/" + b.slug + ".html 301\n" +
-           "/audiobooks/" + b.slug + "/ /audiobooks/" + b.slug + ".html 301";
+    return "/audiobooks/" + b.slug + ".html /audiobooks/" + b.slug + " 301\n" +
+           "/audiobooks/" + b.slug + "/ /audiobooks/" + b.slug + " 301";
   });
   return lines.join("\n") + "\n";
 }
