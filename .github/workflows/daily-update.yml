@@ -32,6 +32,13 @@ jobs:
       - name: Generate pages
         run: node scripts/generate.js
 
+      - name: Audit and auto-remove invalid ASINs
+        env:
+          AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
+          AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
+          AMAZON_PARTNER_TAG: yuanyuan07-20
+        run: node scripts/audit-books.js --auto-remove
+
       - name: Commit and push if changed
         run: |
           git config user.name "audiobookvalue-bot"

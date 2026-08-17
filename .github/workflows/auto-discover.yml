@@ -50,6 +50,14 @@ jobs:
           AMAZON_PARTNER_TAG: yuanyuan07-20
         run: node scripts/auto-discover.js
 
+      - name: Validate candidate ASINs
+        if: steps.gate.outputs.should_run == 'true'
+        env:
+          AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
+          AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
+          AMAZON_PARTNER_TAG: yuanyuan07-20
+        run: node scripts/validate-candidates.js
+
       - name: Finalize candidates with template content
         if: steps.gate.outputs.should_run == 'true'
         run: node scripts/template-finalize.js

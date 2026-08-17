@@ -51,6 +51,10 @@ for (const c of pending) {
   if (!c.questions) warn.push("Pending candidate missing draft questions: " + (c.asin || "?"));
 }
 
+const blockedData = load("blocked-books.json", { blocked: [] });
+const blocked = blockedData.blocked || [];
+if (blocked.length > 0) warn.push("Blocked candidates awaiting review: " + blocked.length);
+
 if (errors.length > 0) {
   console.error("\nERRORS (" + errors.length + "):");
   errors.forEach((e) => console.error("  - " + e));
