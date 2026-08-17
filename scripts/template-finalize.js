@@ -95,7 +95,8 @@ function main() {
   let added = 0;
   const remaining = [];
   for (const c of pending) {
-    if (!c.asin || !c.title || knownAsins.has(c.asin) || knownSlugs.has(c.slug)) {
+    if (!c.asin || !c.title || !c.coverUrl || !c.coverUrl.startsWith("https://") || knownAsins.has(c.asin) || knownSlugs.has(c.slug)) {
+      console.log("Skip invalid candidate: " + (c.title || c.asin || "?"));
       remaining.push(c);
       continue;
     }

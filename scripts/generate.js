@@ -446,7 +446,7 @@ function generateBookPage(book) {
 
 <main class="book-detail">
   <div class="book-detail-header">
-    <img class="book-detail-cover" src="${book.coverUrl}" alt="${safeTitle}" onerror="this.src="../images/placeholder.jpg"">
+    <img class="book-detail-cover" src="${book.coverUrl}" alt="${safeTitle}" onerror="this.src="../images/placeholder.svg"">
     <div class="book-detail-info">
       <h1>${safeTitle}</h1>
       <p class="author">by ${safeAuthor} · Narrated by ${safeNarrator}</p>
@@ -530,7 +530,13 @@ function generateRedirects() {
     return "/audiobooks/" + b.slug + ".html /audiobooks/" + b.slug + " 301\n" +
            "/audiobooks/" + b.slug + "/ /audiobooks/" + b.slug + " 301";
   });
-  return lines.join("\n") + "\n";
+  const extraPath = path.join(ROOT, "scripts", "redirects-extra.json");
+  let extra = [];
+  if (fs.existsSync(extraPath)) {
+    extra = JSON.parse(fs.readFileSync(extraPath, "utf-8"));
+  }
+  const extraLines = extra.map((r) => r.from + " " + r.to + " 301");
+  return lines.concat(extraLines).join("\n") + "\n";
 }
 
 // --- Main ---
