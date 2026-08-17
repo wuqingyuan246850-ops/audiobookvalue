@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: audiobookvalue-main
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,7 +24,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Refresh audiobook data
         env:
@@ -41,12 +45,26 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          set -e
           git config user.name "audiobookvalue-bot"
           git config user.email "actions@github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No data changes; skipping commit."
-          else
+          for attempt in 1 2 3; do
+            git fetch origin
+            git reset --soft origin/main
+            git restore --source=origin/main -- audiobooks sitemap.xml stats.json index.html _redirects category || true
+            node scripts/generate.js
+            git add -A
+            if git diff --cached --quiet; then
+              echo "No data changes; skipping commit."
+              exit 0
+            fi
             git commit -m "chore: daily audiobook data refresh"
-            git push
-          fi
+            if git push origin main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+            echo "Push rejected (concurrent update); retrying..."
+            sleep 5
+          done
+          echo "Push failed after retries."
+          exit 1
