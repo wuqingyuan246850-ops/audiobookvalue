@@ -29,6 +29,64 @@ function buildAffiliateLink(asin) {
   return "https://www.amazon.com/dp/" + asin + "?tag=" + TAG + "&ref_=as_li_ss_tl";
 }
 
+// Best-of roundup definitions used to generate SEO listing pages.
+const BEST_OF_PAGES = [
+  {
+    slug: "best-fantasy-audiobooks",
+    title: "Best Fantasy Audiobooks on Audible",
+    description: "High-rated fantasy audiobooks worth an Audible credit, ranked by listener rating across epic fantasy, romantasy, and dragon-heavy series.",
+    filter: (b) => b.categories.includes("fantasy") || b.categories.includes("fiction"),
+    sort: (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
+    limit: 12
+  },
+  {
+    slug: "best-litrpg-audiobooks",
+    title: "Best LitRPG Audiobooks on Audible",
+    description: "The best LitRPG and progression fantasy audiobooks, from Dungeon Crawler Carl to wholesome monster-raising adventures.",
+    filter: (b) => (b.tags || []).includes("litrpg") || /litrpg/i.test(b.title),
+    sort: (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
+    limit: 12
+  },
+  {
+    slug: "best-audiobooks-over-20-hours",
+    title: "Best Audible Audiobooks Over 20 Hours",
+    description: "The best value audiobooks on Audible: long, high-rated listens that give you weeks of listening for one credit.",
+    filter: (b) => b.durationMinutes >= 1200,
+    sort: (a, b) => b.durationMinutes - a.durationMinutes || b.rating - a.rating,
+    limit: 12
+  },
+  {
+    slug: "best-dark-romance-audiobooks",
+    title: "Best Dark Romance Audiobooks on Audible",
+    description: "The most talked-about dark romance audiobooks, with possessive heroes, high heat, and unforgettable narrators.",
+    filter: (b) => (b.tags || []).includes("dark-romance"),
+    sort: (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
+    limit: 12
+  },
+  {
+    slug: "best-self-improvement-audiobooks",
+    title: "Best Self-Improvement Audiobooks on Audible",
+    description: "The best self-development audiobooks for habits, mindset, productivity, and emotional resilience, ranked by rating.",
+    filter: (b) => b.categories.includes("self-improvement"),
+    sort: (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
+    limit: 12
+  },
+  {
+    slug: "best-mystery-thriller-audiobooks",
+    title: "Best Mystery and Thriller Audiobooks on Audible",
+    description: "The best mystery, thriller, and suspense audiobooks, from domestic thrillers to hard-boiled detective stories.",
+    filter: (b) => b.categories.includes("mystery-thriller"),
+    sort: (a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount,
+    limit: 12
+  }
+];
+
+const BEST_OF_BY_CATEGORY = {
+  fantasy: "best-fantasy-audiobooks",
+  "self-improvement": "best-self-improvement-audiobooks",
+  "mystery-thriller": "best-mystery-thriller-audiobooks"
+};
+
 function formatNumber(num) {
   if (num >= 1000000) return (num/1000000).toFixed(1) + "M";
   if (num >= 1000) return (num/1000).toFixed(1) + "K";
@@ -145,6 +203,9 @@ ${cards}
 
 <footer class="site-footer">
   <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
+  <p style="margin-top:8px">
+    ${BEST_OF_PAGES.map((p) => '<a href="' + p.slug + '">' + escapeHtml(p.title.replace(" on Audible", "")) + '</a>').join(" | ")}
+  </p>
   <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
   <p style="margin-top:8px"><a href="/">Home</a> | <a href="sitemap.xml">Sitemap</a></p>
 </footer>
@@ -172,8 +233,13 @@ function buildRelatedSection(book) {
   const fill = books.filter((b) => b.asin !== book.asin && !related.includes(b)).slice(0, 6 - related.length);
   const picks = related.concat(fill);
   if (picks.length === 0) return "";
+  const bestOfLink = Object.keys(BEST_OF_BY_CATEGORY)
+    .filter((cat) => book.categories.includes(cat))
+    .map((cat) => '<a href="/' + BEST_OF_BY_CATEGORY[cat] + '">View the best ' + cat.replace("-", " ") + ' audiobooks →</a>')
+    .join(" · ");
   return `<div class="related-section">
     <h2>Related Audiobooks You May Enjoy</h2>
+    ${bestOfLink ? '<p class="related-best-link">' + bestOfLink + "</p>" : ""}
     <div class="related-grid">
       ${picks.map((rb) => `<a class="related-card" href="/audiobooks/${rb.slug}">
         <img src="${rb.coverUrl}" alt="${escapeHtml(rb.title)}" loading="lazy" onerror="this.src='/images/placeholder.svg'">
@@ -184,6 +250,96 @@ function buildRelatedSection(book) {
       </a>`).join("\n")}
     </div>
   </div>`;
+}
+
+// Best-of roundup page (SEO traffic entry).
+function generateBestOfPage(def) {
+  const picked = books.filter(def.filter).sort(def.sort).slice(0, def.limit);
+  const cards = picked.map(generateBookCard).join("\n");
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${escapeHtml(def.title)} | AudibleCreditOptimizer</title>
+<meta name="description" content="${escapeHtml(def.description)}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://audiobookvalue.com/${def.slug}">
+<meta property="og:title" content="${escapeHtml(def.title)}">
+<meta property="og:description" content="${escapeHtml(def.description)}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://audiobookvalue.com/${def.slug}">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="site-title"><a href="/">🎧 <span>Audible</span>CreditOptimizer</a></div>
+      <div class="site-tagline">audiobookvalue.com</div>
+    </div>
+  </div>
+</header>
+<section class="hero">
+  <h1>${escapeHtml(def.title)}</h1>
+  <p>${escapeHtml(def.description)}</p>
+  <div class="hero-stats"><div><strong>${picked.length}</strong>Top Picks</div></div>
+</section>
+<div id="book-grid" class="book-grid">
+${cards}
+</div>
+<footer class="site-footer">
+  <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
+  <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
+  <p style="margin-top:8px"><a href="/">Home</a> | <a href="sitemap.xml">Sitemap</a></p>
+</footer>
+</body>
+</html>`;
+}
+
+// Category listing page (SEO traffic entry).
+function generateCategoryPage(category) {
+  const picked = books.filter((b) => b.categories.includes(category.id)).sort((a, b) => b.rating - a.rating);
+  if (picked.length === 0) return null;
+  const cards = picked.map(generateBookCard).join("\n");
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${escapeHtml(category.name)} Audiobooks | AudibleCreditOptimizer</title>
+<meta name="description" content="Browse ${picked.length} ${escapeHtml(category.name)} audiobooks with ratings, lengths, and free-trial links.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://audiobookvalue.com/category/${category.id}">
+<base href="/">
+<meta property="og:title" content="${escapeHtml(category.name)} Audiobooks">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://audiobookvalue.com/category/${category.id}">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="site-title"><a href="/">🎧 <span>Audible</span>CreditOptimizer</a></div>
+      <div class="site-tagline">audiobookvalue.com</div>
+    </div>
+  </div>
+</header>
+<section class="hero">
+  <h1>${escapeHtml(category.name)} Audiobooks</h1>
+  <p>Browse ${picked.length} ${escapeHtml(category.name)} audiobooks ranked by rating.</p>
+</section>
+<div id="book-grid" class="book-grid">
+${cards}
+</div>
+<footer class="site-footer">
+  <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
+  <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
+  <p style="margin-top:8px"><a href="/">Home</a> | <a href="/sitemap.xml">Sitemap</a></p>
+</footer>
+</body>
+</html>`;
 }
 
 // Replace placeholders in template
@@ -354,6 +510,8 @@ function generateSitemap() {
   const now = new Date().toISOString().split("T")[0];
   const urls = [
     "https://audiobookvalue.com/",
+    ...BEST_OF_PAGES.map((p) => "https://audiobookvalue.com/" + p.slug),
+    ...categories.filter((c) => books.some((b) => b.categories.includes(c.id))).map((c) => "https://audiobookvalue.com/category/" + c.id),
     ...books.map(b => "https://audiobookvalue.com/audiobooks/" + b.slug)
   ];
 
@@ -401,8 +559,27 @@ fs.writeFileSync(path.join(ROOT, "_redirects"), generateRedirects(), "utf-8");
 console.log("  OK _redirects");
 
 // Sitemap
-fs.writeFileSync(path.join(ROOT, "sitemap.xml"), generateSitemap(), "utf-8");
+  fs.writeFileSync(path.join(ROOT, "sitemap.xml"), generateSitemap(), "utf-8");
 console.log("  OK sitemap.xml");
+
+// Best-of roundup pages
+const categoryDir = path.join(ROOT, "category");
+if (!fs.existsSync(categoryDir)) fs.mkdirSync(categoryDir, { recursive: true });
+for (const def of BEST_OF_PAGES) {
+  fs.writeFileSync(path.join(ROOT, def.slug + ".html"), generateBestOfPage(def), "utf-8");
+  console.log("  OK " + def.slug + ".html");
+}
+// Category pages
+let categoryCount = 0;
+for (const cat of categories) {
+  const html = generateCategoryPage(cat);
+  if (html) {
+    fs.writeFileSync(path.join(categoryDir, cat.id + ".html"), html, "utf-8");
+    categoryCount++;
+    console.log("  OK category/" + cat.id + ".html");
+  }
+}
+console.log("Generated " + BEST_OF_PAGES.length + " best-of pages and " + categoryCount + " category pages");
 
 // Stats
 const stats = {
