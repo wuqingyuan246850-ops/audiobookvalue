@@ -647,11 +647,10 @@ console.log("Generated " + BEST_OF_PAGES.length + " best-of pages and " + catego
 
 // Blog index
 const posts = blogPosts();
-if (posts.length > 0 || fs.existsSync(path.join(ROOT, "blog"))) {
-  if (!fs.existsSync(path.join(ROOT, "blog"))) fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
-  fs.writeFileSync(path.join(ROOT, "blog", "index.html"), generateBlogIndex(posts), "utf-8");
-  console.log("  OK blog/index.html (" + posts.length + " posts)");
-}
+const blogDir = path.join(ROOT, "blog");
+if (!fs.existsSync(blogDir)) fs.mkdirSync(blogDir, { recursive: true });
+fs.writeFileSync(path.join(blogDir, "index.html"), generateBlogIndex(posts), "utf-8");
+console.log("  OK blog/index.html (" + posts.length + " posts)");
 
 // Stats
 const stats = {
