@@ -86,9 +86,13 @@ function generateArticle(date, changes, booksByAsin) {
   const newBooks = (changes.newAsins || []).map((a) => booksByAsin.get(a)).filter(Boolean);
   const onSaleBooks = (changes.onSaleAsins || []).map((a) => booksByAsin.get(a)).filter(Boolean);
   const priceDropBooks = (changes.priceDropAsins || []).map((a) => booksByAsin.get(a)).filter(Boolean);
+  const pickBooks = (changes.picks || []).map((a) => booksByAsin.get(a)).filter(Boolean);
 
   const newSection = newBooks.length
     ? `<h2>New Audiobooks Added</h2><div class="book-grid">${newBooks.map(bookCard).join("\n")}</div>`
+    : "";
+  const picksSection = pickBooks.length
+    ? `<h2>Today's Picks</h2><div class="book-grid">${pickBooks.map(bookCard).join("\n")}</div>`
     : "";
   const saleSection = onSaleBooks.length
     ? `<h2>On Sale Now</h2><div class="book-grid">${onSaleBooks.map(bookCard).join("\n")}</div>`
@@ -106,7 +110,7 @@ function generateArticle(date, changes, booksByAsin) {
 
   const intro = "Every day we check thousands of Audible audiobooks for new releases, price drops, and the best value per credit. Here is what changed today at audiobookvalue.com.";
 
-  const body = [intro, newSection, saleSection, dropSection, removedNote, editorPicks].filter(Boolean).join("\n");
+  const body = [intro, picksSection, newSection, saleSection, dropSection, removedNote, editorPicks].filter(Boolean).join("\n");
   const bodyText = body.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 300);
 
   return `<!DOCTYPE html>
@@ -161,6 +165,7 @@ ${body}
 }
 
 function main() {
+  const force = process.argv.includes("--force");
   const books = JSON.parse(fs.readFileSync(BOOKS_PATH, "utf-8")).books || [];
   const booksByAsin = new Map(books.map((b) => [b.asin, b]));
   const currentAsins = new Set(books.map((b) => b.asin));
@@ -191,6 +196,19 @@ function main() {
   state.priceMap = Object.fromEntries(books.map((b) => [b.asin, b.listPrice || 0]));
   state.onSaleMap = Object.fromEntries(books.map((b) => [b.asin, !!b.onSale]));
   saveState(state);
+
+  if (force) {
+    const top = books.slice().sort((a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount).slice(0, 5).map((b) => b.asin);
+    state.changesToday.picks = top;
+    if (!state.changesToday.onSaleAsins.length) {
+      state.changesToday.onSaleAsins = books.filter((b) => b.onSale).map((b) => b.asin);
+    }
+    if (!fs.existsSync(BLOG_DIR)) fs.mkdirSync(BLOG_DIR, { recursive: true });
+    const file = path.join(BLOG_DIR, articleSlug(now) + ".html");
+    fs.writeFileSync(file, generateArticle(now, state.changesToday, booksByAsin), "utf-8");
+    console.log("Blog post generated (force): blog/" + articleSlug(now) + ".html");
+    return;
+  }
 
   const changed = newAsins.length || onSaleAsins.length || priceDropAsins.length || removedAsins.length;
   if (isFirstRun) {
