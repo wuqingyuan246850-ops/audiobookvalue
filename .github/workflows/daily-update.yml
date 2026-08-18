@@ -33,15 +33,18 @@ jobs:
           AMAZON_PARTNER_TAG: yuanyuan07-20
         run: node scripts/auto-update.js
 
-      - name: Generate pages
-        run: node scripts/generate.js
-
       - name: Audit and auto-remove invalid ASINs
         env:
           AMAZON_CLIENT_ID: ${{ secrets.AMAZON_CLIENT_ID }}
           AMAZON_CLIENT_SECRET: ${{ secrets.AMAZON_CLIENT_SECRET }}
           AMAZON_PARTNER_TAG: yuanyuan07-20
         run: node scripts/audit-books.js --auto-remove
+
+      - name: Generate blog post if changed
+        run: node scripts/blog-post.js
+
+      - name: Generate pages
+        run: node scripts/generate.js
 
       - name: Commit and push if changed
         run: |

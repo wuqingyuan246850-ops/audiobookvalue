@@ -207,7 +207,7 @@ ${cards}
     ${BEST_OF_PAGES.map((p) => '<a href="' + p.slug + '">' + escapeHtml(p.title.replace(" on Audible", "")) + '</a>').join(" | ")}
   </p>
   <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
-  <p style="margin-top:8px"><a href="/">Home</a> | <a href="sitemap.xml">Sitemap</a></p>
+  <p style="margin-top:8px"><a href="/">Home</a> | <a href="blog">Blog</a> | <a href="sitemap.xml">Sitemap</a></p>
 </footer>
 
 <script src="js/app.js"></script>
@@ -337,6 +337,48 @@ ${cards}
   <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
   <p>We participate in the Amazon Services LLC Associates Program. <span id="affiliate-disclaimer">${escapeHtml(site.affiliateDisclaimer)}</span></p>
   <p style="margin-top:8px"><a href="/">Home</a> | <a href="/sitemap.xml">Sitemap</a></p>
+</footer>
+</body>
+</html>`;
+}
+
+// Blog index page listing all generated posts.
+function generateBlogIndex(posts) {
+  const list = posts.map((p) => {
+    const date = p.slug.slice(0, 10);
+    return `<li><a href="/blog/${p.slug}">${escapeHtml(p.title)}</a> <span style="color:#6b7280">(${date})</span></li>`;
+  }).join("\n");
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Audiobook Deals & Discoveries Blog | AudibleCreditOptimizer</title>
+<meta name="description" content="Daily audiobook deal and discovery posts from AudibleCreditOptimizer.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://audiobookvalue.com/blog">
+<meta property="og:title" content="Audiobook Deals & Discoveries Blog">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://audiobookvalue.com/blog">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="site-title"><a href="/">🎧 <span>Audible</span>CreditOptimizer</a></div>
+      <div class="site-tagline">audiobookvalue.com</div>
+    </div>
+  </div>
+</header>
+<main class="book-detail">
+  <h1>Audiobook Deals & Discoveries</h1>
+  <p>Daily posts about new audiobooks, price drops, and the best value picks on Audible.</p>
+  <ul class="blog-links">${list}</ul>
+</main>
+<footer class="site-footer">
+  <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>
+  <p style="margin-top:8px"><a href="/">Home</a> | <a href="/blog">Blog</a> | <a href="/sitemap.xml">Sitemap</a></p>
 </footer>
 </body>
 </html>`;
@@ -510,8 +552,10 @@ function generateSitemap() {
   const now = new Date().toISOString().split("T")[0];
   const urls = [
     "https://audiobookvalue.com/",
+    "https://audiobookvalue.com/blog",
     ...BEST_OF_PAGES.map((p) => "https://audiobookvalue.com/" + p.slug),
     ...categories.filter((c) => books.some((b) => b.categories.includes(c.id))).map((c) => "https://audiobookvalue.com/category/" + c.id),
+    ...blogPosts().map((p) => "https://audiobookvalue.com/blog/" + p.slug),
     ...books.map(b => "https://audiobookvalue.com/audiobooks/" + b.slug)
   ];
 
@@ -522,6 +566,20 @@ function generateSitemap() {
   }
   xml += '</urlset>';
   return xml;
+}
+
+// Read generated blog posts (excluding index.html), newest first.
+function blogPosts() {
+  const blogDir = path.join(ROOT, "blog");
+  if (!fs.existsSync(blogDir)) return [];
+  return fs.readdirSync(blogDir)
+    .filter((f) => f.endsWith(".html") && f !== "index.html")
+    .map((f) => {
+      const content = fs.readFileSync(path.join(blogDir, f), "utf-8");
+      const title = content.match(/<title>([^<]+)<\/title>/)?.[1] || f.replace(/\.html$/, "");
+      return { slug: f.replace(/\.html$/, ""), title };
+    })
+    .sort((a, b) => (a.slug < b.slug ? 1 : -1));
 }
 
 // Redirect .html and trailing-slash variants to the canonical extensionless URL.
@@ -586,6 +644,14 @@ for (const cat of categories) {
   }
 }
 console.log("Generated " + BEST_OF_PAGES.length + " best-of pages and " + categoryCount + " category pages");
+
+// Blog index
+const posts = blogPosts();
+if (posts.length > 0 || fs.existsSync(path.join(ROOT, "blog"))) {
+  if (!fs.existsSync(path.join(ROOT, "blog"))) fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, "blog", "index.html"), generateBlogIndex(posts), "utf-8");
+  console.log("  OK blog/index.html (" + posts.length + " posts)");
+}
 
 // Stats
 const stats = {

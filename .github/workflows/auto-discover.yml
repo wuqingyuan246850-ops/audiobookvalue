@@ -66,6 +66,10 @@ jobs:
         if: steps.gate.outputs.should_run == 'true'
         run: node scripts/template-finalize.js
 
+      - name: Generate blog post if changed
+        if: steps.gate.outputs.should_run == 'true'
+        run: node scripts/blog-post.js
+
       - name: Generate pages
         if: steps.gate.outputs.should_run == 'true'
         run: node scripts/generate.js
