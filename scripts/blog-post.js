@@ -181,6 +181,15 @@ function main() {
   state.onSaleMap = state.onSaleMap || {};
   state.seenAsins = state.seenAsins || [];
 
+  if (isFirstRun) {
+    state.seenAsins = Array.from(currentAsins);
+    state.priceMap = Object.fromEntries(books.map((b) => [b.asin, b.listPrice || 0]));
+    state.onSaleMap = Object.fromEntries(books.map((b) => [b.asin, !!b.onSale]));
+    saveState(state);
+    console.log("Baseline initialized (" + books.length + " books); no blog post today.");
+    return;
+  }
+
   const seen = new Set(state.seenAsins);
   const newAsins = books.filter((b) => !seen.has(b.asin)).map((b) => b.asin);
   const removedAsins = state.seenAsins.filter((a) => !currentAsins.has(a));
@@ -200,9 +209,6 @@ function main() {
   if (force) {
     const top = books.slice().sort((a, b) => b.rating - a.rating || b.ratingCount - a.ratingCount).slice(0, 5).map((b) => b.asin);
     state.changesToday.picks = top;
-    if (!state.changesToday.onSaleAsins.length) {
-      state.changesToday.onSaleAsins = books.filter((b) => b.onSale).map((b) => b.asin);
-    }
     if (!fs.existsSync(BLOG_DIR)) fs.mkdirSync(BLOG_DIR, { recursive: true });
     const file = path.join(BLOG_DIR, articleSlug(now) + ".html");
     fs.writeFileSync(file, generateArticle(now, state.changesToday, booksByAsin), "utf-8");
@@ -211,10 +217,6 @@ function main() {
   }
 
   const changed = newAsins.length || onSaleAsins.length || priceDropAsins.length || removedAsins.length;
-  if (isFirstRun) {
-    console.log("Baseline initialized (" + books.length + " books); no blog post today.");
-    return;
-  }
   if (!changed) {
     console.log("No changes; no blog post today.");
     return;
