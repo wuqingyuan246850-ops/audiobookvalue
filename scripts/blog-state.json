@@ -142,7 +142,12 @@
     "B00GFSQGIQ",
     "B08BX6NJR5",
     "B0DYPJCRPC",
-    "B08TPS8133"
+    "B08TPS8133",
+    "B0F4RV7WFF",
+    "B0821TS16V",
+    "B0F7J31NTT",
+    "B0HF5G1DFF",
+    "B0H45GLTSX"
   ],
   "priceMap": {
     "B08C8XFQMN": 20.53,
@@ -286,7 +291,12 @@
     "B00GFSQGIQ": 29.69,
     "B08BX6NJR5": 18.83,
     "B0DYPJCRPC": 20.87,
-    "B08TPS8133": 20.34
+    "B08TPS8133": 20.34,
+    "B0F4RV7WFF": 19.59,
+    "B0821TS16V": 18.83,
+    "B0F7J31NTT": 20.87,
+    "B0HF5G1DFF": 24.95,
+    "B0H45GLTSX": 0
   },
   "onSaleMap": {
     "B08C8XFQMN": false,
@@ -430,7 +440,12 @@
     "B00GFSQGIQ": false,
     "B08BX6NJR5": false,
     "B0DYPJCRPC": false,
-    "B08TPS8133": false
+    "B08TPS8133": false,
+    "B0F4RV7WFF": false,
+    "B0821TS16V": false,
+    "B0F7J31NTT": false,
+    "B0HF5G1DFF": false,
+    "B0H45GLTSX": false
   },
   "changesToday": {
     "newAsins": [
@@ -438,14 +453,24 @@
       "B00GFSQGIQ",
       "B08BX6NJR5",
       "B0DYPJCRPC",
-      "B08TPS8133"
+      "B08TPS8133",
+      "B0F4RV7WFF",
+      "B0821TS16V",
+      "B0F7J31NTT",
+      "B0HF5G1DFF",
+      "B0H45GLTSX"
     ],
     "onSaleAsins": [
       "B0D84T7KYW",
       "B00GFSQGIQ",
       "B08BX6NJR5",
       "B0DYPJCRPC",
-      "B08TPS8133"
+      "B08TPS8133",
+      "B0F4RV7WFF",
+      "B0821TS16V",
+      "B0F7J31NTT",
+      "B0HF5G1DFF",
+      "B0H45GLTSX"
     ],
     "priceDropAsins": [],
     "removedAsins": []
