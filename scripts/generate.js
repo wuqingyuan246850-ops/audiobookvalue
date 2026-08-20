@@ -237,9 +237,10 @@ function buildRelatedSection(book) {
     .filter((cat) => book.categories.includes(cat))
     .map((cat) => '<a href="/' + BEST_OF_BY_CATEGORY[cat] + '">View the best ' + cat.replace("-", " ") + ' audiobooks →</a>')
     .join(" · ");
+  const reviewLink = '<a href="/blog/' + book.slug + '-review">Read the full review of ' + escapeHtml(book.title) + ' →</a>';
   return `<div class="related-section">
     <h2>Related Audiobooks You May Enjoy</h2>
-    ${bestOfLink ? '<p class="related-best-link">' + bestOfLink + "</p>" : ""}
+    <p class="related-best-link">${[reviewLink, bestOfLink].filter(Boolean).join(" · ")}</p>
     <div class="related-grid">
       ${picks.map((rb) => `<a class="related-card" href="/audiobooks/${rb.slug}">
         <img src="${rb.coverUrl}" alt="${escapeHtml(rb.title)}" loading="lazy" onerror="this.src='/images/placeholder.svg'">
@@ -344,10 +345,20 @@ ${cards}
 
 // Blog index page listing all generated posts.
 function generateBlogIndex(posts) {
-  const list = posts.map((p) => {
-    const date = p.slug.slice(0, 10);
-    return `<li><a href="/blog/${p.slug}">${escapeHtml(p.title)}</a> <span style="color:#6b7280">(${date})</span></li>`;
-  }).join("\n");
+  const groups = { Reviews: [], Comparisons: [], "How-To": [], "Daily Deals": [] };
+  for (const p of posts) {
+    if (p.slug.endsWith("-review")) groups.Reviews.push(p);
+    else if (p.slug.includes("-vs-")) groups.Comparisons.push(p);
+    else if (p.slug.startsWith("how-to-")) groups["How-To"].push(p);
+    else groups["Daily Deals"].push(p);
+  }
+  const sections = Object.entries(groups)
+    .filter(([, items]) => items.length)
+    .map(([name, items]) => `<h2>${name}</h2><ul class="blog-links">${items.map((p) => {
+      const date = p.slug.slice(0, 10);
+      return `<li><a href="/blog/${p.slug}">${escapeHtml(p.title)}</a> <span style="color:#6b7280">(${date})</span></li>`;
+    }).join("\n")}</ul>`)
+    .join("\n");
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -374,7 +385,7 @@ function generateBlogIndex(posts) {
 <main class="book-detail">
   <h1>Audiobook Deals & Discoveries</h1>
   <p>Daily posts about new audiobooks, price drops, and the best value picks on Audible.</p>
-  <ul class="blog-links">${list}</ul>
+  ${sections}
 </main>
 <footer class="site-footer">
   <p>© 2026 <a href="https://audiobookvalue.com">AudibleCreditOptimizer</a> — audiobookvalue.com</p>

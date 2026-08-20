@@ -43,6 +43,9 @@ jobs:
       - name: Generate blog post if changed
         run: node scripts/blog-post.js
 
+      - name: Generate SEO article matrix
+        run: node scripts/blog-articles.js
+
       - name: Generate pages
         run: node scripts/generate.js
 

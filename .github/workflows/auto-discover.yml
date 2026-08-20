@@ -70,6 +70,10 @@ jobs:
         if: steps.gate.outputs.should_run == 'true'
         run: node scripts/blog-post.js
 
+      - name: Generate SEO article matrix
+        if: steps.gate.outputs.should_run == 'true'
+        run: node scripts/blog-articles.js
+
       - name: Generate pages
         if: steps.gate.outputs.should_run == 'true'
         run: node scripts/generate.js
