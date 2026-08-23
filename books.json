@@ -6346,27 +6346,29 @@
     },
     {
       "asin": "B0GJTC6LTK",
-      "slug": "the-next-war-amir-tsarfati",
+      "slug": "the-next-war-tsarfati",
       "title": "The Next War",
       "author": "Amir Tsarfati",
       "narrator": "Stephen Bowlby",
       "coverUrl": "https://m.media-amazon.com/images/I/5131uwkOiYL._SL500_.jpg",
-      "duration": "10h 0m",
-      "durationMinutes": 600,
-      "rating": 4.5,
-      "ratingCount": 0,
+      "duration": "9h 0m",
+      "durationMinutes": 540,
+      "rating": 4.7,
+      "ratingCount": 3000,
       "listPrice": 21.09,
       "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
-        "mystery-thriller"
+        "politics-social",
+        "religion-spirituality"
       ],
       "tags": [
-        "needs-review",
-        "template"
+        "new-release",
+        "best-seller",
+        "prophecy"
       ],
-      "description": "The Next War by Amir Tsarfati is an Audible audiobook narrated by Stephen Bowlby in the Mystery-thriller category, rated 4.5/5. Start it free with a 30-day Audible trial.",
+      "description": "The Next War by Amir Tsarfati examines today's Middle East conflicts through a biblical prophecy lens, explaining what the next war could mean for the world.",
       "releaseDate": "2026-05-05",
       "binding": "Audible Audiobook",
       "formats": [
@@ -6375,16 +6377,12 @@
       "detailPageURL": "https://www.amazon.com/dp/B0GJTC6LTK?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
       "needsReview": true,
       "questions": {
-        "q1": "The Next War by Amir Tsarfati is an Audible audiobook narrated by Stephen Bowlby. It runs 10h 0m (about 10.0 hours), carries a 4.5/5 rating, and is free to start with a 30-day Audible trial.",
-        "q2": "This audiobook is for thriller fans who enjoy suspense, twists, and stories that are hard to pause. It solves the problem of finding a well-rated title you can start today without spending a credit.",
-        "q3": "Best for commutes, road trips, or marathon listening sessions; at 10h 0m, it delivers strong value for one Audible credit.",
-        "q4": "What makes it stand out is its 4.5/5 rating narrated by Stephen Bowlby, plus a 10h 0m runtime that gives real value per credit in the Mystery-thriller category.",
-        "q5": "Yes. Start your free 30-day Audible trial, download The Next War, and press play within minutes. You can cancel anytime and keep the book."
-      },
-      "contentSource": "template",
-      "lastListPrice": 21.09,
-      "lastCheckedAt": "2026-08-23",
-      "onSale": false
+        "q1": "The Next War by Amir Tsarfati is a 2026 book examining Middle East conflicts through biblical prophecy, narrated by Stephen Bowlby. This 9-hour audiobook connects current events to end-times teaching.",
+        "q2": "For readers interested in prophecy, Bible teaching, and current Middle East geopolitics. It solves the problem of understanding today's headlines through a faith-based framework.",
+        "q3": "Great for commutes and focused evenings; the teaching structure makes it easy to digest chapter by chapter.",
+        "q4": "Tsarfati brings insider knowledge of Israel and the Middle East, and Bowlby's narration keeps the serious subject accessible. It is a compelling listen for prophecy-focused readers.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and follow the analysis. It is an engaging listen for anyone following these events."
+      }
     },
     {
       "asin": "B0H52ZN3S6",
@@ -6917,6 +6915,757 @@
         "q5": "Yes. Start your free 30-day Audible trial, download P.S. It’s Gonna Be Good: How God’s Word Answers Our Questions About Faith, Fear, and All the Things, and press play within minutes. You can cancel anytime and keep the book."
       },
       "contentSource": "template"
+    },
+    {
+      "asin": "B0FB63LD1T",
+      "slug": "her-cold-justice-dugoni",
+      "title": "Her Cold Justice: Keera Duggan, Book 3",
+      "author": "Robert Dugoni",
+      "narrator": "Saskia Maarleveld",
+      "coverUrl": "https://m.media-amazon.com/images/I/51lCzNMpiKL._SL500_.jpg",
+      "duration": "10h 0m",
+      "durationMinutes": 600,
+      "rating": 4.7,
+      "ratingCount": 15000,
+      "listPrice": 21.09,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "best-seller",
+        "series"
+      ],
+      "description": "Her Cold Justice is the third Keera Duggan legal thriller, pitting the Seattle lawyer against a cold case that threatens everything.",
+      "releaseDate": "2026-01-27",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0FB63LD1T?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Her Cold Justice is the third book in Robert Dugoni's Keera Duggan series, a legal thriller about a cold case with powerful enemies. Saskia Maarleveld narrates.",
+        "q2": "For legal-thriller and procedural fans who love smart heroines and Seattle settings. It solves the problem of a reliable series with a strong female lead.",
+        "q3": "Great for commutes and evenings; the courtroom and investigation threads keep the pace brisk. A solid weekly listen.",
+        "q4": "Dugoni is a master of legal thrillers, and Keera is one of his most compelling protagonists. Maarleveld brings both toughness and vulnerability.",
+        "q5": "Absolutely. Start your free trial and follow the cold case. New readers can jump in without reading the earlier books."
+      }
+    },
+    {
+      "asin": "B0FF666V97",
+      "slug": "unselected-journals-emma-m-lion-vol1",
+      "title": "The Unselected Journals of Emma M. Lion: Vol. 1",
+      "author": "Beth Brower",
+      "narrator": "Genevieve Gaunt",
+      "coverUrl": "https://m.media-amazon.com/images/I/51WEiHz1+wL._SL500_.jpg",
+      "duration": "6h 30m",
+      "durationMinutes": 390,
+      "rating": 4.8,
+      "ratingCount": 20000,
+      "listPrice": 13.62,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction"
+      ],
+      "tags": [
+        "top-rated",
+        "series",
+        "cozy"
+      ],
+      "description": "The first volume of the beloved found-family Victorian London series, told through Emma M. Lion's witty, heartwarming journals.",
+      "releaseDate": "2025-08-14",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0FF666V97?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Unselected Journals of Emma M. Lion Vol. 1 is the charming opening of Beth Brower's Victorian London series, told through the heroine's diary. Genevieve Gaunt narrates.",
+        "q2": "For readers who love cozy, character-driven historical fiction and diary formats. It solves the problem of finding a warm, witty series with real heart.",
+        "q3": "Perfect for short commutes and cozy evenings; the journal entries make it easy to pause and resume. A gentle, quick listen.",
+        "q4": "Brower's journal style and Gaunt's narration create an intimate, witty voice that has built a devoted following. It is comfort listening at its best.",
+        "q5": "Absolutely. Start your free trial and open the first journal. You will want to collect every volume."
+      }
+    },
+    {
+      "asin": "B00X0TKUS0",
+      "slug": "48-laws-of-power-greene",
+      "title": "48 Laws of Power",
+      "author": "Robert Greene",
+      "narrator": "Richard Poe",
+      "coverUrl": "https://m.media-amazon.com/images/I/41dTDMW9IhL._SL500_.jpg",
+      "duration": "21h 20m",
+      "durationMinutes": 1280,
+      "rating": 4.6,
+      "ratingCount": 30000,
+      "listPrice": 28.32,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "business",
+        "self-improvement"
+      ],
+      "tags": [
+        "classic",
+        "top-rated",
+        "long-read"
+      ],
+      "description": "The 48 Laws of Power is Robert Greene's controversial classic on strategy and influence, drawing on centuries of history.",
+      "releaseDate": "2015-05-01",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B00X0TKUS0?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The 48 Laws of Power by Robert Greene is a modern classic of strategy and psychology, distilling lessons from history into 48 rules. Richard Poe narrates this 21-hour audiobook.",
+        "q2": "For ambitious professionals, leaders, and readers fascinated by power dynamics. It solves the problem of understanding influence with memorable, historically grounded laws.",
+        "q3": "Great for commutes and focused sessions; each law is self-contained, making it easy to digest one at a time. Excellent value at 21 hours.",
+        "q4": "Greene's research spans centuries and cultures, and Poe's measured narration gives each law weight. It is one of the most referenced strategy books in business and entertainment.",
+        "q5": "Absolutely. Start your free trial and learn one law per commute. It is a dense, rewarding listen for anyone navigating power."
+      }
+    },
+    {
+      "asin": "B07C3WM559",
+      "slug": "ethic-ashley-antoinette",
+      "title": "Ethic",
+      "author": "Ashley Antoinette",
+      "narrator": "iiKane",
+      "coverUrl": "https://m.media-amazon.com/images/I/31f+TtWi5GL._SL500_.jpg",
+      "duration": "9h 15m",
+      "durationMinutes": 555,
+      "rating": 4.7,
+      "ratingCount": 10000,
+      "listPrice": 18.5,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction",
+        "romance"
+      ],
+      "tags": [
+        "best-seller",
+        "series",
+        "urban-fiction"
+      ],
+      "description": "Ethic is the series opener that made Ashley Antoinette a force in urban romance, following a dangerous man who thought he could never love again.",
+      "releaseDate": "2018-04-10",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B07C3WM559?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Ethic by Ashley Antoinette is the first novel in the best-selling Ethic series, an urban romance about a ruthless man whose past catches up with him when love enters his life. iiKane narrates this 9-hour audiobook.",
+        "q2": "For readers who love urban romance, morally complex heroes, and love stories with real grit. It solves the problem of finding a series that balances street-level danger with genuine emotional depth.",
+        "q3": "Perfect for evenings and weekend binges; the fast pacing and dramatic twists make it hard to pause. A strong one-credit listen.",
+        "q4": "Ashley Antoinette built a devoted audience by writing heroes who are dangerous yet tender, and Ethic is where the phenomenon began. The audiobook's narration adds raw intensity to the story.",
+        "q5": "Absolutely. Start your free 30-day Audible trial, download Ethic, and you will be drawn into the story in the first chapter. This is where the series starts."
+      }
+    },
+    {
+      "asin": "B0GHSNJQ6Z",
+      "slug": "finding-you-wright-heroes-of-maine-patchen",
+      "title": "Finding You: The Wright Heroes of Maine, Book 3",
+      "author": "Robin Patchen",
+      "narrator": "Leonor A. Woodworth",
+      "coverUrl": "https://m.media-amazon.com/images/I/519p5k6jArL._SL500_.jpg",
+      "duration": "9h 0m",
+      "durationMinutes": 540,
+      "rating": 4.6,
+      "ratingCount": 3000,
+      "listPrice": 21.39,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "mystery-thriller"
+      ],
+      "tags": [
+        "series",
+        "romantic-suspense",
+        "new-release"
+      ],
+      "description": "Finding You is the third Wright Heroes of Maine novel, a romantic suspense story about protecting the people you love in a town full of secrets.",
+      "releaseDate": "2026-01-20",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GHSNJQ6Z?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Finding You is the third book in Robin Patchen's Wright Heroes of Maine series, a romantic suspense novel about danger, faith, and second chances. Leonor A. Woodworth narrates this 9-hour audiobook.",
+        "q2": "For readers who love clean romantic suspense, small-town settings, and heroes who risk everything for family. It solves the problem of finding a series with both romance and genuine thriller tension.",
+        "q3": "Great for commutes and evenings; the suspense threads keep the pace moving while the romance builds. A satisfying one-credit listen.",
+        "q4": "Patchen is a reliable voice in inspirational romantic suspense, and the Wright Heroes series pairs a loving family dynamic with real stakes. Woodworth's narration keeps the tension and warmth in balance.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and join the Wrights in Shadow Cove. New readers can start here, though book one gives the full family history."
+      }
+    },
+    {
+      "asin": "B0G53ZL9GN",
+      "slug": "sheltering-you-wright-heroes-of-maine-patchen",
+      "title": "Sheltering You: Terror in Shadow Cove: The Wright Heroes of Maine, Book 4",
+      "author": "Robin Patchen",
+      "narrator": "Leonor A. Woodworth",
+      "coverUrl": "https://m.media-amazon.com/images/I/51OYGSRRDDL._SL500_.jpg",
+      "duration": "9h 30m",
+      "durationMinutes": 570,
+      "rating": 4.6,
+      "ratingCount": 2500,
+      "listPrice": 21.62,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "mystery-thriller"
+      ],
+      "tags": [
+        "series",
+        "romantic-suspense",
+        "new-release"
+      ],
+      "description": "Sheltering You raises the stakes in Shadow Cove as the Wright family faces a terror threat that puts everything on the line.",
+      "releaseDate": "2025-12-05",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0G53ZL9GN?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Sheltering You is the fourth Wright Heroes of Maine novel, a romantic suspense thriller where the Wrights protect their town from a terrifying threat. Leonor A. Woodworth narrates this 9.5-hour audiobook.",
+        "q2": "For romantic-suspense readers who love family-centered heroes, faith themes, and high-stakes plots. It solves the problem of finding a clean thriller that still delivers real tension.",
+        "q3": "Perfect for evenings and weekends; the escalating threat makes it easy to keep listening. A strong one-credit read.",
+        "q4": "Patchen turns the series up a notch here, giving readers both the warm family dynamic and a genuinely frightening plot. Woodworth brings urgency to every scene.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and see the Wrights tested like never before. Series fans should not miss this entry."
+      }
+    },
+    {
+      "asin": "B0GH2LS337",
+      "slug": "innocent-lies-nutfield-saga-patchen",
+      "title": "Innocent Lies: Nutfield Saga, Book 4",
+      "author": "Robin Patchen",
+      "narrator": "Karen White",
+      "coverUrl": "https://m.media-amazon.com/images/I/51bTSGevLvL._SL500_.jpg",
+      "duration": "10h 0m",
+      "durationMinutes": 600,
+      "rating": 4.6,
+      "ratingCount": 2000,
+      "listPrice": 20.66,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "mystery-thriller"
+      ],
+      "tags": [
+        "series",
+        "romantic-suspense",
+        "new-release"
+      ],
+      "description": "Innocent Lies continues the Nutfield Saga with a web of small-town secrets and a love that has to survive the truth.",
+      "releaseDate": "2026-01-16",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GH2LS337?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Innocent Lies is the fourth book in Robin Patchen's Nutfield Saga, a romantic suspense novel about hidden pasts and dangerous truths in a small town. Karen White narrates this 10-hour audiobook.",
+        "q2": "For readers who love secret-laden small-town romance and suspense with emotional depth. It solves the problem of finding a series that balances mystery with a satisfying love story.",
+        "q3": "Great for commutes and longer listening sessions; the layered mystery rewards attention. A comfortable one-credit commitment.",
+        "q4": "Patchen weaves faith, family, and suspense into a story where the truth hurts but heals, and White's narration gives every secret real weight.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and unravel the lies with the Nutfield family. New readers can jump in here."
+      }
+    },
+    {
+      "asin": "B0GJTXLD6V",
+      "slug": "protecting-you-wright-heroes-of-maine-patchen",
+      "title": "Protecting You: Schemes and Lies in Shadow Cove (The Wright Heroes of Maine, Book 5)",
+      "author": "Robin Patchen",
+      "narrator": "Leonor A. Woodworth",
+      "coverUrl": "https://m.media-amazon.com/images/I/519QwnzXt-L._SL500_.jpg",
+      "duration": "9h 45m",
+      "durationMinutes": 585,
+      "rating": 4.6,
+      "ratingCount": 2000,
+      "listPrice": 22.51,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "romance",
+        "mystery-thriller"
+      ],
+      "tags": [
+        "series",
+        "romantic-suspense",
+        "new-release"
+      ],
+      "description": "Protecting You is the fifth Wright Heroes of Maine novel, where schemes in Shadow Cove force the family to fight for the people they love.",
+      "releaseDate": "2026-01-26",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GJTXLD6V?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Protecting You is the fifth Wright Heroes of Maine novel, a romantic suspense story about family loyalty and the lengths love will go to protect its own. Leonor A. Woodworth narrates this 9.75-hour audiobook.",
+        "q2": "For readers invested in the Wright family and fans of clean, faith-filled romantic suspense. It solves the problem of waiting for the next chapter of a beloved series.",
+        "q3": "Perfect for evenings and weekends; the scheme-driven plot keeps chapters turning. A strong addition to the series.",
+        "q4": "Patchen keeps the family at the center while raising the stakes, and Woodworth's narration makes each Wright distinct. It is comfort reading with real tension.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and return to Shadow Cove. Series readers will want this immediately."
+      }
+    },
+    {
+      "asin": "B0H45GLTSX",
+      "slug": "still-lost-tales-from-2080-miller",
+      "title": "Still Lost: Tales from 2080",
+      "author": "Sam A. Miller",
+      "narrator": "Sam A. Miller",
+      "coverUrl": "https://m.media-amazon.com/images/I/518jG6bLNTL._SL500_.jpg",
+      "duration": "11h 0m",
+      "durationMinutes": 660,
+      "rating": 4.6,
+      "ratingCount": 1000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "new-release",
+        "humor",
+        "bestseller"
+      ],
+      "description": "Still Lost: Tales from 2080 is a funny, sharp sci-fi collection for readers who love Matt Dinniman and Andy Weir, full of clever near-future stories.",
+      "releaseDate": "2026-09-29",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0H45GLTSX?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Still Lost: Tales from 2080 is a sci-fi short-story collection by Sam A. Miller, blending humor and big ideas in a near-future world. At 11 hours, it is a fun, clever listen for speculative-fiction fans.",
+        "q2": "For readers who love the wit of Matt Dinniman and the science of Andy Weir, and anyone who enjoys sharp short stories. It solves the problem of finding a varied, entertaining sci-fi listen.",
+        "q3": "Perfect for commutes and evenings; each story is self-contained, making it easy to pause between tales. A flexible, enjoyable listen.",
+        "q4": "Miller's collection captures the humor and curiosity of modern sci-fi favorites, with stories that are both funny and surprisingly thoughtful. Great for readers who want a taste of many ideas in one credit.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and dive into 2080. Short-story fans will find something to love in every chapter."
+      }
+    },
+    {
+      "asin": "B005RZ7COU",
+      "slug": "magic-school-bus-inside-the-earth-cole",
+      "title": "The Magic School Bus Inside the Earth",
+      "author": "Joanna Cole",
+      "narrator": "Polly Adams",
+      "coverUrl": "https://m.media-amazon.com/images/I/61SaVGBEoLL._SL500_.jpg",
+      "duration": "1h 0m",
+      "durationMinutes": 60,
+      "rating": 4.7,
+      "ratingCount": 1000,
+      "listPrice": 3.83,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "children",
+        "science"
+      ],
+      "tags": [
+        "classic",
+        "kids",
+        "education"
+      ],
+      "description": "The Magic School Bus Inside the Earth is the classic science adventure where Ms. Frizzle takes her class on a journey to the planet's core.",
+      "releaseDate": "2011-10-01",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B005RZ7COU?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Magic School Bus Inside the Earth is the beloved science classic by Joanna Cole, narrated by Polly Adams. In about 1 hour, Ms. Frizzle takes her class on a wild field trip to the center of the Earth.",
+        "q2": "For young science lovers and families who want learning disguised as adventure. It solves the problem of making geology and earth science genuinely fun for kids.",
+        "q3": "Perfect for car rides, classroom listening, and bedtime; the short runtime makes it easy to fit into any day.",
+        "q4": "The Magic School Bus remains one of the most successful educational franchises ever, and this audiobook captures the original's playful curiosity. It is a timeless way to introduce kids to science.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and climb aboard the bus. It is a perfect first science audiobook for young listeners."
+      }
+    },
+    {
+      "asin": "B001QKBHG4",
+      "slug": "the-final-empire-mistborn-sanderson",
+      "title": "The Final Empire: Mistborn Book 1",
+      "author": "Brandon Sanderson",
+      "narrator": "Michael Kramer",
+      "coverUrl": "https://m.media-amazon.com/images/I/61rYqiz8yJL._SL500_.jpg",
+      "duration": "17h 0m",
+      "durationMinutes": 1020,
+      "rating": 4.6,
+      "ratingCount": 85000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fantasy",
+        "fiction"
+      ],
+      "tags": [
+        "fantasy",
+        "series",
+        "best-seller",
+        "top-rated"
+      ],
+      "description": "The Final Empire is the first book in Brandon Sanderson's Mistborn trilogy, a heist-led epic fantasy where a young street thief may hold the key to overthrowing an immortal tyrant.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B001QKBHG4?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Final Empire is the first book in Brandon Sanderson's Mistborn trilogy, a heist-led epic fantasy where a young street thief discovers she may be key to overthrowing an immortal tyrant. Michael Kramer narrates this 17-hour audiobook.",
+        "q2": "For fantasy readers who love deep magic systems, twisty plots, and a strong female lead. It solves the problem of finding an epic series with worldbuilding that rewards careful listening.",
+        "q3": "Great for long commutes and marathon sessions; the heist structure and escalating twists keep it addictive. Outstanding value at 17 hours for one credit.",
+        "q4": "Sanderson's magic system is one of the most inventive in fantasy, and Kramer's narration is a benchmark for the genre. Mistborn is a gateway epic with broad appeal.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and begin the adventure. Fans of Sanderson and high fantasy will be hooked instantly."
+      }
+    },
+    {
+      "asin": "B01COR1GM2",
+      "slug": "never-split-the-difference-voss",
+      "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
+      "author": "Chris Voss, Tahl Raz",
+      "narrator": "Michael Kramer",
+      "coverUrl": "https://m.media-amazon.com/images/I/51gx6VN0-UL._SL500_.jpg",
+      "duration": "8h 0m",
+      "durationMinutes": 480,
+      "rating": 4.6,
+      "ratingCount": 40000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business",
+        "best-seller"
+      ],
+      "description": "Never Split the Difference is former FBI hostage negotiator Chris Voss's guide to high-stakes negotiation, packed with real cases and practical tactics.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B01COR1GM2?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Never Split the Difference is former FBI hostage negotiator Chris Voss's guide to high-stakes negotiation, packed with real cases and practical tactics. Michael Kramer narrates this 8-hour audiobook.",
+        "q2": "For professionals, salespeople, managers, and anyone who negotiates daily. It solves the problem of getting better outcomes by understanding that negotiation is about emotion and empathy, not just logic.",
+        "q3": "Perfect for commutes; each chapter is a self-contained technique with stories, so you can apply the next tactic the same day.",
+        "q4": "Voss's law-enforcement pedigree and counterintuitive techniques like tactical empathy and calibrated questions set it apart from generic negotiation advice. It is a modern classic.",
+        "q5": "Absolutely. Start your free trial and put the first tactic to work today. It is one of the most immediately useful business audiobooks."
+      }
+    },
+    {
+      "asin": "B09XRF2SWN",
+      "slug": "the-housemaid-mcfadden",
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "narrator": "Lauryn Allman",
+      "coverUrl": "https://m.media-amazon.com/images/I/51evKjzP7DL._SL500_.jpg",
+      "duration": "9h 0m",
+      "durationMinutes": 540,
+      "rating": 4.5,
+      "ratingCount": 35000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "mystery-thriller",
+        "best-seller",
+        "top-rated"
+      ],
+      "description": "The Housemaid is Freida McFadden's twisty psychological thriller, following a live-in housemaid who uncovers dark secrets behind her employers' picture-perfect home.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B09XRF2SWN?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Housemaid is Freida McFadden's twisty psychological thriller, following a live-in housemaid who uncovers dark secrets behind her employers' picture-perfect home. Lauryn Allman narrates this 9-hour audiobook.",
+        "q2": "For fans of domestic suspense and unreliable-narrator thrillers. It solves the problem of a fast, bingeable mystery you can finish in a weekend.",
+        "q3": "Great for evenings and rainy weekends; the short chapters and cliffhangers make it hard to pause.",
+        "q4": "McFadden's plotting and Allman's narration maintain the tension, with a finale that recontextualizes the whole story. It is a runaway bestseller for a reason.",
+        "q5": "Absolutely. Start your free trial and step inside the house. If you love domestic suspense, you will be glued to this one."
+      }
+    },
+    {
+      "asin": "B086DL5TVZ",
+      "slug": "the-thursday-murder-club-osman",
+      "title": "The Thursday Murder Club: A Novel",
+      "author": "Richard Osman",
+      "narrator": "Lesley Manville",
+      "coverUrl": "https://m.media-amazon.com/images/I/51r8veE8I5L._SL500_.jpg",
+      "duration": "8h 0m",
+      "durationMinutes": 480,
+      "rating": 4.5,
+      "ratingCount": 20000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "mystery-thriller",
+        "cozy",
+        "best-seller",
+        "series"
+      ],
+      "description": "The Thursday Murder Club is Richard Osman's best-selling cozy mystery about four friends in a retirement village who solve cold cases for fun.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B086DL5TVZ?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Thursday Murder Club is Richard Osman's best-selling cozy mystery about four friends in a retirement village who solve cold cases for fun. Lesley Manville narrates this 8-hour audiobook.",
+        "q2": "For fans of gentle, character-driven mysteries with wit and heart. It solves the problem of a charming whodunit with no gore and plenty of charm.",
+        "q3": "Perfect for cozy listening — commutes, tea breaks, or a relaxed evening. A feel-good mystery that is easy to pick up.",
+        "q4": "Osman's warm humor and a cast of unforgettable retirees make it stand out, and Manville's narration adds wit and warmth. It is a delightful series opener.",
+        "q5": "Absolutely. Start your free trial and join the club. You will want the whole series after the first chapter."
+      }
+    },
+    {
+      "asin": "B01D2749JA",
+      "slug": "battlefield-earth-hubbard",
+      "title": "Battlefield Earth: Post-Apocalyptic Sci-Fi and New York Times Bestseller",
+      "author": "L. Ron Hubbard",
+      "narrator": "Josh Clark, Corey Burton, Fred Tatascorie, Stefan Rudnicki, Nancy Cartwright, R. F. Daley, Kaleo Griffith, Don Leslie, Ralph Lister, Scott Menville, Jim Meskimen, Tamra Meskimen, Phillip Proctor, Michael Yurchak, Full Cast",
+      "coverUrl": "https://m.media-amazon.com/images/I/61cbN+H7UIL._SL500_.jpg",
+      "duration": "24h 0m",
+      "durationMinutes": 1440,
+      "rating": 3.8,
+      "ratingCount": 15000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "sci-fi",
+        "long",
+        "full-cast",
+        "classic"
+      ],
+      "description": "Battlefield Earth is L. Ron Hubbard's sprawling post-apocalyptic sci-fi epic, in which humanity fights back after an alien race conquers Earth.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B01D2749JA?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Battlefield Earth is L. Ron Hubbard's sprawling post-apocalyptic sci-fi epic, in which humanity fights back after an alien race conquers Earth. This full-cast production runs 24 hours.",
+        "q2": "For fans of classic, wide-canvas space opera and post-apocalyptic sci-fi. It solves the problem of finding a huge, immersive story that eats up hours of listening.",
+        "q3": "Best for road trips and long listening stretches; at 24 hours it is excellent value per credit and a great pick for drive time.",
+        "q4": "The full-cast audio production brings the epic scale to life, and its length and spectacle make it a cult favorite of long-form sci-fi fans.",
+        "q5": "Absolutely. Start your free 30-day Audible trial and jump into the long, immersive saga. It is a great fit for listeners who want maximum length."
+      }
+    },
+    {
+      "asin": "B08MVH18BX",
+      "slug": "ruins-of-the-earth-hopper-chaney",
+      "title": "Ruins of the Earth: Ruins of the Earth, Book 1",
+      "author": "Christopher Hopper, J. N. Chaney",
+      "narrator": "R.C. Bray",
+      "coverUrl": "https://m.media-amazon.com/images/I/51WCgvhozFL._SL500_.jpg",
+      "duration": "9h 0m",
+      "durationMinutes": 540,
+      "rating": 4.5,
+      "ratingCount": 25000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "sci-fi",
+        "series"
+      ],
+      "description": "Ruins of the Earth is the first book in Christopher Hopper and J. N. Chaney's sci-fi adventure series, where a team uncovers an alien weapon beneath an ancient Earth site.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B08MVH18BX?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Ruins of the Earth is the first book in Christopher Hopper and J. N. Chaney's sci-fi adventure series, where a team uncovers an alien weapon beneath an ancient Earth site. R.C. Bray narrates this 9-hour audiobook.",
+        "q2": "For fans of military sci-fi, alien-invasion action, and ensemble casts. It solves the problem of a fast-paced thriller with big set pieces.",
+        "q3": "Great for commutes and workouts; the action beats and short chapters keep momentum high.",
+        "q4": "R.C. Bray's narration is a genre favorite, and Hopper and Chaney's military sci-fi chops make this a strong series entry with wide appeal.",
+        "q5": "Absolutely. Start your free trial and join the mission. If you like military sci-fi with a big alien threat, this delivers."
+      }
+    },
+    {
+      "asin": "B00I0A6HUO",
+      "slug": "the-hard-thing-about-hard-things-horowitz",
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+      "author": "Ben Horowitz",
+      "narrator": "Kevin Kenerly",
+      "coverUrl": "https://m.media-amazon.com/images/I/51rQd61RAdL._SL500_.jpg",
+      "duration": "9h 0m",
+      "durationMinutes": 540,
+      "rating": 4.4,
+      "ratingCount": 30000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "business"
+      ],
+      "tags": [
+        "business",
+        "startup"
+      ],
+      "description": "The Hard Thing About Hard Things is Ben Horowitz's candid guide to the brutal realities of building and running a startup, drawn from his own tough decisions.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B00I0A6HUO?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Hard Thing About Hard Things is Ben Horowitz's candid guide to the brutal realities of building and running a startup, drawn from his own tough decisions. Kevin Kenerly narrates this 9-hour audiobook.",
+        "q2": "For founders, executives, and startup operators navigating hard calls. It solves the problem of a no-nonsense, warts-and-all look at managing through crises.",
+        "q3": "Perfect for commutes and focused sessions; the lessons map directly to real management dilemmas.",
+        "q4": "Horowitz addresses the messy stuff most business books skip — layoffs, hiring, and morale — with unusual honesty. Kenerly's narration keeps it grounded.",
+        "q5": "Absolutely. Start your free trial and get the straight talk. It is a must-listen for anyone leading through hard times."
+      }
+    },
+    {
+      "asin": "B0DYGHQ7Z4",
+      "slug": "nobody-knows-youre-here-greenwood",
+      "title": "Nobody Knows You're Here: A Psychological Suspense Thriller",
+      "author": "Bryn Greenwood",
+      "narrator": "Kristen Sieh",
+      "coverUrl": "https://m.media-amazon.com/images/I/51F7JynkXRL._SL500_.jpg",
+      "duration": "8h 0m",
+      "durationMinutes": 480,
+      "rating": 4.2,
+      "ratingCount": 5000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "mystery-thriller"
+      ],
+      "tags": [
+        "mystery-thriller",
+        "psychological"
+      ],
+      "description": "Nobody Knows You're Here is Bryn Greenwood's psychological suspense thriller, a slow-burn story of a woman who stays hidden after a shocking act.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0DYGHQ7Z4?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Nobody Knows You're Here is Bryn Greenwood's psychological suspense thriller, a slow-burn story of a woman who stays hidden after a shocking act. Kristen Sieh narrates this 8-hour audiobook.",
+        "q2": "For readers who love character-driven psychological suspense and morally gray protagonists. It solves the problem of a tense, atmospheric read with no easy answers.",
+        "q3": "Great for quiet evenings; the building dread rewards unhurried, immersive listening.",
+        "q4": "Greenwood's prose is literary and tense, and Sieh's narration captures the protagonist's isolation. It stands out for readers who want depth as well as thrills.",
+        "q5": "Absolutely. Start your free trial and enter the story. It is a gripping, character-first suspense listen."
+      }
+    },
+    {
+      "asin": "B0GRCDVC6D",
+      "slug": "starship-new-jersey-box-set-bartlett",
+      "title": "Starship New Jersey Box Set: The Complete 10-Book SciFi Series",
+      "author": "Scott Bartlett",
+      "narrator": "Mark Boyett",
+      "coverUrl": "https://m.media-amazon.com/images/I/51kJo4UwSaL._SL500_.jpg",
+      "duration": "10h 0m",
+      "durationMinutes": 600,
+      "rating": 4.3,
+      "ratingCount": 10000,
+      "listPrice": 0,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "sci-fi",
+        "series",
+        "box-set"
+      ],
+      "description": "Starship New Jersey Box Set collects the complete 10-book sci-fi series from Scott Bartlett, following the crew of a renegade military vessel through a war-torn galaxy.",
+      "releaseDate": "",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0GRCDVC6D?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Starship New Jersey Box Set collects the complete 10-book sci-fi series from Scott Bartlett, following the crew of a renegade military vessel through a war-torn galaxy. Mark Boyett narrates this 10-hour audiobook.",
+        "q2": "For fans of military space opera, naval-style sci-fi, and bingeable box sets. It solves the problem of getting a whole series in one credit.",
+        "q3": "Great for focused listening stretches and space-opera marathons; packed episodes keep the action flowing.",
+        "q4": "A full 10-book series in one box set is outstanding value, and Boyett's narration keeps the large cast of characters distinct.",
+        "q5": "Absolutely. Start your free trial and board the Starship New Jersey. It is a strong pick for space-opera fans who want a lot of listening per credit."
+      }
     }
   ]
 }
