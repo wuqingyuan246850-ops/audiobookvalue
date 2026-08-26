@@ -1,5 +1,5 @@
 {
-  "lastDate": "2026-08-25",
+  "lastDate": "2026-08-26",
   "seenAsins": [
     "B08C8XFQMN",
     "B092P12K71",
@@ -199,7 +199,12 @@
     "B000G12CJ0",
     "B000FUG5RW",
     "B000F2C70Y",
-    "B0H5L3LJTR"
+    "B0H5L3LJTR",
+    "B0H2LQ5GBQ",
+    "B0H61WBJH5",
+    "B08JMBPZ3B",
+    "B0FY448PT1",
+    "B0BXBCK8NT"
   ],
   "priceMap": {
     "B08C8XFQMN": 20.53,
@@ -400,7 +405,12 @@
     "B000G12CJ0": 2.94,
     "B000FUG5RW": 2.94,
     "B000F2C70Y": 2.94,
-    "B0H5L3LJTR": 22.8
+    "B0H5L3LJTR": 22.8,
+    "B0H2LQ5GBQ": 32.95,
+    "B0H61WBJH5": 19.8,
+    "B08JMBPZ3B": 30.27,
+    "B0FY448PT1": 18.06,
+    "B0BXBCK8NT": 22.16
   },
   "onSaleMap": {
     "B08C8XFQMN": false,
@@ -601,22 +611,27 @@
     "B000G12CJ0": false,
     "B000FUG5RW": false,
     "B000F2C70Y": false,
-    "B0H5L3LJTR": false
+    "B0H5L3LJTR": false,
+    "B0H2LQ5GBQ": false,
+    "B0H61WBJH5": false,
+    "B08JMBPZ3B": false,
+    "B0FY448PT1": false,
+    "B0BXBCK8NT": false
   },
   "changesToday": {
     "newAsins": [
-      "B000F2C704",
-      "B000G12CJ0",
-      "B000FUG5RW",
-      "B000F2C70Y",
-      "B0H5L3LJTR"
+      "B0H2LQ5GBQ",
+      "B0H61WBJH5",
+      "B08JMBPZ3B",
+      "B0FY448PT1",
+      "B0BXBCK8NT"
     ],
     "onSaleAsins": [
-      "B000F2C704",
-      "B000G12CJ0",
-      "B000FUG5RW",
-      "B000F2C70Y",
-      "B0H5L3LJTR"
+      "B0H2LQ5GBQ",
+      "B0H61WBJH5",
+      "B08JMBPZ3B",
+      "B0FY448PT1",
+      "B0BXBCK8NT"
     ],
     "priceDropAsins": [],
     "removedAsins": []
