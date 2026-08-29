@@ -1,5 +1,5 @@
 {
-  "lastDate": "2026-08-28",
+  "lastDate": "2026-08-29",
   "seenAsins": [
     "B08C8XFQMN",
     "B092P12K71",
@@ -664,22 +664,8 @@
     "B0B94W54D6": false
   },
   "changesToday": {
-    "newAsins": [
-      "B07BFJF8PP",
-      "B0HDPWKVNS",
-      "B09W61K2J4",
-      "B0CXF6GC85",
-      "B0FWMK9218",
-      "B0B94W54D6"
-    ],
-    "onSaleAsins": [
-      "B07BFJF8PP",
-      "B0HDPWKVNS",
-      "B09W61K2J4",
-      "B0CXF6GC85",
-      "B0FWMK9218",
-      "B0B94W54D6"
-    ],
+    "newAsins": [],
+    "onSaleAsins": [],
     "priceDropAsins": [],
     "removedAsins": []
   }
