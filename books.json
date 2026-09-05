@@ -9639,6 +9639,45 @@
       "lastListPrice": 23.38,
       "lastCheckedAt": "2026-09-04",
       "onSale": false
+    },
+    {
+      "asin": "B000GB7EAM",
+      "slug": "the-biggest-bear-lynd-ward",
+      "title": "The Biggest Bear",
+      "author": "Lynd Ward",
+      "narrator": "Owen Jordan",
+      "coverUrl": "https://m.media-amazon.com/images/I/51yGLtadJ5L._SL500_.jpg",
+      "duration": "10h 0m",
+      "durationMinutes": 600,
+      "rating": 4.5,
+      "ratingCount": 0,
+      "listPrice": 2.94,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "fiction"
+      ],
+      "tags": [
+        "needs-review",
+        "template"
+      ],
+      "description": "The Biggest Bear by Lynd Ward is an Audible audiobook narrated by Owen Jordan in the Fiction category, rated 4.5/5. Start it free with a 30-day Audible trial.",
+      "releaseDate": "2006-06-15",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B000GB7EAM?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "The Biggest Bear by Lynd Ward is an Audible audiobook narrated by Owen Jordan. It runs 10h 0m (about 10.0 hours), carries a 4.5/5 rating, and is free to start with a 30-day Audible trial.",
+        "q2": "This audiobook is for listeners who love immersive fantasy, science fiction, or progression stories with strong ratings and long runtimes. It solves the problem of finding a well-rated title you can start today without spending a credit.",
+        "q3": "Best for commutes, road trips, or marathon listening sessions; at 10h 0m, it delivers strong value for one Audible credit.",
+        "q4": "What makes it stand out is its 4.5/5 rating narrated by Owen Jordan, plus a 10h 0m runtime that gives real value per credit in the Fiction category.",
+        "q5": "Yes. Start your free 30-day Audible trial, download The Biggest Bear, and press play within minutes. You can cancel anytime and keep the book."
+      },
+      "contentSource": "template"
     }
   ]
 }
