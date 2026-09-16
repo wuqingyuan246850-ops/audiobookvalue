@@ -9849,6 +9849,46 @@
       "lastListPrice": 22.51,
       "lastCheckedAt": "2026-09-15",
       "onSale": false
+    },
+    {
+      "asin": "B0DCC6RXRN",
+      "slug": "returner-s-defiance-bruce-sentar",
+      "title": "Returner's Defiance",
+      "author": "Bruce Sentar",
+      "narrator": "Christopher Boucher",
+      "coverUrl": "https://m.media-amazon.com/images/I/51o20pmI81L._SL500_.jpg",
+      "duration": "10h 0m",
+      "durationMinutes": 600,
+      "rating": 4.5,
+      "ratingCount": 0,
+      "listPrice": 23.17,
+      "audiblePrice": 0,
+      "isCreditEligible": true,
+      "isPlusCatalog": false,
+      "categories": [
+        "sci-fi",
+        "fiction"
+      ],
+      "tags": [
+        "needs-review",
+        "template"
+      ],
+      "description": "Returner's Defiance by Bruce Sentar is an Audible audiobook narrated by Christopher Boucher in the Sci-fi/Fiction category, rated 4.5/5. Start it free with a 30-day Audible trial.",
+      "releaseDate": "2024-09-09",
+      "binding": "Audible Audiobook",
+      "formats": [
+        "Unabridged"
+      ],
+      "detailPageURL": "https://www.amazon.com/dp/B0DCC6RXRN?tag=yuanyuan07-20&linkCode=ogi&th=1&psc=1",
+      "needsReview": true,
+      "questions": {
+        "q1": "Returner's Defiance by Bruce Sentar is an Audible audiobook narrated by Christopher Boucher. It runs 10h 0m (about 10.0 hours), carries a 4.5/5 rating, and is free to start with a 30-day Audible trial.",
+        "q2": "This audiobook is for listeners who love immersive fantasy, science fiction, or progression stories with strong ratings and long runtimes. It solves the problem of finding a well-rated title you can start today without spending a credit.",
+        "q3": "Best for commutes, road trips, or marathon listening sessions; at 10h 0m, it delivers strong value for one Audible credit.",
+        "q4": "What makes it stand out is its 4.5/5 rating narrated by Christopher Boucher, plus a 10h 0m runtime that gives real value per credit in the Sci-fi/Fiction category.",
+        "q5": "Yes. Start your free 30-day Audible trial, download Returner's Defiance, and press play within minutes. You can cancel anytime and keep the book."
+      },
+      "contentSource": "template"
     }
   ]
 }
