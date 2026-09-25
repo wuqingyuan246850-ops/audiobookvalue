@@ -1,5 +1,5 @@
 {
-  "lastDate": "2026-09-21",
+  "lastDate": "2026-09-25",
   "seenAsins": [
     "B08C8XFQMN",
     "B092P12K71",
@@ -703,12 +703,8 @@
     "B0HGBNSKMB": false
   },
   "changesToday": {
-    "newAsins": [
-      "B0HGBNSKMB"
-    ],
-    "onSaleAsins": [
-      "B0HGBNSKMB"
-    ],
+    "newAsins": [],
+    "onSaleAsins": [],
     "priceDropAsins": [],
     "removedAsins": []
   }
