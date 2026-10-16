@@ -171,7 +171,7 @@
       "rating": 4.8,
       "ratingCount": 45000,
       "listPrice": 20.53,
-      "audiblePrice": 17.96,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -197,8 +197,8 @@
         "q5": "Absolutely. Click the link, start your free 30-day Audible trial, download instantly, and press play. The opening chapter introduces you to Bilbo and the Shire within minutes, no preparation needed."
       },
       "lastListPrice": 20.53,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B092P12K71",
@@ -212,7 +212,7 @@
       "rating": 4.6,
       "ratingCount": 32000,
       "listPrice": 29.63,
-      "audiblePrice": 25.93,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -238,8 +238,8 @@
         "q5": "Yes. Start your free trial, download, and within the first hour you meet Sera and the Primal — the hook lands fast. The long runtime means you never run out of story before your trial ends."
       },
       "lastListPrice": 29.63,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0G61F6RX5",
@@ -253,7 +253,7 @@
       "rating": 4.6,
       "ratingCount": 8000,
       "listPrice": 26.38,
-      "audiblePrice": 23.08,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -278,8 +278,8 @@
         "q5": "Absolutely. Start your free trial, download instantly, and the opening chapters set up the conflict and characters quickly. No prior knowledge of the series is needed."
       },
       "lastListPrice": 26.38,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GPQRMFPZ",
@@ -293,7 +293,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 28.58,
-      "audiblePrice": 25.01,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -319,8 +319,8 @@
         "q5": "Yes. Start your free trial, download, and the forced-marriage premise hooks you in the first chapters. You can finish the whole book within your 30-day trial."
       },
       "lastListPrice": 28.58,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GD27YL9M",
@@ -334,7 +334,7 @@
       "rating": 4.5,
       "ratingCount": 6000,
       "listPrice": 23.43,
-      "audiblePrice": 20.5,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -359,8 +359,8 @@
         "q5": "Absolutely. Start your free trial, download, and the fake-dating setup is introduced immediately. It is a fast, bingeable listen you can finish in a few days."
       },
       "lastListPrice": 23.43,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09BDT9PYP",
@@ -374,7 +374,7 @@
       "rating": 4.7,
       "ratingCount": 55000,
       "listPrice": 20.78,
-      "audiblePrice": 7.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -400,8 +400,8 @@
         "q5": "Yes. Start your free trial, download instantly, and Kenna's situation grabs you in the first chapter. You will likely finish it in a single weekend."
       },
       "lastListPrice": 20.78,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07WFQM8FV",
@@ -415,7 +415,7 @@
       "rating": 4.6,
       "ratingCount": 38000,
       "listPrice": 21.02,
-      "audiblePrice": 18.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -440,8 +440,8 @@
         "q5": "Absolutely. Start your free trial, download, and the opening tragedy sets up immediate emotional stakes. No prior familiarity with the author is required."
       },
       "lastListPrice": 21.02,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FKP1SCTF",
@@ -455,7 +455,7 @@
       "rating": 4.5,
       "ratingCount": 7000,
       "listPrice": 19.59,
-      "audiblePrice": 17.14,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -479,8 +479,8 @@
         "q5": "Yes. Start your free trial, download, and the power dynamic is established in the opening scenes. A short, satisfying listen for your free trial period."
       },
       "lastListPrice": 19.59,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FF64RP78",
@@ -494,7 +494,7 @@
       "rating": 4.7,
       "ratingCount": 4000,
       "listPrice": 21.39,
-      "audiblePrice": 18.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -519,8 +519,8 @@
         "q5": "Absolutely. Start your free trial, download, and the journal style welcomes you immediately. It is an easy, low-commitment listen that fits perfectly in a trial."
       },
       "lastListPrice": 21.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GL4CS7SN",
@@ -534,7 +534,7 @@
       "rating": 4.6,
       "ratingCount": 3000,
       "listPrice": 20.73,
-      "audiblePrice": 18.14,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -558,8 +558,8 @@
         "q5": "Yes. Start your free trial, download, and the second-chance setup is clear within the first chapters. A fast, satisfying listen for your trial."
       },
       "lastListPrice": 20.73,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GLR378CD",
@@ -573,7 +573,7 @@
       "rating": 4.6,
       "ratingCount": 15000,
       "listPrice": 31.2,
-      "audiblePrice": 27.3,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -599,8 +599,8 @@
         "q5": "Yes. Start your free trial, download, and the first story pulls you in immediately. With 30+ hours, you get enormous value inside your trial period."
       },
       "lastListPrice": 31.2,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07944YFPW",
@@ -614,7 +614,7 @@
       "rating": 4.7,
       "ratingCount": 48000,
       "listPrice": 30.23,
-      "audiblePrice": 26.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -640,8 +640,8 @@
         "q5": "Absolutely. Start your free trial, download, and Circe's exile is set up beautifully in the opening chapters. You will be pulled into her world immediately."
       },
       "lastListPrice": 28.79,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BGQBVD85",
@@ -655,7 +655,7 @@
       "rating": 4.5,
       "ratingCount": 21000,
       "listPrice": 16.4,
-      "audiblePrice": 14.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -680,8 +680,8 @@
         "q5": "Yes. Start your free trial, download, and the first disappearance happens quickly. You will likely finish it in a weekend — perfect for a trial."
       },
       "lastListPrice": 16.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01K3EKBXS",
@@ -695,7 +695,7 @@
       "rating": 4.7,
       "ratingCount": 16000,
       "listPrice": 26.45,
-      "audiblePrice": 23.09,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -720,8 +720,8 @@
         "q5": "Absolutely. Start your free trial, download, and Bosch is in motion from the first chapter. No prior series knowledge is required to enjoy it."
       },
       "lastListPrice": 25.19,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B019NMZ5MI",
@@ -735,7 +735,7 @@
       "rating": 4.7,
       "ratingCount": 25000,
       "listPrice": 30.34,
-      "audiblePrice": 26.55,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -762,8 +762,8 @@
         "q5": "Yes. Start your free trial, download, and you are thrown back into the rebellion immediately. Series fans get a payoff; newcomers can still enjoy it with minimal backstory."
       },
       "lastListPrice": 30.34,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D9HPNXHX",
@@ -777,7 +777,7 @@
       "rating": 4.6,
       "ratingCount": 10000,
       "listPrice": 26.45,
-      "audiblePrice": 23.09,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -802,8 +802,8 @@
         "q5": "Absolutely. Start your free trial, download, and the ghostwriter premise hooks you immediately. A fast, suspenseful listen for your trial."
       },
       "lastListPrice": 25.19,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00HLPMFU0",
@@ -817,7 +817,7 @@
       "rating": 4.6,
       "ratingCount": 9000,
       "listPrice": 36.84,
-      "audiblePrice": 32.19,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -843,8 +843,8 @@
         "q5": "Yes. Start your free trial, download, and the opening chapters lay out the shocking premise quickly. You will see post-war history differently after the first hour."
       },
       "lastListPrice": 35.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00ELMSEJC",
@@ -858,7 +858,7 @@
       "rating": 4.5,
       "ratingCount": 30000,
       "listPrice": 47.24,
-      "audiblePrice": 41.29,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -884,8 +884,8 @@
         "q5": "Absolutely. Start your free trial, download, and the museum bombing sequence grips you from the first minutes. At 32+ hours, you get extraordinary value inside your trial."
       },
       "lastListPrice": 44.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B074MHWM33",
@@ -899,7 +899,7 @@
       "rating": 4.7,
       "ratingCount": 12000,
       "listPrice": 31.35,
-      "audiblePrice": 27.43,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -924,8 +924,8 @@
         "q5": "Yes. Start your free trial, download, and the continuation hooks you quickly. New listeners can start here, but series readers will get the most from the payoff."
       },
       "lastListPrice": 31.35,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08V8877BY",
@@ -939,7 +939,7 @@
       "rating": 4.8,
       "ratingCount": 50000,
       "listPrice": 22.5,
-      "audiblePrice": 19.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -967,8 +967,8 @@
         "q5": "Absolutely. Start your free Audible trial, download instantly, and Carl's chaotic first dungeon level hooks you in the opening minutes. No LitRPG background is needed to enjoy it."
       },
       "lastListPrice": 22.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09345T1HY",
@@ -981,8 +981,8 @@
       "durationMinutes": 1320,
       "rating": 4.8,
       "ratingCount": 30000,
-      "listPrice": 21.04,
-      "audiblePrice": 18.41,
+      "listPrice": 20.49,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1010,8 +1010,8 @@
         "q5": "Yes. Start your free trial and pick up where book one left off; the story recaps the essentials quickly. If you loved the first book, this delivers more of everything."
       },
       "lastListPrice": 20.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B094X214V9",
@@ -1025,7 +1025,7 @@
       "rating": 4.8,
       "ratingCount": 25000,
       "listPrice": 25.22,
-      "audiblePrice": 22.07,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1053,8 +1053,8 @@
         "q5": "Absolutely. Start your free trial, and the rebellion hook grabs you in the first chapter. Returning readers can jump straight in after a quick recap."
       },
       "lastListPrice": 25.22,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09GD882BQ",
@@ -1068,7 +1068,7 @@
       "rating": 4.8,
       "ratingCount": 20000,
       "listPrice": 26.08,
-      "audiblePrice": 22.82,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1096,8 +1096,8 @@
         "q5": "Yes. Start your free trial and continue the crawl. New listeners can also start here, but book one is the best introduction to the world."
       },
       "lastListPrice": 26.08,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09ZJ84HC2",
@@ -1111,7 +1111,7 @@
       "rating": 4.8,
       "ratingCount": 18000,
       "listPrice": 31.62,
-      "audiblePrice": 27.67,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1139,8 +1139,8 @@
         "q5": "Absolutely. Start your free trial and let the masquerade pull you in. If you are already caught up, this is the payoff you have been waiting for."
       },
       "lastListPrice": 31.62,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CDXVN7BB",
@@ -1154,7 +1154,7 @@
       "rating": 4.8,
       "ratingCount": 15000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1182,8 +1182,8 @@
         "q5": "Yes. Start your free trial and continue the crawl. The recap at the start helps returning listeners jump straight in."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DK29VYL1",
@@ -1197,7 +1197,7 @@
       "rating": 4.8,
       "ratingCount": 10000,
       "listPrice": 31.98,
-      "audiblePrice": 27.98,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1225,8 +1225,8 @@
         "q5": "Absolutely. Start your free trial, catch up with the recap, and keep going. Series readers will not want to pause."
       },
       "lastListPrice": 31.98,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FXY2JG27",
@@ -1240,7 +1240,7 @@
       "rating": 4.8,
       "ratingCount": 5000,
       "listPrice": 31.58,
-      "audiblePrice": 27.63,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1268,8 +1268,8 @@
         "q5": "Yes. Start your free trial and jump into the endgame. New readers should begin with book one for the full experience."
       },
       "lastListPrice": 31.58,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00I3PUCIY",
@@ -1283,7 +1283,7 @@
       "rating": 4.6,
       "ratingCount": 90000,
       "listPrice": 23.6,
-      "audiblePrice": 20.65,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1311,8 +1311,8 @@
         "q5": "Absolutely. Start your free trial, and Darrow's first chapter hooks you immediately. It is a complete story that also sets up one of sci-fi's best trilogies."
       },
       "lastListPrice": 23.6,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00R6OOUV8",
@@ -1326,7 +1326,7 @@
       "rating": 4.7,
       "ratingCount": 60000,
       "listPrice": 26.87,
-      "audiblePrice": 23.51,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1354,8 +1354,8 @@
         "q5": "Yes. Start your free trial and continue the saga. A quick recap helps returning listeners jump back in."
       },
       "lastListPrice": 26.87,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B074NGJ6NK",
@@ -1369,7 +1369,7 @@
       "rating": 4.6,
       "ratingCount": 40000,
       "listPrice": 31.35,
-      "audiblePrice": 27.43,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1396,8 +1396,8 @@
         "q5": "Absolutely. Start your free trial, and the opening prologue reconnects you with the world. New readers should start with Red Rising."
       },
       "lastListPrice": 31.35,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07JWDD9DX",
@@ -1411,7 +1411,7 @@
       "rating": 4.7,
       "ratingCount": 30000,
       "listPrice": 31.4,
-      "audiblePrice": 27.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1440,8 +1440,8 @@
         "q5": "Yes. Start your free trial and brace yourself. This is a middle-book gauntlet that rewards committed listeners."
       },
       "lastListPrice": 31.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0C28XJRBP",
@@ -1455,7 +1455,7 @@
       "rating": 4.7,
       "ratingCount": 20000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1484,8 +1484,8 @@
         "q5": "Absolutely. Start your free trial, and the opening chapters reunite you with the cast. Readers who fell off after Iron Gold find this entry especially rewarding."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08GB58KD5",
@@ -1499,7 +1499,7 @@
       "rating": 4.8,
       "ratingCount": 160000,
       "listPrice": 25.22,
-      "audiblePrice": 22.07,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1526,8 +1526,8 @@
         "q5": "Absolutely. Start your free trial, and the amnesia opening hooks you immediately. You will finish it in days and immediately want to recommend it."
       },
       "lastListPrice": 25.22,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B082BHWQCJ",
@@ -1541,7 +1541,7 @@
       "rating": 4.7,
       "ratingCount": 90000,
       "listPrice": 20.52,
-      "audiblePrice": 17.96,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1568,8 +1568,8 @@
         "q5": "Yes. Start your free trial, and Watney's first log entry sets the tone. It is a fast, satisfying listen for any sci-fi fan."
       },
       "lastListPrice": 20.52,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0721NKNHR",
@@ -1583,7 +1583,7 @@
       "rating": 4.3,
       "ratingCount": 40000,
       "listPrice": 18.7,
-      "audiblePrice": 16.36,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1609,8 +1609,8 @@
         "q5": "Absolutely. Start your free trial, and the opening setup drops you into Artemis quickly. No prior Weir knowledge needed."
       },
       "lastListPrice": 18.7,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H8T5TBBS",
@@ -1624,7 +1624,7 @@
       "rating": 4.6,
       "ratingCount": 2000,
       "listPrice": 19.86,
-      "audiblePrice": 17.38,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1651,8 +1651,8 @@
         "q5": "Yes. Start your free trial, and the recap plus new mission hook you in quickly. New listeners should begin with We Are Legion."
       },
       "lastListPrice": 19.86,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B099NZJJXZ",
@@ -1666,7 +1666,7 @@
       "rating": 4.8,
       "ratingCount": 40000,
       "listPrice": 31.62,
-      "audiblePrice": 27.67,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1694,8 +1694,8 @@
         "q5": "Absolutely. Start your free trial, and the opening chapter returns you to the Shire with fresh wonder. This is the version to own."
       },
       "lastListPrice": 31.62,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07GL4J6Z1",
@@ -1709,7 +1709,7 @@
       "rating": 4.6,
       "ratingCount": 20000,
       "listPrice": 21.64,
-      "audiblePrice": 18.94,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1736,8 +1736,8 @@
         "q5": "Yes. Start your free trial, and the opening invocation pulls you in. You do not need any prior knowledge of Homer."
       },
       "lastListPrice": 21.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CJGMWVBM",
@@ -1751,7 +1751,7 @@
       "rating": 4.7,
       "ratingCount": 15000,
       "listPrice": 30.02,
-      "audiblePrice": 26.27,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1778,8 +1778,8 @@
         "q5": "Absolutely. Start your free trial, and the opening rage of Achilles lands immediately. No prior knowledge of the Trojan War is needed."
       },
       "lastListPrice": 30.02,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BXTVJK3Q",
@@ -1793,7 +1793,7 @@
       "rating": 4.8,
       "ratingCount": 15000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1822,8 +1822,8 @@
         "q5": "Absolutely. Start your free trial, and the protagonist's secret mission hooks you in the first chapter. This is a series worth getting in on early."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00WXS68T4",
@@ -1837,7 +1837,7 @@
       "rating": 4.6,
       "ratingCount": 120000,
       "listPrice": 23.77,
-      "audiblePrice": 20.8,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1865,8 +1865,8 @@
         "q5": "Absolutely. Start your free trial, and Feyre's first encounter with the fae hooks you immediately. This is the gateway to one of the biggest fantasy series in the world."
       },
       "lastListPrice": 23.77,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01DYO4MVG",
@@ -1880,7 +1880,7 @@
       "rating": 4.8,
       "ratingCount": 150000,
       "listPrice": 28.54,
-      "audiblePrice": 24.97,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1908,8 +1908,8 @@
         "q5": "Yes. Start your free trial, and the opening chapters immediately reframe book one. You will understand why this entry has a devoted fandom."
       },
       "lastListPrice": 28.54,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GR6QBV2B",
@@ -1923,7 +1923,7 @@
       "rating": 4.7,
       "ratingCount": 1000,
       "listPrice": 18.65,
-      "audiblePrice": 16.32,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1950,8 +1950,8 @@
         "q5": "Yes. Start your free trial, catch up on the series, and be ready when this release arrives. The best way to follow new Maas releases is an Audible membership."
       },
       "lastListPrice": 18.65,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09V5QH7GL",
@@ -1965,7 +1965,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 16.11,
-      "audiblePrice": 14.1,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -1992,8 +1992,8 @@
         "q5": "Absolutely. Start your free trial and experience the opening with full sound design. Fans and newcomers alike will feel the difference immediately."
       },
       "lastListPrice": 16.11,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09X68L3SW",
@@ -2007,7 +2007,7 @@
       "rating": 4.5,
       "ratingCount": 4000,
       "listPrice": 15.03,
-      "audiblePrice": 13.15,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2034,8 +2034,8 @@
         "q5": "Yes. Start your free trial and finish the story in the format you started. The climax is dramatically more intense in this adaptation."
       },
       "lastListPrice": 15.03,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CLSDVYCP",
@@ -2049,7 +2049,7 @@
       "rating": 4.6,
       "ratingCount": 3000,
       "listPrice": 20.63,
-      "audiblePrice": 18.05,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2076,8 +2076,8 @@
         "q5": "Absolutely. Start your free trial and complete Nesta's arc in immersive form. No prior GraphicAudio experience is needed."
       },
       "lastListPrice": 20.63,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B082YHJS14",
@@ -2091,7 +2091,7 @@
       "rating": 4.7,
       "ratingCount": 90000,
       "listPrice": 31.4,
-      "audiblePrice": 27.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2120,8 +2120,8 @@
         "q5": "Absolutely. Start your free trial, and the murder mystery hook lands in the opening chapters. The world gets richer with every hour."
       },
       "lastListPrice": 31.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09MZNTZ54",
@@ -2135,7 +2135,7 @@
       "rating": 4.7,
       "ratingCount": 60000,
       "listPrice": 29.63,
-      "audiblePrice": 25.93,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2164,8 +2164,8 @@
         "q5": "Yes. Start your free trial and continue the saga. The ending is a moment fans will talk about for years."
       },
       "lastListPrice": 29.63,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CGSGXB8Y",
@@ -2179,7 +2179,7 @@
       "rating": 4.7,
       "ratingCount": 50000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2208,8 +2208,8 @@
         "q5": "Absolutely. Start your free trial and experience the crossover payoff. Series readers should not miss this one."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08T1NR1Q7",
@@ -2223,7 +2223,7 @@
       "rating": 4.6,
       "ratingCount": 80000,
       "listPrice": 22.5,
-      "audiblePrice": 19.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2251,8 +2251,8 @@
         "q5": "Absolutely. Start your free trial, and Celaena's first scene establishes the tone. The series only gets bigger from here."
       },
       "lastListPrice": 22.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08V5H41F1",
@@ -2266,7 +2266,7 @@
       "rating": 4.7,
       "ratingCount": 60000,
       "listPrice": 21.83,
-      "audiblePrice": 19.1,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2294,8 +2294,8 @@
         "q5": "Yes. Start your free trial and continue Celaena's journey. Book one's setup pays off quickly here."
       },
       "lastListPrice": 21.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09CH915FH",
@@ -2309,7 +2309,7 @@
       "rating": 4.7,
       "ratingCount": 50000,
       "listPrice": 25.98,
-      "audiblePrice": 22.73,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2337,8 +2337,8 @@
         "q5": "Absolutely. Start your free trial and see the saga transform. This is where Throne of Glass becomes an epic."
       },
       "lastListPrice": 25.98,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B012BQ4GQE",
@@ -2352,7 +2352,7 @@
       "rating": 4.8,
       "ratingCount": 55000,
       "listPrice": 30.16,
-      "audiblePrice": 26.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2380,8 +2380,8 @@
         "q5": "Yes. Start your free trial and watch the saga snap into focus. This is the book where the series hits its stride."
       },
       "lastListPrice": 30.34,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01KIQV5EU",
@@ -2395,7 +2395,7 @@
       "rating": 4.8,
       "ratingCount": 50000,
       "listPrice": 30.34,
-      "audiblePrice": 26.55,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2424,8 +2424,8 @@
         "q5": "Absolutely. Start your free trial and join the march to war. You will want the next book immediately."
       },
       "lastListPrice": 30.89,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07J66Q8BM",
@@ -2439,7 +2439,7 @@
       "rating": 4.9,
       "ratingCount": 60000,
       "listPrice": 31.35,
-      "audiblePrice": 27.43,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2468,8 +2468,8 @@
         "q5": "Yes. Start your free trial and reach the ending of one of the genre's biggest sagas. Clear your weekend first."
       },
       "lastListPrice": 31.35,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09168CSN3",
@@ -2483,7 +2483,7 @@
       "rating": 4.6,
       "ratingCount": 20000,
       "listPrice": 21.83,
-      "audiblePrice": 19.1,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2510,8 +2510,8 @@
         "q5": "Absolutely. Start your free trial and deepen your Throne of Glass experience. New readers can also start here for a gentler entry."
       },
       "lastListPrice": 21.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BVDJ293G",
@@ -2525,7 +2525,7 @@
       "rating": 4.7,
       "ratingCount": 120000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2554,8 +2554,8 @@
         "q5": "Absolutely. Start your free trial, and Violet's first day at Basgiath hooks you immediately. You will understand the hype in one chapter."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0C9V75P93",
@@ -2569,7 +2569,7 @@
       "rating": 4.6,
       "ratingCount": 90000,
       "listPrice": 31.64,
-      "audiblePrice": 27.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2598,8 +2598,8 @@
         "q5": "Yes. Start your free trial and continue the ride. The ending sets up an even bigger world."
       },
       "lastListPrice": 31.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CZF874CW",
@@ -2613,7 +2613,7 @@
       "rating": 4.7,
       "ratingCount": 70000,
       "listPrice": 30.64,
-      "audiblePrice": 26.81,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2642,8 +2642,8 @@
         "q5": "Absolutely. Start your free trial and follow the riders beyond the wards. Fans of the first two books will not be disappointed."
       },
       "lastListPrice": 30.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CKS5T6LM",
@@ -2657,7 +2657,7 @@
       "rating": 4.5,
       "ratingCount": 6000,
       "listPrice": 17.57,
-      "audiblePrice": 15.37,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2684,8 +2684,8 @@
         "q5": "Yes. Start your free trial and hear the dragons roar. Fans and newcomers will both be drawn in instantly."
       },
       "lastListPrice": 17.57,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DWZD6QQ6",
@@ -2699,7 +2699,7 @@
       "rating": 4.6,
       "ratingCount": 4000,
       "listPrice": 20.49,
-      "audiblePrice": 17.93,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2726,8 +2726,8 @@
         "q5": "Absolutely. Start your free trial and experience Onyx Storm with cinematic sound. No prior dramatized-adaptation experience needed."
       },
       "lastListPrice": 20.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F6GBPTF1",
@@ -2741,7 +2741,7 @@
       "rating": 4.6,
       "ratingCount": 3500,
       "listPrice": 21.39,
-      "audiblePrice": 18.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2768,8 +2768,8 @@
         "q5": "Yes. Start your free trial and finish Onyx Storm in full-cast form. The payoff is worth the two-part journey."
       },
       "lastListPrice": 21.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H9M6JFHL",
@@ -2783,7 +2783,7 @@
       "rating": 4.6,
       "ratingCount": 2000,
       "listPrice": 16.44,
-      "audiblePrice": 14.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2811,8 +2811,8 @@
         "q5": "Absolutely. Start your free trial and get a new perspective on the Empyrean world. Series fans will love the backstory."
       },
       "lastListPrice": 16.44,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GYQC35CM",
@@ -2826,7 +2826,7 @@
       "rating": 4.6,
       "ratingCount": 1500,
       "listPrice": 16.44,
-      "audiblePrice": 14.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2853,8 +2853,8 @@
         "q5": "Yes. Start your free trial and explore the extra corners of the Empyrean world. Best enjoyed alongside the main series."
       },
       "lastListPrice": 16.44,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07Q4XWX8C",
@@ -2868,7 +2868,7 @@
       "rating": 4.6,
       "ratingCount": 130000,
       "listPrice": 18.76,
-      "audiblePrice": 16.42,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2895,8 +2895,8 @@
         "q5": "Absolutely. Start your free trial, and the manuscript reveal in the first hours hooks you completely. The ending will leave you arguing about what really happened."
       },
       "lastListPrice": 18.76,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01498HF7E",
@@ -2910,7 +2910,7 @@
       "rating": 4.5,
       "ratingCount": 70000,
       "listPrice": 21.5,
-      "audiblePrice": 18.81,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2936,8 +2936,8 @@
         "q5": "Absolutely. Start your free trial, and the fake-dating setup hooks you in the first chapters. It is a comfort read you will want to revisit."
       },
       "lastListPrice": 21.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01496P8T8",
@@ -2951,7 +2951,7 @@
       "rating": 4.4,
       "ratingCount": 40000,
       "listPrice": 20.52,
-      "audiblePrice": 17.96,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -2977,8 +2977,8 @@
         "q5": "Yes. Start your free trial and continue the Off-Campus series. You can start here without reading book one."
       },
       "lastListPrice": 20.52,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01M0HY5GY",
@@ -2992,7 +2992,7 @@
       "rating": 4.5,
       "ratingCount": 50000,
       "listPrice": 20.72,
-      "audiblePrice": 18.13,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3018,8 +3018,8 @@
         "q5": "Absolutely. Start your free trial and let Dean win you over. No series background needed."
       },
       "lastListPrice": 20.97,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B06XD4BKKP",
@@ -3033,7 +3033,7 @@
       "rating": 4.4,
       "ratingCount": 30000,
       "listPrice": 20.7,
-      "audiblePrice": 18.11,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3059,8 +3059,8 @@
         "q5": "Yes. Start your free trial and meet one of the series' most adult couples. New readers can jump in here."
       },
       "lastListPrice": 20.7,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09FQBDTVS",
@@ -3074,7 +3074,7 @@
       "rating": 4.4,
       "ratingCount": 15000,
       "listPrice": 18.83,
-      "audiblePrice": 16.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3099,8 +3099,8 @@
         "q5": "Absolutely. Start your free trial and reunite with the Off-Campus crew. Best enjoyed after the first four books."
       },
       "lastListPrice": 18.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GL9B9395",
@@ -3114,7 +3114,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 19.32,
-      "audiblePrice": 16.91,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3140,8 +3140,8 @@
         "q5": "Absolutely. Start your free trial and let the secrets unfold. If you like Verity and Gone Girl, this fits right in."
       },
       "lastListPrice": 19.32,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FJNF8PP6",
@@ -3155,7 +3155,7 @@
       "rating": 4.6,
       "ratingCount": 8000,
       "listPrice": 18.3,
-      "audiblePrice": 16.01,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3181,8 +3181,8 @@
         "q5": "Absolutely. Start your free trial and open the first letter. The format hooks you immediately."
       },
       "lastListPrice": 18.3,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H8ZJRX1L",
@@ -3196,7 +3196,7 @@
       "rating": 4.7,
       "ratingCount": 2000,
       "listPrice": 34.59,
-      "audiblePrice": 30.27,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3224,8 +3224,8 @@
         "q5": "Absolutely. Start your free trial and catch up on the hunt. New readers should begin with book one for the full journey."
       },
       "lastListPrice": 34.59,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H4LL4PDG",
@@ -3238,8 +3238,8 @@
       "durationMinutes": 1440,
       "rating": 4.7,
       "ratingCount": 3000,
-      "listPrice": 33.81,
-      "audiblePrice": 29.58,
+      "listPrice": 32.95,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3267,8 +3267,8 @@
         "q5": "Yes. Start your free trial and join the ongoing saga. New listeners should start at book one to meet Jason properly."
       },
       "lastListPrice": 33.81,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GJ733WZB",
@@ -3282,7 +3282,7 @@
       "rating": 4.5,
       "ratingCount": 50000,
       "listPrice": 25.72,
-      "audiblePrice": 22.51,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3309,8 +3309,8 @@
         "q5": "Absolutely. Start your free trial and step into the cat-and-mouse game. Check trigger warnings first, then let it consume you."
       },
       "lastListPrice": 25.72,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GJ7336RD",
@@ -3324,7 +3324,7 @@
       "rating": 4.6,
       "ratingCount": 45000,
       "listPrice": 27.06,
-      "audiblePrice": 23.68,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3351,8 +3351,8 @@
         "q5": "Yes. Start your free trial and complete the duet. The ending is cathartic for readers who loved book one."
       },
       "lastListPrice": 27.06,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FL2T86WF",
@@ -3366,7 +3366,7 @@
       "rating": 4.6,
       "ratingCount": 30000,
       "listPrice": 21.6,
-      "audiblePrice": 18.9,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3392,8 +3392,8 @@
         "q5": "Absolutely. Start your free trial and see why this book took over dark-romance feeds. Trigger warnings apply, then enjoy the ride."
       },
       "lastListPrice": 21.6,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FGK61PVG",
@@ -3407,7 +3407,7 @@
       "rating": 4.5,
       "ratingCount": 20000,
       "listPrice": 21.39,
-      "audiblePrice": 18.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3433,8 +3433,8 @@
         "q5": "Absolutely. Start your free trial and enter the Edge of Darkness. Dark-romance fans will feel right at home."
       },
       "lastListPrice": 21.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GN9B5DQ4",
@@ -3448,7 +3448,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 26.24,
-      "audiblePrice": 22.96,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3474,8 +3474,8 @@
         "q5": "Absolutely. Start your free trial and meet Daggermouth. Dark-romance readers will be hooked early."
       },
       "lastListPrice": 26.24,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0G4XWJQ79",
@@ -3489,7 +3489,7 @@
       "rating": 4.6,
       "ratingCount": 10000,
       "listPrice": 26.79,
-      "audiblePrice": 7.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3515,8 +3515,8 @@
         "q5": "Absolutely. Start your free trial and continue the Shield of Sparrows story. New readers can start with book one for full context."
       },
       "lastListPrice": 26.79,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FQQFHHW6",
@@ -3530,7 +3530,7 @@
       "rating": 4.5,
       "ratingCount": 8000,
       "listPrice": 41.39,
-      "audiblePrice": 36.22,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3557,8 +3557,8 @@
         "q5": "Absolutely. Start your free trial and enter the Starside contest. New-series fans will be in early on a likely phenomenon."
       },
       "lastListPrice": 41.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FVMTQXG4",
@@ -3572,7 +3572,7 @@
       "rating": 4.3,
       "ratingCount": 10000,
       "listPrice": 19.8,
-      "audiblePrice": 17.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3599,8 +3599,8 @@
         "q5": "Absolutely. Start your free trial and meet the sisters. It is a warm, insightful listen for any book club."
       },
       "lastListPrice": 19.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GZWPZL1V",
@@ -3614,7 +3614,7 @@
       "rating": 4.4,
       "ratingCount": 15000,
       "listPrice": 18.65,
-      "audiblePrice": 16.32,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3640,8 +3640,8 @@
         "q5": "Absolutely. Start your free trial and RSVP to the chaos. Rom-com fans will finish it in a day or two."
       },
       "lastListPrice": 18.65,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H9ZBC6CV",
@@ -3655,7 +3655,7 @@
       "rating": 4.6,
       "ratingCount": 10000,
       "listPrice": 22.79,
-      "audiblePrice": 19.94,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3681,8 +3681,8 @@
         "q5": "Absolutely. Start your free trial and watch the sparks fly on set. Rom-com readers will devour it."
       },
       "lastListPrice": 22.79,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DFMZMKFJ",
@@ -3696,7 +3696,7 @@
       "rating": 4.7,
       "ratingCount": 30000,
       "listPrice": 20.97,
-      "audiblePrice": 18.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3722,8 +3722,8 @@
         "q5": "Absolutely. Start your free trial, and you can use the tool before you finish the first chapter. It is the rare self-help book you will apply the same day."
       },
       "lastListPrice": 20.97,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FPGMSSQK",
@@ -3737,7 +3737,7 @@
       "rating": 4.5,
       "ratingCount": 8000,
       "listPrice": 19.8,
-      "audiblePrice": 17.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3764,8 +3764,8 @@
         "q5": "Absolutely. Start your free trial and let Dolly work her magic. Book-club readers will love discussing it."
       },
       "lastListPrice": 19.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F6QPJMKJ",
@@ -3779,7 +3779,7 @@
       "rating": 4.4,
       "ratingCount": 5000,
       "listPrice": 19.8,
-      "audiblePrice": 17.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3805,8 +3805,8 @@
         "q5": "Absolutely. Start your free trial and step into the story. Memoir lovers will find it quietly powerful."
       },
       "lastListPrice": 19.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GZ83XXZC",
@@ -3820,7 +3820,7 @@
       "rating": 4.5,
       "ratingCount": 20000,
       "listPrice": 13.54,
-      "audiblePrice": 11.85,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3846,8 +3846,8 @@
         "q5": "Absolutely. Start your free trial and finish it in one evening. Thriller fans will love the efficiency."
       },
       "lastListPrice": 13.54,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FTB8MDVN",
@@ -3861,7 +3861,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 31.58,
-      "audiblePrice": 27.63,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3887,8 +3887,8 @@
         "q5": "Absolutely. Start your free trial, and the first club meeting introduces the cast with wit and warmth. You will be invested by the end of chapter one."
       },
       "lastListPrice": 31.58,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FTT8BQ7C",
@@ -3902,7 +3902,7 @@
       "rating": 4.5,
       "ratingCount": 3000,
       "listPrice": 22.49,
-      "audiblePrice": 19.68,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3927,8 +3927,8 @@
         "q5": "Absolutely. Start your free trial and step into Theo's world. Literary-fiction readers will be quietly moved."
       },
       "lastListPrice": 22.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FKTTYMVG",
@@ -3942,7 +3942,7 @@
       "rating": 4.5,
       "ratingCount": 4000,
       "listPrice": 23.4,
-      "audiblePrice": 20.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -3968,8 +3968,8 @@
         "q5": "Absolutely. Start your free trial and travel back to Yesteryear. Book clubs will find plenty to discuss."
       },
       "lastListPrice": 23.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F9MJ1XQ6",
@@ -3983,7 +3983,7 @@
       "rating": 4.4,
       "ratingCount": 5000,
       "listPrice": 20.24,
-      "audiblePrice": 17.71,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4008,8 +4008,8 @@
         "q5": "Absolutely. Start your free trial and meet the neighbors. Thriller fans will be hooked quickly."
       },
       "lastListPrice": 20.24,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FWG871V8",
@@ -4023,7 +4023,7 @@
       "rating": 4.5,
       "ratingCount": 4000,
       "listPrice": 26.09,
-      "audiblePrice": 22.83,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4049,8 +4049,8 @@
         "q5": "Absolutely. Start your free trial and let Patchett's voice carry you into the story. Literary readers will savor every chapter."
       },
       "lastListPrice": 26.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F14PDX2Z",
@@ -4064,7 +4064,7 @@
       "rating": 4.8,
       "ratingCount": 20000,
       "listPrice": 19.84,
-      "audiblePrice": 17.36,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4093,7 +4093,7 @@
         "q5": "Absolutely. Start your free trial and hear Platform 9 3/4 like never before. This is the definitive way to start the series."
       },
       "lastListPrice": 31.48,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4108,7 +4108,7 @@
       "rating": 4.5,
       "ratingCount": 3000,
       "listPrice": 19.8,
-      "audiblePrice": 17.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4134,8 +4134,8 @@
         "q5": "Absolutely. Start your free trial and follow the story. Thriller fans will appreciate the momentum."
       },
       "lastListPrice": 19.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F151V9H2",
@@ -4149,7 +4149,7 @@
       "rating": 4.8,
       "ratingCount": 15000,
       "listPrice": 21.28,
-      "audiblePrice": 18.62,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4178,7 +4178,7 @@
         "q5": "Absolutely. Start your free trial and continue the full-cast journey. Fans will love hearing the Chamber come alive."
       },
       "lastListPrice": 31.49,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4193,7 +4193,7 @@
       "rating": 4.8,
       "ratingCount": 10000,
       "listPrice": 35.56,
-      "audiblePrice": 31.12,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4222,7 +4222,7 @@
         "q5": "Absolutely. Start your free trial and end the journey in style. The full-cast finale is a must for series fans."
       },
       "lastListPrice": 47.24,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4237,7 +4237,7 @@
       "rating": 4.8,
       "ratingCount": 12000,
       "listPrice": 21.81,
-      "audiblePrice": 19.08,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4266,7 +4266,7 @@
         "q5": "Absolutely. Start your free trial and hear the Marauders' story anew. A fan-favorite installment gets a fan-favorite production."
       },
       "lastListPrice": 31.49,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4281,7 +4281,7 @@
       "rating": 4.8,
       "ratingCount": 10000,
       "listPrice": 28.85,
-      "audiblePrice": 25.24,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4310,7 +4310,7 @@
         "q5": "Absolutely. Start your free trial and experience the sixth year in full-cast form. The finale lands harder in audio."
       },
       "lastListPrice": 47.24,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4325,7 +4325,7 @@
       "rating": 4.5,
       "ratingCount": 10000,
       "listPrice": 14.01,
-      "audiblePrice": 12.26,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4351,8 +4351,8 @@
         "q5": "Absolutely. Start your free trial and use the first tool today. It is a fast, practical listen for anyone feeling overwhelmed."
       },
       "lastListPrice": 14.01,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F154RT46",
@@ -4366,7 +4366,7 @@
       "rating": 4.8,
       "ratingCount": 12000,
       "listPrice": 35.56,
-      "audiblePrice": 31.12,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4395,7 +4395,7 @@
         "q5": "Absolutely. Start your free trial and take on the fifth year. At 27 hours, one credit buys an enormous production."
       },
       "lastListPrice": 47.24,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": true
     },
     {
@@ -4410,7 +4410,7 @@
       "rating": 4.3,
       "ratingCount": 4000,
       "listPrice": 18.3,
-      "audiblePrice": 16.01,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4435,8 +4435,8 @@
         "q5": "Absolutely. Start your free trial and join the sisters. The secret unfolds at just the right pace."
       },
       "lastListPrice": 18.3,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FY4X5ZFX",
@@ -4450,7 +4450,7 @@
       "rating": 4.6,
       "ratingCount": 6000,
       "listPrice": 21.6,
-      "audiblePrice": 18.9,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4477,8 +4477,8 @@
         "q5": "Absolutely. Start your free trial and hear the scenario unfold. It is journalism that reads like a thriller."
       },
       "lastListPrice": 21.6,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FZRJCQ48",
@@ -4492,7 +4492,7 @@
       "rating": 4.6,
       "ratingCount": 8000,
       "listPrice": 22.5,
-      "audiblePrice": 19.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4518,8 +4518,8 @@
         "q5": "Absolutely. Start your free trial and follow the obsession. You will guess wrong until the final twist."
       },
       "lastListPrice": 22.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07RFSSYBH",
@@ -4533,7 +4533,7 @@
       "rating": 4.8,
       "ratingCount": 185000,
       "listPrice": 18,
-      "audiblePrice": 15.75,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4559,8 +4559,8 @@
         "q5": "Absolutely. Start your free trial and apply the first chapter's principles today. It is the rare self-help book that pays off immediately."
       },
       "lastListPrice": 18,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H85CK6QG",
@@ -4574,7 +4574,7 @@
       "rating": 4.4,
       "ratingCount": 6000,
       "listPrice": 19.32,
-      "audiblePrice": 16.91,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4599,8 +4599,8 @@
         "q5": "Absolutely. Start your free trial and step into the kitchen. Thriller fans will be unsettled in the best way."
       },
       "lastListPrice": 19.32,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GW7DVH6S",
@@ -4614,7 +4614,7 @@
       "rating": 4.5,
       "ratingCount": 5000,
       "listPrice": 24.74,
-      "audiblePrice": 21.65,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4641,8 +4641,8 @@
         "q5": "Absolutely. Start your free trial and follow the reporting. It reads like a Washington thriller."
       },
       "lastListPrice": 24.74,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D6NSD57S",
@@ -4656,7 +4656,7 @@
       "rating": 4.6,
       "ratingCount": 60000,
       "listPrice": 21.87,
-      "audiblePrice": 19.14,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4684,8 +4684,8 @@
         "q5": "Absolutely. Start your free trial and enter Haymitch's Games. You will never read his character the same way again."
       },
       "lastListPrice": 22.29,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B06XPNVB4Q",
@@ -4699,7 +4699,7 @@
       "rating": 4.8,
       "ratingCount": 10000,
       "listPrice": 18.89,
-      "audiblePrice": 16.53,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4726,8 +4726,8 @@
         "q5": "Absolutely. Start your free trial and let the first chapter slow you down. It is a balm for anxious minds."
       },
       "lastListPrice": 18.89,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F6F84RLY",
@@ -4741,7 +4741,7 @@
       "rating": 4.4,
       "ratingCount": 5000,
       "listPrice": 20.24,
-      "audiblePrice": 17.71,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4766,8 +4766,8 @@
         "q5": "Absolutely. Start your free trial and start doubting everything. Thriller fans will love the ride."
       },
       "lastListPrice": 20.24,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FH7LZ33H",
@@ -4781,7 +4781,7 @@
       "rating": 4.7,
       "ratingCount": 1000,
       "listPrice": 24.38,
-      "audiblePrice": 21.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4809,8 +4809,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and join the hive. New readers can start at book one for the full origin."
       },
       "lastListPrice": 24.38,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DQX1JXYT",
@@ -4824,7 +4824,7 @@
       "rating": 4.7,
       "ratingCount": 4000,
       "listPrice": 31.98,
-      "audiblePrice": 27.98,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4852,8 +4852,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and meet the vacuum. New readers should begin with book one for the full joke."
       },
       "lastListPrice": 31.98,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CZ1657J5",
@@ -4867,7 +4867,7 @@
       "rating": 4.6,
       "ratingCount": 3000,
       "listPrice": 23.17,
-      "audiblePrice": 20.27,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4895,8 +4895,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and hit the road. New readers can start here, though book one sets up the world."
       },
       "lastListPrice": 23.17,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H4HPJKVY",
@@ -4910,7 +4910,7 @@
       "rating": 4.7,
       "ratingCount": 1000,
       "listPrice": 26.79,
-      "audiblePrice": 23.44,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4938,8 +4938,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial, download it, and the rebirth hook lands in the first chapter. LitRPG fans will be immediately engaged."
       },
       "lastListPrice": 26.79,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07KYV91LG",
@@ -4953,7 +4953,7 @@
       "rating": 4.8,
       "ratingCount": 10000,
       "listPrice": 17.02,
-      "audiblePrice": 14.89,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -4981,8 +4981,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and join the dragons. New readers can start here, though book one is the best introduction."
       },
       "lastListPrice": 17.02,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07BFH32TN",
@@ -4996,7 +4996,7 @@
       "rating": 4.8,
       "ratingCount": 9000,
       "listPrice": 19.49,
-      "audiblePrice": 17.05,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5024,8 +5024,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and cross the ocean. New readers can start here without prior series knowledge."
       },
       "lastListPrice": 19.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07ZDM41RB",
@@ -5039,7 +5039,7 @@
       "rating": 4.7,
       "ratingCount": 5000,
       "listPrice": 22.49,
-      "audiblePrice": 19.68,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5067,8 +5067,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and step into the legends. No prior Wings of Fire knowledge is required."
       },
       "lastListPrice": 22.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07DJTKWRF",
@@ -5082,7 +5082,7 @@
       "rating": 4.7,
       "ratingCount": 1000,
       "listPrice": 6.3,
-      "audiblePrice": 5.51,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5109,8 +5109,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and let your child enjoy it immediately. It is a perfect first audiobook."
       },
       "lastListPrice": 6.3,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0C3NS71SX",
@@ -5124,7 +5124,7 @@
       "rating": 4.8,
       "ratingCount": 5000,
       "listPrice": 9.64,
-      "audiblePrice": 8.44,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5152,8 +5152,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and let your child meet Quinn. It is a perfect first audiobook."
       },
       "lastListPrice": 9.64,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H3MHQH5W",
@@ -5167,7 +5167,7 @@
       "rating": 4.8,
       "ratingCount": 2000,
       "listPrice": 21.62,
-      "audiblePrice": 18.92,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5194,8 +5194,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and join Sam's fight. It is a quick, exciting listen for young readers."
       },
       "lastListPrice": 21.62,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0189PVAWY",
@@ -5209,7 +5209,7 @@
       "rating": 4.6,
       "ratingCount": 55000,
       "listPrice": 23.61,
-      "audiblePrice": 7.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5238,8 +5238,8 @@
         "Unabridged"
       ],
       "lastListPrice": 14.95,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0741F3M7C",
@@ -5253,7 +5253,7 @@
       "rating": 4.6,
       "ratingCount": 130000,
       "listPrice": 29.69,
-      "audiblePrice": 25.98,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5282,8 +5282,8 @@
         "Unabridged"
       ],
       "lastListPrice": 19.95,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07JR5C68S",
@@ -5297,7 +5297,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.89,
-      "audiblePrice": 17.4,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5324,8 +5324,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.89,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CVBL96F9",
@@ -5339,7 +5339,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.57,
-      "audiblePrice": 15.37,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5366,8 +5366,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.57,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CYQYCZ9B",
@@ -5381,7 +5381,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.05,
-      "audiblePrice": 17.54,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5408,8 +5408,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.05,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FL88D4F3",
@@ -5423,7 +5423,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 29.99,
-      "audiblePrice": 26.24,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5450,8 +5450,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 29.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09M8WKTN7",
@@ -5492,7 +5492,7 @@
       },
       "contentSource": "template",
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": false
     },
     {
@@ -5507,7 +5507,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.32,
-      "audiblePrice": 16.91,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5534,8 +5534,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.32,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08G6MHRWC",
@@ -5549,7 +5549,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 23.45,
-      "audiblePrice": 20.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5577,8 +5577,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.45,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07Y2BK67J",
@@ -5592,7 +5592,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 23.09,
-      "audiblePrice": 20.2,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5620,8 +5620,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09KHH7PNR",
@@ -5635,7 +5635,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 25.22,
-      "audiblePrice": 22.07,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5663,8 +5663,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 25.22,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07PMFKLTY",
@@ -5678,7 +5678,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 27.15,
-      "audiblePrice": 23.76,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5706,8 +5706,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 27.15,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09GDGBZ7P",
@@ -5721,7 +5721,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.95,
-      "audiblePrice": 17.46,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5749,8 +5749,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.95,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FBH1651D",
@@ -5764,7 +5764,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 23.99,
-      "audiblePrice": 20.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5792,8 +5792,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BS29375V",
@@ -5807,7 +5807,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 21.83,
-      "audiblePrice": 19.1,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5835,8 +5835,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 21.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0971S2NHB",
@@ -5850,7 +5850,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.76,
-      "audiblePrice": 19.92,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5877,8 +5877,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.76,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08CGVNFXL",
@@ -5892,7 +5892,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.76,
-      "audiblePrice": 19.92,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5919,8 +5919,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.76,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D84T7KYW",
@@ -5934,7 +5934,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 25.31,
-      "audiblePrice": 22.15,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -5961,8 +5961,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 25.31,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00GFSQGIQ",
@@ -5976,7 +5976,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 29.69,
-      "audiblePrice": 25.98,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6003,8 +6003,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 29.69,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DYPJCRPC",
@@ -6018,7 +6018,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.87,
-      "audiblePrice": 18.26,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6045,8 +6045,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.87,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08BX6NJR5",
@@ -6060,7 +6060,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.83,
-      "audiblePrice": 16.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6087,8 +6087,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08TPS8133",
@@ -6102,7 +6102,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.34,
-      "audiblePrice": 17.8,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6129,8 +6129,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.34,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F7J31NTT",
@@ -6144,7 +6144,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.87,
-      "audiblePrice": 18.26,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6171,8 +6171,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.87,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F4RV7WFF",
@@ -6186,7 +6186,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.59,
-      "audiblePrice": 17.14,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6213,8 +6213,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.59,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HF5G1DFF",
@@ -6228,7 +6228,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 24.95,
-      "audiblePrice": 21.83,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6256,8 +6256,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 24.95,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08W2C26MW",
@@ -6271,7 +6271,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 4.94,
-      "audiblePrice": 4.32,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6299,8 +6299,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 4.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0821TS16V",
@@ -6314,7 +6314,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.83,
-      "audiblePrice": 16.48,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6341,8 +6341,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GJTC6LTK",
@@ -6356,7 +6356,7 @@
       "rating": 4.7,
       "ratingCount": 3000,
       "listPrice": 21.09,
-      "audiblePrice": 18.45,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6384,8 +6384,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and follow the analysis. It is an engaging listen for anyone following these events."
       },
       "lastListPrice": 21.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H52ZN3S6",
@@ -6399,7 +6399,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.66,
-      "audiblePrice": 18.08,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6426,8 +6426,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.66,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CCPM48HL",
@@ -6441,7 +6441,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.76,
-      "audiblePrice": 16.42,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6468,8 +6468,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.76,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CTHX6BNM",
@@ -6483,7 +6483,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.88,
-      "audiblePrice": 16.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6510,8 +6510,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.88,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DBMTGC3K",
@@ -6525,7 +6525,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.88,
-      "audiblePrice": 16.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6552,8 +6552,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.88,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FCZX2J1V",
@@ -6567,7 +6567,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.24,
-      "audiblePrice": 15.09,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6594,8 +6594,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.24,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D8R7BC4C",
@@ -6609,7 +6609,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.32,
-      "audiblePrice": 17.78,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6636,8 +6636,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.32,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DW4X4RSP",
@@ -6651,7 +6651,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.09,
-      "audiblePrice": 16.7,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6678,8 +6678,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FV9699MD",
@@ -6692,8 +6692,8 @@
       "durationMinutes": 600,
       "rating": 4.5,
       "ratingCount": 0,
-      "listPrice": 15.99,
-      "audiblePrice": 13.99,
+      "listPrice": 16.23,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6720,8 +6720,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 15.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GW16V4MF",
@@ -6735,7 +6735,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 24.09,
-      "audiblePrice": 21.08,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6763,8 +6763,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 24.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0B8QSYV7D",
@@ -6778,7 +6778,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.51,
-      "audiblePrice": 15.32,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6805,8 +6805,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.51,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BV5PZY3F",
@@ -6820,7 +6820,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.29,
-      "audiblePrice": 15.13,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6847,8 +6847,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.29,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F94KQQ6X",
@@ -6862,7 +6862,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.54,
-      "audiblePrice": 16.22,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6889,8 +6889,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.54,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BV549933",
@@ -6904,7 +6904,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.56,
-      "audiblePrice": 17.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6931,8 +6931,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.56,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FB63LD1T",
@@ -6946,7 +6946,7 @@
       "rating": 4.7,
       "ratingCount": 15000,
       "listPrice": 21.09,
-      "audiblePrice": 18.45,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -6972,8 +6972,8 @@
         "q5": "Absolutely. Start your free trial and follow the cold case. New readers can jump in without reading the earlier books."
       },
       "lastListPrice": 21.09,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FF666V97",
@@ -6987,7 +6987,7 @@
       "rating": 4.8,
       "ratingCount": 20000,
       "listPrice": 13.62,
-      "audiblePrice": 11.92,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7014,8 +7014,8 @@
         "q5": "Absolutely. Start your free trial and open the first journal. You will want to collect every volume."
       },
       "lastListPrice": 13.62,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00X0TKUS0",
@@ -7029,7 +7029,7 @@
       "rating": 4.6,
       "ratingCount": 30000,
       "listPrice": 28.32,
-      "audiblePrice": 24.78,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7057,8 +7057,8 @@
         "q5": "Absolutely. Start your free trial and learn one law per commute. It is a dense, rewarding listen for anyone navigating power."
       },
       "lastListPrice": 28.32,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07C3WM559",
@@ -7072,7 +7072,7 @@
       "rating": 4.7,
       "ratingCount": 10000,
       "listPrice": 18.5,
-      "audiblePrice": 16.19,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7100,8 +7100,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial, download Ethic, and you will be drawn into the story in the first chapter. This is where the series starts."
       },
       "lastListPrice": 18.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GHSNJQ6Z",
@@ -7115,7 +7115,7 @@
       "rating": 4.6,
       "ratingCount": 3000,
       "listPrice": 21.39,
-      "audiblePrice": 18.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7143,8 +7143,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and join the Wrights in Shadow Cove. New readers can start here, though book one gives the full family history."
       },
       "lastListPrice": 21.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0G53ZL9GN",
@@ -7158,7 +7158,7 @@
       "rating": 4.6,
       "ratingCount": 2500,
       "listPrice": 21.62,
-      "audiblePrice": 18.92,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7186,8 +7186,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and see the Wrights tested like never before. Series fans should not miss this entry."
       },
       "lastListPrice": 21.62,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GH2LS337",
@@ -7201,7 +7201,7 @@
       "rating": 4.6,
       "ratingCount": 2000,
       "listPrice": 20.66,
-      "audiblePrice": 18.08,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7229,8 +7229,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and unravel the lies with the Nutfield family. New readers can jump in here."
       },
       "lastListPrice": 20.66,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GJTXLD6V",
@@ -7244,7 +7244,7 @@
       "rating": 4.6,
       "ratingCount": 2000,
       "listPrice": 22.51,
-      "audiblePrice": 19.7,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7272,8 +7272,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and return to Shadow Cove. Series readers will want this immediately."
       },
       "lastListPrice": 22.51,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H45GLTSX",
@@ -7315,7 +7315,7 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and dive into 2080. Short-story fans will find something to love in every chapter."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
+      "lastCheckedAt": "2026-10-16",
       "onSale": false
     },
     {
@@ -7330,7 +7330,7 @@
       "rating": 4.7,
       "ratingCount": 1000,
       "listPrice": 3.83,
-      "audiblePrice": 3.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7358,8 +7358,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and climb aboard the bus. It is a perfect first science audiobook for young listeners."
       },
       "lastListPrice": 3.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B001QKBHG4",
@@ -7373,7 +7373,7 @@
       "rating": 4.6,
       "ratingCount": 85000,
       "listPrice": 33.74,
-      "audiblePrice": 29.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7402,8 +7402,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and begin the adventure. Fans of Sanderson and high fantasy will be hooked instantly."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01COR1GM2",
@@ -7411,13 +7411,13 @@
       "title": "Never Split the Difference: Negotiating as if Your Life Depended on It",
       "author": "Chris Voss",
       "narrator": "Michael Kramer",
-      "coverUrl": "https://m.media-amazon.com/images/I/51gx6VN0-UL._SL500_.jpg",
+      "coverUrl": "https://m.media-amazon.com/images/I/51pWGLrr2vL._SL500_.jpg",
       "duration": "8h 0m",
       "durationMinutes": 480,
       "rating": 4.6,
       "ratingCount": 40000,
       "listPrice": 23.39,
-      "audiblePrice": 20.47,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7443,8 +7443,8 @@
         "q5": "Absolutely. Start your free trial and put the first tactic to work today. It is one of the most immediately useful business audiobooks."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09XRF2SWN",
@@ -7458,7 +7458,7 @@
       "rating": 4.5,
       "ratingCount": 35000,
       "listPrice": 20.16,
-      "audiblePrice": 17.64,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7485,8 +7485,8 @@
         "q5": "Absolutely. Start your free trial and step inside the house. If you love domestic suspense, you will be glued to this one."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B086DL5TVZ",
@@ -7500,7 +7500,7 @@
       "rating": 4.5,
       "ratingCount": 20000,
       "listPrice": 20.25,
-      "audiblePrice": 17.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7528,8 +7528,8 @@
         "q5": "Absolutely. Start your free trial and join the club. You will want the whole series after the first chapter."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01D2749JA",
@@ -7543,7 +7543,7 @@
       "rating": 3.8,
       "ratingCount": 15000,
       "listPrice": 30.34,
-      "audiblePrice": 26.55,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7572,8 +7572,8 @@
         "q5": "Absolutely. Start your free 30-day Audible trial and jump into the long, immersive saga. It is a great fit for listeners who want maximum length."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08MVH18BX",
@@ -7587,7 +7587,7 @@
       "rating": 4.5,
       "ratingCount": 25000,
       "listPrice": 23.45,
-      "audiblePrice": 20.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7614,8 +7614,8 @@
         "q5": "Absolutely. Start your free trial and join the mission. If you like military sci-fi with a big alien threat, this delivers."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B00I0A6HUO",
@@ -7629,7 +7629,7 @@
       "rating": 4.4,
       "ratingCount": 30000,
       "listPrice": 23.39,
-      "audiblePrice": 20.47,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7655,8 +7655,8 @@
         "q5": "Absolutely. Start your free trial and get the straight talk. It is a must-listen for anyone leading through hard times."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DYGHQ7Z4",
@@ -7670,7 +7670,7 @@
       "rating": 4.2,
       "ratingCount": 5000,
       "listPrice": 22.3,
-      "audiblePrice": 19.51,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7696,8 +7696,8 @@
         "q5": "Absolutely. Start your free trial and enter the story. It is a gripping, character-first suspense listen."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GRCDVC6D",
@@ -7711,7 +7711,7 @@
       "rating": 4.3,
       "ratingCount": 10000,
       "listPrice": 32.95,
-      "audiblePrice": 28.83,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7739,8 +7739,8 @@
         "q5": "Absolutely. Start your free trial and board the Starship New Jersey. It is a strong pick for space-opera fans who want a lot of listening per credit."
       },
       "lastListPrice": 0,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BSMNGYV6",
@@ -7754,7 +7754,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 15.75,
-      "audiblePrice": 13.78,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7781,8 +7781,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 15.75,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BZDV68MZ",
@@ -7796,7 +7796,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 15.39,
-      "audiblePrice": 13.47,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7823,8 +7823,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 15.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GH2GQ7QT",
@@ -7838,7 +7838,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 14.3,
-      "audiblePrice": 12.51,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7865,8 +7865,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 14.3,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BGYGSJFZ",
@@ -7880,7 +7880,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 14.2,
-      "audiblePrice": 12.43,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7907,8 +7907,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 14.2,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F257H5YF",
@@ -7922,7 +7922,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 21.11,
-      "audiblePrice": 18.47,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7949,8 +7949,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 21.11,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B084NXG7M7",
@@ -7964,7 +7964,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 11.49,
-      "audiblePrice": 10.05,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -7992,8 +7992,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 11.49,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DZG59J1Y",
@@ -8007,7 +8007,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.61,
-      "audiblePrice": 15.41,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8034,8 +8034,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.61,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DJ3GRQJB",
@@ -8049,7 +8049,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 12.16,
-      "audiblePrice": 10.64,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8076,8 +8076,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 12.16,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B006PG9D6A",
@@ -8091,7 +8091,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 3.83,
-      "audiblePrice": 3.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8118,8 +8118,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 3.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DPRBDZ2X",
@@ -8133,7 +8133,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 4.5,
-      "audiblePrice": 3.94,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8160,8 +8160,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 4.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DPJH5GL9",
@@ -8175,7 +8175,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 5.4,
-      "audiblePrice": 4.73,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8202,8 +8202,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 5.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B086BYG436",
@@ -8217,7 +8217,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 4.5,
-      "audiblePrice": 3.94,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8244,8 +8244,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 4.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CPFVG97Z",
@@ -8259,7 +8259,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 5.31,
-      "audiblePrice": 4.65,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8286,8 +8286,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 5.31,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B01HFMN4FS",
@@ -8301,7 +8301,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.35,
-      "audiblePrice": 17.81,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8329,8 +8329,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.35,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000F2C704",
@@ -8344,7 +8344,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 2.94,
-      "audiblePrice": 2.57,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8371,8 +8371,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 2.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000G12CJ0",
@@ -8386,7 +8386,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 2.94,
-      "audiblePrice": 2.57,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8413,8 +8413,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 2.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000FUG5RW",
@@ -8428,7 +8428,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 2.94,
-      "audiblePrice": 2.57,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8455,8 +8455,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 2.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000F2C70Y",
@@ -8470,7 +8470,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 2.94,
-      "audiblePrice": 2.57,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8497,8 +8497,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 2.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H5L3LJTR",
@@ -8512,7 +8512,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.8,
-      "audiblePrice": 19.95,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8539,8 +8539,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H2LQ5GBQ",
@@ -8554,7 +8554,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 32.95,
-      "audiblePrice": 28.83,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8581,8 +8581,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 32.95,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0H61WBJH5",
@@ -8596,7 +8596,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.8,
-      "audiblePrice": 17.33,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8623,8 +8623,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08JMBPZ3B",
@@ -8637,8 +8637,8 @@
       "durationMinutes": 600,
       "rating": 4.5,
       "ratingCount": 0,
-      "listPrice": 30.27,
-      "audiblePrice": 26.49,
+      "listPrice": 29.25,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8665,8 +8665,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 30.27,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FY448PT1",
@@ -8680,7 +8680,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.06,
-      "audiblePrice": 15.8,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8707,8 +8707,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.06,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BXBCK8NT",
@@ -8722,7 +8722,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.16,
-      "audiblePrice": 19.39,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8749,8 +8749,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.16,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DNG1GCHK",
@@ -8764,7 +8764,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.38,
-      "audiblePrice": 19.58,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8791,8 +8791,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.38,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09VTJ3YF3",
@@ -8806,7 +8806,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.54,
-      "audiblePrice": 15.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8833,8 +8833,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.54,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GMZ53Y12",
@@ -8848,7 +8848,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 16.77,
-      "audiblePrice": 14.67,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8875,8 +8875,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 16.77,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0G2ZM7KB5",
@@ -8890,7 +8890,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.51,
-      "audiblePrice": 19.7,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8917,8 +8917,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.51,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BLTN97BB",
@@ -8932,7 +8932,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.5,
-      "audiblePrice": 19.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -8960,8 +8960,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D2Y986JS",
@@ -8975,7 +8975,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.85,
-      "audiblePrice": 16.49,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9002,8 +9002,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.85,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F8W7V8T3",
@@ -9017,7 +9017,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.99,
-      "audiblePrice": 17.49,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9044,8 +9044,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0C118Y6T8",
@@ -9059,7 +9059,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 25.25,
-      "audiblePrice": 22.09,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9087,8 +9087,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 25.25,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0F76KBW7Y",
@@ -9102,7 +9102,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 15.7,
-      "audiblePrice": 13.74,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9129,8 +9129,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 15.7,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B07BFJF8PP",
@@ -9144,7 +9144,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 4.8,
-      "audiblePrice": 4.2,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9171,8 +9171,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 4.8,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HDPWKVNS",
@@ -9186,7 +9186,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.61,
-      "audiblePrice": 15.41,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9213,8 +9213,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.61,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09W61K2J4",
@@ -9228,7 +9228,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.5,
-      "audiblePrice": 19.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9256,8 +9256,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.5,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CXF6GC85",
@@ -9271,7 +9271,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 23.9,
-      "audiblePrice": 20.91,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9299,8 +9299,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.9,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FWMK9218",
@@ -9314,7 +9314,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 30.31,
-      "audiblePrice": 26.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9341,8 +9341,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 30.31,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0B94W54D6",
@@ -9356,7 +9356,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 15.39,
-      "audiblePrice": 13.47,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9383,8 +9383,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 15.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08W1TJXXT",
@@ -9398,7 +9398,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 16.13,
-      "audiblePrice": 14.11,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9425,8 +9425,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 16.13,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B08M6YB7LV",
@@ -9440,7 +9440,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 16.4,
-      "audiblePrice": 14.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9468,8 +9468,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 16.4,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0GKDVH9QG",
@@ -9483,7 +9483,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 7.99,
-      "audiblePrice": 7.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9510,8 +9510,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 7.99,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BX1P8GG3",
@@ -9525,7 +9525,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 21.59,
-      "audiblePrice": 18.89,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9552,8 +9552,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 21.59,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B09RYTHGGQ",
@@ -9567,7 +9567,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.29,
-      "audiblePrice": 15.13,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9594,8 +9594,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.29,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B096YCZLTL",
@@ -9609,7 +9609,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 24.55,
-      "audiblePrice": 6.99,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9637,8 +9637,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.38,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000GB7EAM",
@@ -9652,7 +9652,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 2.94,
-      "audiblePrice": 2.57,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9679,8 +9679,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 2.94,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HGMWZX63",
@@ -9694,7 +9694,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 16.01,
-      "audiblePrice": 14.01,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9721,8 +9721,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 16.01,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HD1H3VDC",
@@ -9736,7 +9736,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 24.56,
-      "audiblePrice": 21.49,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9763,8 +9763,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0FC374L8Y",
@@ -9778,7 +9778,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 14.83,
-      "audiblePrice": 12.98,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9805,8 +9805,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 14.83,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HFYRRB4H",
@@ -9820,7 +9820,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.51,
-      "audiblePrice": 19.7,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9847,8 +9847,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.51,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0DCC6RXRN",
@@ -9862,7 +9862,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 23.17,
-      "audiblePrice": 20.27,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9890,8 +9890,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 23.17,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HGBNSKMB",
@@ -9905,7 +9905,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.93,
-      "audiblePrice": 15.69,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9932,8 +9932,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.93,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0G72XBJ9M",
@@ -9947,7 +9947,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.24,
-      "audiblePrice": 17.71,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -9974,8 +9974,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.24,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B002E04DUM",
@@ -9989,7 +9989,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 3.53,
-      "audiblePrice": 3.09,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10016,8 +10016,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 3.53,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D2LWX9F7",
@@ -10031,7 +10031,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 18.88,
-      "audiblePrice": 16.52,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10059,8 +10059,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 18.88,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0BW4R2NY5",
@@ -10074,7 +10074,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 17.54,
-      "audiblePrice": 15.35,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10101,8 +10101,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 17.54,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0CDMXHBFD",
@@ -10116,7 +10116,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 13.39,
-      "audiblePrice": 11.72,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10143,22 +10143,22 @@
       },
       "contentSource": "template",
       "lastListPrice": 13.39,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0HD6TF9WS",
       "slug": "that-time-i-got-reincarnated-as-a-slime-vol-10-fuse",
       "title": "That Time I Got Reincarnated as a Slime, Vol. 10",
       "author": "Fuse",
-      "narrator": "",
+      "narrator": "Abby Espiritu",
       "coverUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif",
       "duration": "10h 0m",
       "durationMinutes": 600,
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 24.56,
-      "audiblePrice": 21.49,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10185,8 +10185,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 24.56,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000TMD8BC",
@@ -10200,7 +10200,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 20.44,
-      "audiblePrice": 17.89,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10227,8 +10227,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 20.44,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B000M9BKVM",
@@ -10242,7 +10242,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 19.35,
-      "audiblePrice": 16.93,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10269,8 +10269,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 19.35,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     },
     {
       "asin": "B0D6T5Q2S2",
@@ -10284,7 +10284,7 @@
       "rating": 4.5,
       "ratingCount": 0,
       "listPrice": 22.61,
-      "audiblePrice": 19.78,
+      "audiblePrice": 0,
       "isCreditEligible": true,
       "isPlusCatalog": false,
       "categories": [
@@ -10311,8 +10311,8 @@
       },
       "contentSource": "template",
       "lastListPrice": 22.61,
-      "lastCheckedAt": "2026-10-13",
-      "onSale": false
+      "lastCheckedAt": "2026-10-16",
+      "onSale": true
     }
   ]
 }
