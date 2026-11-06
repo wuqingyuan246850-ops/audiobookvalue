@@ -158,5 +158,17 @@
   {
     "from": "/audiobooks/a-short-history-of-nearly-everything-bill-bryson",
     "to": "/"
+  },
+  {
+    "from": "/audiobooks/ethic-ii-ashley-antoinette",
+    "to": "/category/fiction"
+  },
+  {
+    "from": "/audiobooks/the-cartel-6-the-demise-ashley-jaquavis",
+    "to": "/category/fiction"
+  },
+  {
+    "from": "/audiobooks/ethic-ashley-antoinette",
+    "to": "/category/romance"
   }
 ]

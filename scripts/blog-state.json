@@ -1,5 +1,5 @@
 {
-  "lastDate": "2026-11-05",
+  "lastDate": "2026-11-06",
   "seenAsins": [
     "B08C8XFQMN",
     "B092P12K71",
@@ -123,12 +123,10 @@
     "B0H3MHQH5W",
     "B0189PVAWY",
     "B0741F3M7C",
-    "B07JR5C68S",
     "B0CVBL96F9",
     "B0CYQYCZ9B",
     "B0FL88D4F3",
     "B09M8WKTN7",
-    "B01HFM8AMA",
     "B08G6MHRWC",
     "B07Y2BK67J",
     "B09KHH7PNR",
@@ -165,7 +163,6 @@
     "B0FB63LD1T",
     "B0FF666V97",
     "B00X0TKUS0",
-    "B07C3WM559",
     "B0GHSNJQ6Z",
     "B0G53ZL9GN",
     "B0GH2LS337",
@@ -394,12 +391,10 @@
     "B0H3MHQH5W": 21.62,
     "B0189PVAWY": 23.61,
     "B0741F3M7C": 29.69,
-    "B07JR5C68S": 19.89,
     "B0CVBL96F9": 17.57,
     "B0CYQYCZ9B": 20.05,
     "B0FL88D4F3": 29.99,
     "B09M8WKTN7": 0,
-    "B01HFM8AMA": 19.32,
     "B08G6MHRWC": 23.45,
     "B07Y2BK67J": 23.09,
     "B09KHH7PNR": 25.22,
@@ -436,7 +431,6 @@
     "B0FB63LD1T": 21.09,
     "B0FF666V97": 13.62,
     "B00X0TKUS0": 28.32,
-    "B07C3WM559": 18.5,
     "B0GHSNJQ6Z": 21.39,
     "B0G53ZL9GN": 21.62,
     "B0GH2LS337": 20.66,
@@ -665,12 +659,10 @@
     "B0H3MHQH5W": false,
     "B0189PVAWY": false,
     "B0741F3M7C": false,
-    "B07JR5C68S": false,
     "B0CVBL96F9": false,
     "B0CYQYCZ9B": false,
     "B0FL88D4F3": false,
     "B09M8WKTN7": false,
-    "B01HFM8AMA": false,
     "B08G6MHRWC": false,
     "B07Y2BK67J": false,
     "B09KHH7PNR": false,
@@ -707,7 +699,6 @@
     "B0FB63LD1T": false,
     "B0FF666V97": false,
     "B00X0TKUS0": false,
-    "B07C3WM559": false,
     "B0GHSNJQ6Z": false,
     "B0G53ZL9GN": false,
     "B0GH2LS337": false,
@@ -814,19 +805,13 @@
     "B0DPR8CZNC": false
   },
   "changesToday": {
-    "newAsins": [
-      "B0D3QQMJ3L",
-      "B092L9BLB8",
-      "B0CRVX4J7R",
-      "B0DPR8CZNC"
-    ],
-    "onSaleAsins": [
-      "B0D3QQMJ3L",
-      "B092L9BLB8",
-      "B0CRVX4J7R",
-      "B0DPR8CZNC"
-    ],
+    "newAsins": [],
+    "onSaleAsins": [],
     "priceDropAsins": [],
-    "removedAsins": []
+    "removedAsins": [
+      "B07JR5C68S",
+      "B01HFM8AMA",
+      "B07C3WM559"
+    ]
   }
 }
