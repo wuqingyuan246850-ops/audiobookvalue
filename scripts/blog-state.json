@@ -1,5 +1,5 @@
 {
-  "lastDate": "2026-11-24",
+  "lastDate": "2026-11-26",
   "seenAsins": [
     "B08C8XFQMN",
     "B092P12K71",
@@ -562,7 +562,7 @@
     "B0866724DK": 15.03,
     "B0DWZP72MG": 28.13,
     "B0GHT2DP9R": 15.95,
-    "B0HRXHSKTJ": 20.28
+    "B0HRXHSKTJ": 19.32
   },
   "onSaleMap": {
     "B08C8XFQMN": false,
@@ -850,7 +850,7 @@
     "newAsins": [],
     "onSaleAsins": [],
     "priceDropAsins": [
-      "B0BVDJ293G"
+      "B0HRXHSKTJ"
     ],
     "removedAsins": []
   }
